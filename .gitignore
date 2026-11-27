@@ -1,0 +1,4 @@
+# generated when the scripts run
+__pycache__/
+*.pyc
+.DS_Store

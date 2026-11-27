@@ -1,0 +1,22 @@
+# regenerated 2026-11-27; see DATA_SOURCES.md for provider versions and access dates
+path,bytes,sha256,provenance,licence
+global_hsw/data/country_ntl_annual.csv,270356,29e94215239f5c1f8efa84db31cc82ea098772a4a6ce57a911a6260291ecfb88,NOAA/EOG VNL annual composites via Google Earth Engine; author-derived country reduction,CC BY 4.0
+global_hsw/data/country_ntl_bands.csv,256037,6d6cd1e61388528b75b381191efc39493447272cd1a802472c437d5276eefd8c,NOAA/EOG VNL annual composites via Google Earth Engine; author-derived country reduction,CC BY 4.0
+global_hsw/data/country_ntl_monthly.csv,2364162,9c53daf16f2b198591f14fa904c0a9a9c45d83323f0eae81d47f57b5931b307b,NOAA VIIRS monthly VCMSLCFG via Google Earth Engine; author-derived country reduction,CC BY 4.0
+global_hsw/data/country_dmsp_annual.csv,274180,6631e89ee86d9364f8ac93073de7b9a430acc034c0bc88e066cadf3963408b56,NOAA DMSP-OLS stable lights via Google Earth Engine; author-derived country reduction,public domain
+global_hsw/data/country_bgnoise_annual.csv,66010,28f2e904651a44b7c76c2cbfa065a66e14e7776882ec3bf1bddb04584662fa4a,NOAA VIIRS monthly VCMSLCFG via Google Earth Engine; author-derived pixel-mask reductions,CC BY 4.0
+global_hsw/data/country_bgnoise_scale.csv,21331,83e401ec489a19e225d4e3c6f98cdb5eb5fcd75b1d625bcbc97f6669123168d5,NOAA VIIRS monthly VCMSLCFG via Google Earth Engine; author-derived resolution check,CC BY 4.0
+global_hsw/data/gdp_constant/API_NY.GDP.MKTP.KD_DS2_en_csv_v2_64492.csv,301630,d09f8adfadddcf7cda07d2260ea062793a837a7c1b1614e29f8aac5e18bd051a,World Bank WDI NY.GDP.MKTP.KD bulk CSV,CC BY 4.0
+global_hsw/data/gdp_constant/Metadata_Country_API_NY.GDP.MKTP.KD_DS2_en_csv_v2_64492.csv,65232,eb2b248a5a2dd23d0238b210475ca8a3753d0ae7b1207828c7db377c592880a1,World Bank WDI country metadata,CC BY 4.0
+global_hsw/data/gdp_constant/Metadata_Indicator_API_NY.GDP.MKTP.KD_DS2_en_csv_v2_64492.csv,844,a40d9010ed615488854eb37984509808bc1dea05b6eca6b01c3ff4e45fe183b2,World Bank WDI indicator metadata,CC BY 4.0
+global_hsw/data/gdppc_constant/API_NY.GDP.PCAP.KD_DS2_en_csv_v2_71952.csv,305119,5008f829cebaba3d7303a8505aa50aa9158c5a926b2c1483bb5eaeffa761552e,World Bank WDI NY.GDP.PCAP.KD bulk CSV,CC BY 4.0
+global_hsw/data/gdppc_constant/Metadata_Country_API_NY.GDP.PCAP.KD_DS2_en_csv_v2_71952.csv,65232,eb2b248a5a2dd23d0238b210475ca8a3753d0ae7b1207828c7db377c592880a1,World Bank WDI country metadata,CC BY 4.0
+global_hsw/data/gdppc_constant/Metadata_Indicator_API_NY.GDP.PCAP.KD_DS2_en_csv_v2_71952.csv,950,afbafae655c8dc1103b25157280dae353f2f40d74d6f56871a0dbeb98a2a30a0,World Bank WDI indicator metadata,CC BY 4.0
+global_hsw/data/pwt110.xlsx,5839841,7b337e94f39dfe304bc459e433f8ce0624496c812707ae0c924888f5142b3ab3,Penn World Table 11.0,CC BY 4.0
+global_hsw/data/p0_band_resolution.csv,78393,7e5ba3d9639e9584bcbc0166d6be5d231a99b1e97205b8fa5676b83807d9a5f5,NOAA/EOG VNL annual composites via Google Earth Engine; author-derived 1 km and 2 km stratified reductions,CC BY 4.0
+global_hsw/data/p0_resolution_selection.csv,1500,56be3c1d3602049ea817956c0f2bad57dcc360820d4760aabeab101d0b6b565a,Stratified 27-country selection for the 1 km versus 2 km check (author),CC BY 4.0
+global_hsw/data/gaul_country_iso3.csv,12830,1fb8d93f1fe1187a0b1be31d508ecf38b088c42b8a838c4ee284bcc335c0b8c0,"author crosswalk of FAO GAUL-2015 country names to WDI ISO3 codes, with exclusion reasons",CC BY 4.0
+global_hsw/data/wdi_spi_overall.csv,27129,580786db9c22ee1fd390017e0deb0c2e0b94867fb8e1b416d091429ea39bfb19,World Bank WDI IQ.SPI.OVRL (vintage 2026-11-11) filtered to crosswalk economies,CC BY 4.0
+global_hsw/data/country_vnl2012_masked.csv,88036,946664d275ef8201b3ed5c0a801f572bb026f78f9bfde5de405d13388c38e543,"EOG VNL V2.1 masked annual rasters for 2012 (two composites) and 2013, downloaded from eogdata.mines.edu with a free account; author-derived local country reduction",CC BY 4.0
+global_hsw/data/country_vcmcfg_2012_2013.csv,35243,ff1e13e45269f23f782eb1cc02f425edc7daea6657e35e0833389387c41ed299,NOAA VIIRS monthly VCMCFG via Google Earth Engine; author-derived country reduction of 2012 and 2013 monthly means and medians,CC BY 4.0
+global_hsw/data/country_dmsp_satellite.csv,458243,719e995fc83e29b05daec1cc6744dd97e555597101dbcbe7c2d10a0900dee2fd,NOAA DMSP-OLS stable lights via Google Earth Engine; author-derived country reduction per satellite-year,public domain

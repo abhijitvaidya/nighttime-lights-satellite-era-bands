@@ -1,0 +1,180 @@
+{
+  "fiscal_year_reporters_wdi": {
+    "AFG": "03-20",
+    "AUS": "06-30",
+    "BGD": "06-30",
+    "EGY": "06-30",
+    "ETH": "07-07",
+    "FSM": "09-30",
+    "HTI": "09-30",
+    "IND": "03-31",
+    "IRN": "03-20",
+    "MHL": "09-30",
+    "MMR": "09-30",
+    "NPL": "07-14",
+    "NRU": "06-30",
+    "PAK": "06-30",
+    "PLW": "09-30",
+    "PRI": "06-30",
+    "SSD": "06-30",
+    "TON": "06-30",
+    "UGA": "06-30",
+    "WSM": "06-30"
+  },
+  "panel_start": 2014,
+  "fiscal_year_reporters_in_panel": [
+    "AFG",
+    "AUS",
+    "BGD",
+    "EGY",
+    "ETH",
+    "FSM",
+    "HTI",
+    "IND",
+    "IRN",
+    "MHL",
+    "MMR",
+    "NPL",
+    "NRU",
+    "PAK",
+    "PLW",
+    "PRI",
+    "TON",
+    "UGA",
+    "WSM"
+  ],
+  "aligned_left_out": [
+    "MMR"
+  ],
+  "example_weights": {
+    "IND_2020": {
+      "2020": 0.7534246575342466,
+      "2021": 0.2465753424657534
+    },
+    "PAK_2020": {
+      "2019": 0.5027322404371585,
+      "2020": 0.4972677595628415
+    }
+  },
+  "calendar": {
+    "median_masked": {
+      "country_year_effects": [
+        0.226842,
+        0.039842
+      ],
+      "annual_changes": [
+        0.121773,
+        0.021543
+      ],
+      "long_difference": [
+        0.272404,
+        0.045387
+      ],
+      "economies": 202,
+      "obs": 2377
+    },
+    "average": {
+      "country_year_effects": [
+        0.069468,
+        0.020866
+      ],
+      "annual_changes": [
+        0.017647,
+        0.003791
+      ],
+      "long_difference": [
+        0.098258,
+        0.032072
+      ],
+      "economies": 202,
+      "obs": 2377
+    },
+    "heldout_one_year": {
+      "r2_median_masked": 0.056183,
+      "r2_average": 0.005649,
+      "gain_average": 0.047533,
+      "gain_median": 0.053365
+    }
+  },
+  "excluded": {
+    "median_masked": {
+      "country_year_effects": [
+        0.23185,
+        0.044917
+      ],
+      "annual_changes": [
+        0.119382,
+        0.023537
+      ],
+      "long_difference": [
+        0.27942,
+        0.051474
+      ],
+      "economies": 183,
+      "obs": 2150
+    },
+    "average": {
+      "country_year_effects": [
+        0.075567,
+        0.023548
+      ],
+      "annual_changes": [
+        0.01805,
+        0.004313
+      ],
+      "long_difference": [
+        0.101739,
+        0.036786
+      ],
+      "economies": 183,
+      "obs": 2150
+    },
+    "heldout_one_year": {
+      "r2_median_masked": 0.052318,
+      "r2_average": 0.005455,
+      "gain_average": 0.043359,
+      "gain_median": 0.049725
+    }
+  },
+  "aligned": {
+    "median_masked": {
+      "country_year_effects": [
+        0.22837,
+        0.040899
+      ],
+      "annual_changes": [
+        0.123374,
+        0.022334
+      ],
+      "long_difference": [
+        0.27942,
+        0.051474
+      ],
+      "economies": 201,
+      "obs": 2348
+    },
+    "average": {
+      "country_year_effects": [
+        0.070826,
+        0.021819
+      ],
+      "annual_changes": [
+        0.017228,
+        0.004146
+      ],
+      "long_difference": [
+        0.101739,
+        0.036786
+      ],
+      "economies": 201,
+      "obs": 2348
+    },
+    "heldout_one_year": {
+      "r2_median_masked": 0.056508,
+      "r2_average": 0.004824,
+      "gain_average": 0.048346,
+      "gain_median": 0.054098
+    }
+  },
+  "aligned_obs_dropped": 17
+}

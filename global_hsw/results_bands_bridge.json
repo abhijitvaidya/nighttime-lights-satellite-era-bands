@@ -1,0 +1,90 @@
+{
+  "bands": {
+    "average": {
+      "levels_2wfe": {
+        "psi": 0.07325234241588335,
+        "se": 0.02072261444913472,
+        "n": 2579,
+        "n_countries": 202
+      },
+      "growth_yearfe": {
+        "psi": 0.012926257145205625,
+        "se": 0.0033608130788010137,
+        "n": 2368
+      }
+    },
+    "average_masked": {
+      "levels_2wfe": {
+        "psi": 0.2277592814909531,
+        "se": 0.037718409841703215,
+        "n": 2593,
+        "n_countries": 202
+      },
+      "growth_yearfe": {
+        "psi": 0.10262279127053267,
+        "se": 0.018394896534415256,
+        "n": 2391
+      }
+    },
+    "median": {
+      "levels_2wfe": {
+        "psi": 0.05036579522678161,
+        "se": 0.014989645442694748,
+        "n": 2576,
+        "n_countries": 202
+      },
+      "growth_yearfe": {
+        "psi": 0.00738098441299801,
+        "se": 0.00212142811322969,
+        "n": 2360
+      }
+    },
+    "median_masked": {
+      "levels_2wfe": {
+        "psi": 0.22716081927182055,
+        "se": 0.03776369129196498,
+        "n": 2593,
+        "n_countries": 202
+      },
+      "growth_yearfe": {
+        "psi": 0.1100582382630986,
+        "se": 0.019471841839870656,
+        "n": 2391
+      }
+    }
+  },
+  "decomposition_levels_2wfe": {
+    "masking_effect_mean": 0.15450693907506974,
+    "masking_effect_median": 0.17679502404503894,
+    "statistic_effect_unmasked": -0.02288654718910174,
+    "statistic_effect_masked": -0.0005984622191325395
+  },
+  "decomposition_growth_yearfe": {
+    "masking_effect_mean": 0.08969653412532705,
+    "masking_effect_median": 0.1026772538501006,
+    "statistic_effect_unmasked": -0.005545272732207615,
+    "statistic_effect_masked": 0.0074354469925659306
+  },
+  "bridge_2013": {
+    "average": {
+      "log_pearson": 0.8471774775013015,
+      "spearman": 0.922713563933152,
+      "n": 249
+    },
+    "average_masked": {
+      "log_pearson": 0.9688226648353789,
+      "spearman": 0.9707361668105383,
+      "n": 247
+    },
+    "median": {
+      "log_pearson": 0.8460950970452533,
+      "spearman": 0.927074232413525,
+      "n": 249
+    },
+    "median_masked": {
+      "log_pearson": 0.9693151138236475,
+      "spearman": 0.9721608157050617,
+      "n": 247
+    }
+  }
+}

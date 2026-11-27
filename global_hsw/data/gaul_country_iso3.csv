@@ -1,0 +1,276 @@
+country,iso3,status,reason
+Abyei,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Afghanistan,AFG,included,
+Aksai Chin,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Albania,ALB,included,
+Algeria,DZA,included,
+American Samoa,ASM,included,
+Andorra,AND,included,
+Angola,AGO,included,
+Anguilla,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Antigua and Barbuda,ATG,included,
+Argentina,ARG,included,
+Armenia,ARM,included,
+Aruba,ABW,included,
+Arunachal Pradesh,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Ashmore and Cartier Islands,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Australia,AUS,included,
+Austria,AUT,included,
+Azerbaijan,AZE,included,
+Azores Islands,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Bahamas,BHS,included,
+Bahrain,BHR,included,
+Baker Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Bangladesh,BGD,included,
+Barbados,BRB,included,
+Bassas da India,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Belarus,BLR,included,
+Belgium,BEL,included,
+Belize,BLZ,included,
+Benin,BEN,included,
+Bermuda,BMU,included,
+Bhutan,BTN,included,
+Bird Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Bolivia,BOL,included,
+Bosnia and Herzegovina,BIH,included,
+Botswana,BWA,included,
+Bouvet Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Brazil,BRA,included,
+British Indian Ocean Territory,,excluded,"territory, dependency or disputed area without a WDI economy series"
+British Virgin Islands,VGB,included,
+Brunei Darussalam,BRN,included,
+Bulgaria,BGR,included,
+Burkina Faso,BFA,included,
+Burundi,BDI,included,
+Cambodia,KHM,included,
+Cameroon,CMR,included,
+Canada,CAN,included,
+Cape Verde,CPV,included,
+Cayman Islands,CYM,included,
+Central African Republic,CAF,included,
+Chad,TCD,included,
+Chile,CHL,included,
+China,CHN,included,
+China/India,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Christmas Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Clipperton Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Cocos (Keeling) Islands,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Colombia,COL,included,
+Comoros,COM,included,
+Congo,COG,included,
+Cook Islands,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Costa Rica,CRI,included,
+Croatia,HRV,included,
+Cuba,CUB,included,
+Cyprus,CYP,included,
+Czech Republic,CZE,included,
+Côte d'Ivoire,CIV,included,
+Dem People's Rep of Korea,PRK,included,
+Democratic Republic of the Congo,COD,included,
+Denmark,DNK,included,
+Djibouti,DJI,included,
+Dominica,DMA,included,
+Dominican Republic,DOM,included,
+Ecuador,ECU,included,
+Egypt,EGY,included,
+El Salvador,SLV,included,
+Equatorial Guinea,GNQ,included,
+Eritrea,ERI,included,
+Estonia,EST,included,
+Ethiopia,ETH,included,
+Europa Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Falkland Islands (Malvinas),,excluded,"territory, dependency or disputed area without a WDI economy series"
+Faroe Islands,FRO,included,
+Fiji,FJI,included,
+Finland,FIN,included,
+France,FRA,included,
+French Guiana,,excluded,"territory, dependency or disputed area without a WDI economy series"
+French Polynesia,PYF,included,
+French Southern and Antarctic Territories,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Gabon,GAB,included,
+Gambia,GMB,included,
+Gaza Strip,,excluded,"PSE: WDI series covers West Bank and Gaza, which GAUL maps as two polygons; not combined"
+Georgia,GEO,included,
+Germany,DEU,included,
+Ghana,GHA,included,
+Gibraltar,GIB,included,
+Glorioso Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Greece,GRC,included,
+Greenland,GRL,included,
+Grenada,GRD,included,
+Guadeloupe,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Guam,GUM,included,
+Guatemala,GTM,included,
+Guernsey,,excluded,"CHI: WDI Channel Islands covers Guernsey and Jersey, two GAUL polygons; not combined"
+Guinea,GIN,included,
+Guinea-Bissau,GNB,included,
+Guyana,GUY,included,
+Haiti,HTI,included,
+Hala'ib triangle,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Heard Island and McDonald Islands,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Holy See,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Honduras,HND,included,
+Hong Kong,HKG,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+Howland Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Hungary,HUN,included,
+Iceland,ISL,included,
+Ilemi triangle,,excluded,"territory, dependency or disputed area without a WDI economy series"
+India,IND,included,
+Indonesia,IDN,included,
+Iran  (Islamic Republic of),IRN,included,
+Iraq,IRQ,included,
+Ireland,IRL,included,
+Isle of Man,IMN,included,
+Israel,ISR,included,
+Italy,ITA,included,
+Jamaica,JAM,included,
+Jammu and Kashmir,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Japan,JPN,included,
+Jarvis Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Jersey,,excluded,"CHI: WDI Channel Islands covers Guernsey and Jersey, two GAUL polygons; not combined"
+Johnston Atoll,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Jordan,JOR,included,
+Juan de Nova Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Kazakhstan,KAZ,included,
+Kenya,KEN,included,
+Kingman Reef,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Kiribati,KIR,included,
+Kuril islands,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Kuwait,KWT,included,
+Kyrgyzstan,KGZ,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+Lao People's Democratic Republic,LAO,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+Latvia,LVA,included,
+Lebanon,LBN,included,
+Lesotho,LSO,included,
+Liberia,LBR,included,
+Libya,LBY,included,
+Liechtenstein,LIE,included,
+Lithuania,LTU,included,
+Luxembourg,LUX,included,
+Ma'tan al-Sarra,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Macau,MAC,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+Madagascar,MDG,included,
+Madeira Islands,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Malawi,MWI,included,
+Malaysia,MYS,included,
+Maldives,MDV,included,
+Mali,MLI,included,
+Malta,MLT,included,
+Marshall Islands,MHL,included,
+Martinique,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Mauritania,MRT,included,
+Mauritius,MUS,included,
+Mayotte,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Mexico,MEX,included,
+Micronesia (Federated States of),FSM,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+Midway Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+"Moldova, Republic of",MDA,included,
+Monaco,MCO,included,
+Mongolia,MNG,included,
+Montenegro,MNE,included,
+Montserrat,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Morocco,MAR,included,
+Mozambique,MOZ,included,
+Myanmar,MMR,included,
+Namibia,NAM,included,
+Nauru,NRU,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+Navassa Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Nepal,NPL,included,
+Netherlands,NLD,included,
+Netherlands Antilles,,excluded,dissolved 2010; WDI reports Curacao and Sint Maarten separately with no matching GAUL polygon
+New Caledonia,NCL,included,
+New Zealand,NZL,included,
+Nicaragua,NIC,included,
+Niger,NER,included,
+Nigeria,NGA,included,
+Niue,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Norfolk Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Northern Mariana Islands,MNP,included,
+Norway,NOR,included,
+Oman,OMN,included,
+Pakistan,PAK,included,
+Palau,PLW,included,
+Palmyra Atoll,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Panama,PAN,included,
+Papua New Guinea,PNG,included,
+Paracel Islands,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Paraguay,PRY,included,
+Peru,PER,included,
+Philippines,PHL,included,
+Pitcairn,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Poland,POL,included,
+Portugal,PRT,included,
+Puerto Rico,PRI,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+Qatar,QAT,included,
+Republic of Korea,KOR,included,
+Romania,ROU,included,
+Russian Federation,RUS,included,
+Rwanda,RWA,included,
+Réunion,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Saint Helena,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Saint Kitts and Nevis,KNA,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+Saint Lucia,LCA,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+Saint Pierre et Miquelon,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Saint Vincent and the Grenadines,VCT,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+Samoa,WSM,included,
+San Marino,SMR,included,
+Sao Tome and Principe,STP,included,
+Saudi Arabia,SAU,included,
+Scarborough Reef,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Senegal,SEN,included,
+Senkaku Islands,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Serbia,SRB,included,
+Seychelles,SYC,included,
+Sierra Leone,SLE,included,
+Singapore,SGP,included,
+Slovakia,SVK,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+Slovenia,SVN,included,
+Solomon Islands,SLB,included,
+Somalia,SOM,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+South Africa,ZAF,included,
+South Georgia and the South Sandwich Islands,,excluded,"territory, dependency or disputed area without a WDI economy series"
+South Sudan,SSD,included,
+Spain,ESP,included,
+Spratly Islands,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Sri Lanka,LKA,included,
+Sudan,SDN,included,
+Suriname,SUR,included,
+Svalbard and Jan Mayen Islands,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Swaziland,SWZ,included,
+Sweden,SWE,included,
+Switzerland,CHE,included,
+Syrian Arab Republic,SYR,included,
+Taiwan,,excluded,no WDI series
+Tajikistan,TJK,included,
+Thailand,THA,included,
+The former Yugoslav Republic of Macedonia,MKD,included,
+Timor-Leste,TLS,included,
+Togo,TGO,included,
+Tokelau,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Tonga,TON,included,
+Trinidad and Tobago,TTO,included,
+Tromelin Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Tunisia,TUN,included,
+Turkey,TUR,included,
+Turkmenistan,TKM,included,
+Turks and Caicos islands,TCA,included,
+Tuvalu,TUV,included,
+U.K. of Great Britain and Northern Ireland,GBR,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+Uganda,UGA,included,
+Ukraine,UKR,included,
+United Arab Emirates,ARE,included,
+United Republic of Tanzania,TZA,included,
+United States Virgin Islands,VIR,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+United States of America,USA,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+Uruguay,URY,included,
+Uzbekistan,UZB,included,
+Vanuatu,VUT,excluded,"non-economic light: lava lakes of the Ambrym volcano dominated national radiance until they drained in December 2018 (Shreve et al. 2019)"
+Venezuela,VEN,included,"added by ISO3 crosswalk, Nov 2026 (previously lost to name normalisation)"
+Viet Nam,VNM,included,
+Wake Island,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Wallis and Futuna,,excluded,"territory, dependency or disputed area without a WDI economy series"
+West Bank,,excluded,"PSE: WDI series covers West Bank and Gaza, which GAUL maps as two polygons; not combined"
+Western Sahara,,excluded,"territory, dependency or disputed area without a WDI economy series"
+Yemen,YEM,included,
+Zambia,ZMB,included,
+Zimbabwe,ZWE,included,

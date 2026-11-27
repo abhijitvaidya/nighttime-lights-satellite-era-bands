@@ -1,0 +1,62 @@
+{
+  "median_masked": {
+    "band": "median_masked",
+    "countries": 199,
+    "strata": 6,
+    "level_rows": 2345,
+    "annual_pairs": 2144,
+    "draws": 1999,
+    "seed": 20260926,
+    "excluded_singleton_countries": 3,
+    "statistics": {
+      "country_effects": {
+        "observed": 0.3462183515795682,
+        "mean": 0.21882301305618423,
+        "range95": [
+          0.18296049777129067,
+          0.25522185670190556
+        ],
+        "share_draws_at_or_above_observed": 0.0
+      },
+      "annual_year_effects": {
+        "observed": 0.12246485749409874,
+        "mean": 0.0022024280034919105,
+        "range95": [
+          -0.02155931108132323,
+          0.025785888353528276
+        ],
+        "share_draws_at_or_above_observed": 0.0
+      }
+    }
+  },
+  "average": {
+    "band": "average",
+    "countries": 199,
+    "strata": 6,
+    "level_rows": 2345,
+    "annual_pairs": 2144,
+    "draws": 1999,
+    "seed": 20260926,
+    "excluded_singleton_countries": 3,
+    "statistics": {
+      "country_effects": {
+        "observed": 0.1586681654959267,
+        "mean": 0.1272942735793282,
+        "range95": [
+          0.11132352550292487,
+          0.142559148603416
+        ],
+        "share_draws_at_or_above_observed": 0.0
+      },
+      "annual_year_effects": {
+        "observed": 0.017517851353462458,
+        "mean": 0.0010001593924989542,
+        "range95": [
+          -0.006000645626579516,
+          0.008256572663379294
+        ],
+        "share_draws_at_or_above_observed": 0.0
+      }
+    }
+  }
+}

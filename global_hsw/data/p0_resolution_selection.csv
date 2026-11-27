@@ -1,0 +1,28 @@
+country,gaul_code,avg_count,avg_mean,size_group,brightness_group
+Burundi,43,7033.0,0.0746979277466562,small,dim
+French Polynesia,87,3945.0,0.0811358602540854,small,dim
+Timor-Leste,242,4063.0,0.0857640301435004,small,dim
+Cape Verde,47,1314.0,0.3932184566289441,small,middle
+Faroe Islands,82,1040.0,0.5813839969924733,small,middle
+Seychelles,220,336.0,0.466392816938818,small,middle
+Barbados,24,136.0,4.109473349082215,small,bright
+Guam,101,181.0,5.056656768596513,small,bright
+United States Virgin Islands,258,180.0,3.877030907395337,small,bright
+Gabon,89,67588.0,0.1115353641131223,medium,dim
+Guinea,106,63547.0,0.1428476130840889,medium,dim
+Senegal,217,52035.0,0.1378023721287186,medium,dim
+Cuba,63,32188.0,0.3926735893791511,medium,middle
+Latvia,140,30099.0,0.4742329184907807,medium,middle
+Lithuania,147,29022.0,0.5013090959268354,medium,middle
+Czech Republic,65,31097.0,1.3067821815337304,medium,bright
+Ireland,119,30678.0,0.8686789364543533,medium,bright
+Serbia,2648,31452.0,1.1535161585379583,medium,bright
+Bolivia,33,286843.0,0.0616019373310172,large,dim
+Niger,181,313398.0,0.0525206822923636,large,dim
+United Republic of Tanzania,257,239990.0,0.0547692031441402,large,dim
+Algeria,4,661374.0,0.4388079246284521,large,middle
+Mexico,162,544584.0,0.5530656741241108,large,middle
+South Africa,227,352851.0,0.3673630450613862,large,middle
+Finland,84,199056.0,1.0827085209514546,large,bright
+Germany,93,144235.0,1.2449159909866387,large,bright
+Venezuela,263,234354.0,1.2569223518094974,large,bright

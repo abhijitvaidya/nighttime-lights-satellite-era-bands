@@ -1,0 +1,202 @@
+{
+  "EOG_avg": {
+    "levels_2wfe": {
+      "psi": 0.034222590529016716,
+      "se": 0.038956347361307174,
+      "n": 573
+    },
+    "growth_yearfe": {
+      "psi": 0.015906991761728183,
+      "se": 0.009512407989590436,
+      "n": 524
+    },
+    "dlogl_sd": 0.30755754288053366
+  },
+  "EOG_medmask": {
+    "levels_2wfe": {
+      "psi": 0.27105165196280245,
+      "se": 0.054420087900641005,
+      "n": 575
+    },
+    "growth_yearfe": {
+      "psi": 0.19050139888660741,
+      "se": 0.04897999420612206,
+      "n": 527
+    },
+    "dlogl_sd": 0.1049293913787853
+  },
+  "raw": {
+    "levels_2wfe": {
+      "psi": 0.019629074508725884,
+      "se": 0.03691983869659633,
+      "n": 574
+    },
+    "growth_yearfe": {
+      "psi": 0.01142249654702998,
+      "se": 0.007482675775350494,
+      "n": 525
+    },
+    "dlogl_sd": 0.339533724053742
+  },
+  "lit": {
+    "levels_2wfe": {
+      "psi": 0.1289232621167561,
+      "se": 0.06348196162716273,
+      "n": 575
+    },
+    "growth_yearfe": {
+      "psi": 0.04628839463470713,
+      "se": 0.020196040697537693,
+      "n": 527
+    },
+    "dlogl_sd": 0.189232309938889
+  },
+  "zero": {
+    "levels_2wfe": {
+      "psi": 0.0397498751758614,
+      "se": 0.03931633106053946,
+      "n": 575
+    },
+    "growth_yearfe": {
+      "psi": 0.029450310636115154,
+      "se": 0.023557744309549482,
+      "n": 527
+    },
+    "dlogl_sd": 0.20967676822462888
+  },
+  "stat": {
+    "levels_2wfe": {
+      "psi": 0.17265357185737146,
+      "se": 0.058356048194316834,
+      "n": 575
+    },
+    "growth_yearfe": {
+      "psi": 0.08800204684034453,
+      "se": 0.035942406461262524,
+      "n": 527
+    },
+    "dlogl_sd": 0.13056370475301746
+  },
+  "stat_vs_medmask_agreement": {
+    "n_countries": 48,
+    "median_level_corr": 0.9679844150904994,
+    "median_growth_corr": 0.7980014816894943,
+    "median_growth_corr_by_scale": {
+      "750": 0.9632629339455745,
+      "1500": 0.8433493880115162,
+      "3000": 0.7460762264107722,
+      "6000": 0.7726920163699694
+    },
+    "countries_by_scale": {
+      "750": 1,
+      "1500": 13,
+      "3000": 27,
+      "6000": 7
+    },
+    "spearman_scale_vs_growth_corr": -0.26820190688407874,
+    "growth_corr_by_country": {
+      "Afghanistan": 0.4235,
+      "Algeria": 0.118,
+      "Angola": 0.6972,
+      "Argentina": 0.8018,
+      "Bangladesh": 0.8828,
+      "Bolivia": 0.737,
+      "Brazil": 0.7727,
+      "Chile": 0.4582,
+      "China": 0.9198,
+      "Colombia": 0.8678,
+      "Democratic Republic of the Congo": 0.6646,
+      "Egypt": 0.866,
+      "Ethiopia": 0.8825,
+      "France": 0.8379,
+      "Germany": 0.766,
+      "Ghana": 0.3391,
+      "India": 0.8777,
+      "Indonesia": 0.8298,
+      "Iran  (Islamic Republic of)": 0.9088,
+      "Iraq": 0.8393,
+      "Italy": 0.9736,
+      "Japan": 0.9098,
+      "Kazakhstan": 0.2758,
+      "Kenya": 0.7885,
+      "Malaysia": 0.8504,
+      "Mexico": 0.7461,
+      "Mongolia": 0.2803,
+      "Morocco": 0.6564,
+      "Mozambique": 0.7111,
+      "Myanmar": 0.7206,
+      "Namibia": 0.3313,
+      "Nigeria": 0.9208,
+      "Pakistan": 0.9203,
+      "Peru": 0.6439,
+      "Philippines": 0.7088,
+      "Poland": 0.8829,
+      "Republic of Korea": 0.9633,
+      "Russian Federation": -0.3472,
+      "Saudi Arabia": 0.8666,
+      "South Africa": 0.8829,
+      "Spain": 0.8725,
+      "Sudan": 0.5571,
+      "Thailand": 0.8433,
+      "Turkey": 0.9622,
+      "Ukraine": 0.7942,
+      "United Republic of Tanzania": 0.6177,
+      "Viet Nam": 0.8582,
+      "Zambia": 0.6099
+    }
+  },
+  "_meta": {
+    "n_countries": 48,
+    "n_obs": 575,
+    "countries": [
+      "Afghanistan",
+      "Algeria",
+      "Angola",
+      "Argentina",
+      "Bangladesh",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "China",
+      "Colombia",
+      "Democratic Republic of the Congo",
+      "Egypt",
+      "Ethiopia",
+      "France",
+      "Germany",
+      "Ghana",
+      "India",
+      "Indonesia",
+      "Iran  (Islamic Republic of)",
+      "Iraq",
+      "Italy",
+      "Japan",
+      "Kazakhstan",
+      "Kenya",
+      "Malaysia",
+      "Mexico",
+      "Mongolia",
+      "Morocco",
+      "Mozambique",
+      "Myanmar",
+      "Namibia",
+      "Nigeria",
+      "Pakistan",
+      "Peru",
+      "Philippines",
+      "Poland",
+      "Republic of Korea",
+      "Russian Federation",
+      "Saudi Arabia",
+      "South Africa",
+      "Spain",
+      "Sudan",
+      "Thailand",
+      "Turkey",
+      "Ukraine",
+      "United Republic of Tanzania",
+      "Viet Nam",
+      "Zambia"
+    ]
+  }
+}

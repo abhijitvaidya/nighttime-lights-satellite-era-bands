@@ -1,0 +1,838 @@
+{
+  "reps": 3999,
+  "seed": 20261125,
+  "evaluated_economies": 202,
+  "splits": {
+    "brightness": {
+      "countries_with_value": 200,
+      "cutpoints": [
+        0.230612,
+        0.818259
+      ],
+      "horizons": {
+        "1": {
+          "low": {
+            "countries": 67,
+            "n": 467,
+            "gain_average_pair": 0.078485,
+            "gain_median_pair": 0.092963,
+            "r2_median_masked": 0.096128,
+            "r2_average": 0.005254,
+            "rmse_median_masked": 0.06237,
+            "gain_average_pair_ci95": [
+              0.044359,
+              0.119394
+            ],
+            "gain_median_pair_ci95": [
+              0.052848,
+              0.145673
+            ]
+          },
+          "mid": {
+            "countries": 66,
+            "n": 452,
+            "gain_average_pair": 0.06032,
+            "gain_median_pair": 0.076358,
+            "r2_median_masked": 0.079529,
+            "r2_average": 0.007189,
+            "rmse_median_masked": 0.049133,
+            "gain_average_pair_ci95": [
+              -0.012102,
+              0.175232
+            ],
+            "gain_median_pair_ci95": [
+              -0.001396,
+              0.209923
+            ]
+          },
+          "high": {
+            "countries": 67,
+            "n": 448,
+            "gain_average_pair": 0.004791,
+            "gain_median_pair": -0.006894,
+            "r2_median_masked": -0.004842,
+            "r2_average": 0.005015,
+            "rmse_median_masked": 0.063316,
+            "gain_average_pair_ci95": [
+              -0.025053,
+              0.029134
+            ],
+            "gain_median_pair_ci95": [
+              -0.049499,
+              0.021571
+            ]
+          },
+          "low_minus_high_gain_average_pair": {
+            "estimate": 0.073694,
+            "ci95": [
+              0.032557,
+              0.123171
+            ],
+            "leave_one_year_out": {
+              "2019": 0.068172,
+              "2020": 0.106983,
+              "2021": 0.082714,
+              "2022": 0.074132,
+              "2023": 0.056846,
+              "2024": 0.07176,
+              "2025": 0.068573
+            }
+          },
+          "low_minus_high_gain_median_pair": {
+            "estimate": 0.099857,
+            "ci95": [
+              0.051717,
+              0.165057
+            ],
+            "leave_one_year_out": {
+              "2019": 0.097058,
+              "2020": 0.143996,
+              "2021": 0.109483,
+              "2022": 0.097044,
+              "2023": 0.080839,
+              "2024": 0.096226,
+              "2025": 0.092616
+            }
+          }
+        },
+        "3": {
+          "low": {
+            "countries": 67,
+            "n": 333,
+            "gain_average_pair": 0.135149,
+            "gain_median_pair": 0.142522,
+            "r2_median_masked": 0.147547,
+            "r2_average": 0.00771,
+            "rmse_median_masked": 0.144221
+          },
+          "mid": {
+            "countries": 66,
+            "n": 320,
+            "gain_average_pair": 0.190564,
+            "gain_median_pair": 0.206634,
+            "r2_median_masked": 0.225169,
+            "r2_average": 0.033642,
+            "rmse_median_masked": 0.076345
+          },
+          "high": {
+            "countries": 67,
+            "n": 314,
+            "gain_average_pair": 0.023053,
+            "gain_median_pair": 0.002924,
+            "r2_median_masked": 0.01543,
+            "r2_average": 0.020804,
+            "rmse_median_masked": 0.11374
+          }
+        },
+        "5": {
+          "low": {
+            "countries": 67,
+            "n": 199,
+            "gain_average_pair": 0.172669,
+            "gain_median_pair": 0.177686,
+            "r2_median_masked": 0.18776,
+            "r2_average": 0.015384,
+            "rmse_median_masked": 0.204682
+          },
+          "mid": {
+            "countries": 64,
+            "n": 188,
+            "gain_average_pair": 0.209941,
+            "gain_median_pair": 0.234777,
+            "r2_median_masked": 0.275,
+            "r2_average": 0.06999,
+            "rmse_median_masked": 0.091357
+          },
+          "high": {
+            "countries": 64,
+            "n": 180,
+            "gain_average_pair": 0.014598,
+            "gain_median_pair": -0.005492,
+            "r2_median_masked": 0.043804,
+            "r2_average": 0.073285,
+            "rmse_median_masked": 0.118133
+          }
+        }
+      },
+      "annual_coefficients": {
+        "low": {
+          "n": 714,
+          "countries": 67,
+          "average": {
+            "beta": 0.013194,
+            "se": 0.005061
+          },
+          "median_masked": {
+            "beta": 0.149785,
+            "se": 0.038753
+          }
+        },
+        "mid": {
+          "n": 716,
+          "countries": 66,
+          "average": {
+            "beta": 0.034257,
+            "se": 0.031978
+          },
+          "median_masked": {
+            "beta": 0.117576,
+            "se": 0.04891
+          }
+        },
+        "high": {
+          "n": 716,
+          "countries": 67,
+          "average": {
+            "beta": 0.088893,
+            "se": 0.026182
+          },
+          "median_masked": {
+            "beta": 0.068008,
+            "se": 0.024014
+          }
+        }
+      }
+    },
+    "masked_to_unmasked_ratio": {
+      "countries_with_value": 200,
+      "cutpoints": [
+        0.645162,
+        0.885602
+      ],
+      "horizons": {
+        "1": {
+          "low": {
+            "countries": 67,
+            "n": 462,
+            "gain_average_pair": 0.114518,
+            "gain_median_pair": 0.133059,
+            "r2_median_masked": 0.137694,
+            "r2_average": 0.00879,
+            "rmse_median_masked": 0.057327,
+            "gain_average_pair_ci95": [
+              0.053267,
+              0.202441
+            ],
+            "gain_median_pair_ci95": [
+              0.060459,
+              0.233239
+            ]
+          },
+          "mid": {
+            "countries": 66,
+            "n": 458,
+            "gain_average_pair": 0.02542,
+            "gain_median_pair": 0.031528,
+            "r2_median_masked": 0.032798,
+            "r2_average": 0.002604,
+            "rmse_median_masked": 0.046406,
+            "gain_average_pair_ci95": [
+              0.000507,
+              0.058275
+            ],
+            "gain_median_pair_ci95": [
+              0.00435,
+              0.064416
+            ]
+          },
+          "high": {
+            "countries": 67,
+            "n": 447,
+            "gain_average_pair": 0.004883,
+            "gain_median_pair": -0.000474,
+            "r2_median_masked": 0.001331,
+            "r2_average": 0.004501,
+            "rmse_median_masked": 0.070141,
+            "gain_average_pair_ci95": [
+              -0.014595,
+              0.024262
+            ],
+            "gain_median_pair_ci95": [
+              -0.021662,
+              0.021936
+            ]
+          },
+          "low_minus_high_gain_average_pair": {
+            "estimate": 0.109635,
+            "ci95": [
+              0.043656,
+              0.197378
+            ],
+            "leave_one_year_out": {
+              "2019": 0.104685,
+              "2020": 0.146367,
+              "2021": 0.127373,
+              "2022": 0.085695,
+              "2023": 0.095874,
+              "2024": 0.106094,
+              "2025": 0.108868
+            }
+          },
+          "low_minus_high_gain_median_pair": {
+            "estimate": 0.133533,
+            "ci95": [
+              0.054954,
+              0.233606
+            ],
+            "leave_one_year_out": {
+              "2019": 0.131814,
+              "2020": 0.176043,
+              "2021": 0.147961,
+              "2022": 0.106437,
+              "2023": 0.115768,
+              "2024": 0.131228,
+              "2025": 0.134564
+            }
+          }
+        },
+        "3": {
+          "low": {
+            "countries": 67,
+            "n": 328,
+            "gain_average_pair": 0.187278,
+            "gain_median_pair": 0.192071,
+            "r2_median_masked": 0.201246,
+            "r2_average": 0.015774,
+            "rmse_median_masked": 0.133093
+          },
+          "mid": {
+            "countries": 66,
+            "n": 326,
+            "gain_average_pair": 0.079998,
+            "gain_median_pair": 0.085691,
+            "r2_median_masked": 0.091902,
+            "r2_average": 0.008957,
+            "rmse_median_masked": 0.085802
+          },
+          "high": {
+            "countries": 67,
+            "n": 313,
+            "gain_average_pair": 0.016291,
+            "gain_median_pair": 0.009119,
+            "r2_median_masked": 0.020621,
+            "r2_average": 0.019204,
+            "rmse_median_masked": 0.121801
+          }
+        },
+        "5": {
+          "low": {
+            "countries": 66,
+            "n": 194,
+            "gain_average_pair": 0.18852,
+            "gain_median_pair": 0.195639,
+            "r2_median_masked": 0.211944,
+            "r2_average": 0.026266,
+            "rmse_median_masked": 0.203379
+          },
+          "mid": {
+            "countries": 66,
+            "n": 194,
+            "gain_average_pair": 0.147913,
+            "gain_median_pair": 0.160832,
+            "r2_median_masked": 0.175458,
+            "r2_average": 0.02302,
+            "rmse_median_masked": 0.096715
+          },
+          "high": {
+            "countries": 63,
+            "n": 179,
+            "gain_average_pair": 0.006399,
+            "gain_median_pair": -0.011914,
+            "r2_median_masked": 0.034869,
+            "r2_average": 0.068774,
+            "rmse_median_masked": 0.120033
+          }
+        }
+      },
+      "annual_coefficients": {
+        "low": {
+          "n": 711,
+          "countries": 67,
+          "average": {
+            "beta": 0.015903,
+            "se": 0.005434
+          },
+          "median_masked": {
+            "beta": 0.144086,
+            "se": 0.03656
+          }
+        },
+        "mid": {
+          "n": 722,
+          "countries": 66,
+          "average": {
+            "beta": -0.001658,
+            "se": 0.005483
+          },
+          "median_masked": {
+            "beta": 0.075764,
+            "se": 0.02561
+          }
+        },
+        "high": {
+          "n": 713,
+          "countries": 67,
+          "average": {
+            "beta": 0.031593,
+            "se": 0.010707
+          },
+          "median_masked": {
+            "beta": 0.1114,
+            "se": 0.025775
+          }
+        }
+      }
+    },
+    "gdp_per_capita_initial": {
+      "countries_with_value": 196,
+      "cutpoints": [
+        3713.94992,
+        13611.549081
+      ],
+      "horizons": {
+        "1": {
+          "low": {
+            "countries": 66,
+            "n": 458,
+            "gain_average_pair": 0.121887,
+            "gain_median_pair": 0.131626,
+            "r2_median_masked": 0.136905,
+            "r2_average": 0.00997,
+            "rmse_median_masked": 0.050048,
+            "gain_average_pair_ci95": [
+              0.050162,
+              0.215325
+            ],
+            "gain_median_pair_ci95": [
+              0.043114,
+              0.233635
+            ]
+          },
+          "mid": {
+            "countries": 65,
+            "n": 450,
+            "gain_average_pair": 0.045236,
+            "gain_median_pair": 0.057419,
+            "r2_median_masked": 0.059278,
+            "r2_average": 0.003901,
+            "rmse_median_masked": 0.0624,
+            "gain_average_pair_ci95": [
+              -0.002545,
+              0.085887
+            ],
+            "gain_median_pair_ci95": [
+              0.008811,
+              0.104244
+            ]
+          },
+          "high": {
+            "countries": 65,
+            "n": 431,
+            "gain_average_pair": -0.000758,
+            "gain_median_pair": -0.007267,
+            "r2_median_masked": -0.005845,
+            "r2_average": 0.003909,
+            "rmse_median_masked": 0.06419,
+            "gain_average_pair_ci95": [
+              -0.033852,
+              0.017968
+            ],
+            "gain_median_pair_ci95": [
+              -0.039472,
+              0.017223
+            ]
+          },
+          "low_minus_high_gain_average_pair": {
+            "estimate": 0.122645,
+            "ci95": [
+              0.050811,
+              0.220596
+            ],
+            "leave_one_year_out": {
+              "2019": 0.126875,
+              "2020": 0.154214,
+              "2021": 0.137213,
+              "2022": 0.079478,
+              "2023": 0.12223,
+              "2024": 0.12213,
+              "2025": 0.118997
+            }
+          },
+          "low_minus_high_gain_median_pair": {
+            "estimate": 0.138892,
+            "ci95": [
+              0.049368,
+              0.241822
+            ],
+            "leave_one_year_out": {
+              "2019": 0.147368,
+              "2020": 0.176851,
+              "2021": 0.160367,
+              "2022": 0.085738,
+              "2023": 0.131108,
+              "2024": 0.140573,
+              "2025": 0.133827
+            }
+          }
+        },
+        "3": {
+          "low": {
+            "countries": 66,
+            "n": 326,
+            "gain_average_pair": 0.215255,
+            "gain_median_pair": 0.22218,
+            "r2_median_masked": 0.23444,
+            "r2_average": 0.020239,
+            "rmse_median_masked": 0.104003
+          },
+          "mid": {
+            "countries": 65,
+            "n": 320,
+            "gain_average_pair": 0.113493,
+            "gain_median_pair": 0.124135,
+            "r2_median_masked": 0.134387,
+            "r2_average": 0.016905,
+            "rmse_median_masked": 0.131402
+          },
+          "high": {
+            "countries": 65,
+            "n": 301,
+            "gain_average_pair": -0.002488,
+            "gain_median_pair": -0.027077,
+            "r2_median_masked": -0.024149,
+            "r2_average": 0.008695,
+            "rmse_median_masked": 0.110636
+          }
+        },
+        "5": {
+          "low": {
+            "countries": 65,
+            "n": 194,
+            "gain_average_pair": 0.274271,
+            "gain_median_pair": 0.276803,
+            "r2_median_masked": 0.3015,
+            "r2_average": 0.043606,
+            "rmse_median_masked": 0.131119
+          },
+          "mid": {
+            "countries": 64,
+            "n": 190,
+            "gain_average_pair": 0.121843,
+            "gain_median_pair": 0.130828,
+            "r2_median_masked": 0.147475,
+            "r2_average": 0.026483,
+            "rmse_median_masked": 0.196538
+          },
+          "high": {
+            "countries": 62,
+            "n": 171,
+            "gain_average_pair": 0.001285,
+            "gain_median_pair": -0.030886,
+            "r2_median_masked": -0.000249,
+            "r2_average": 0.048546,
+            "rmse_median_masked": 0.096552
+          }
+        }
+      },
+      "annual_coefficients": {
+        "low": {
+          "n": 716,
+          "countries": 66,
+          "average": {
+            "beta": 0.012779,
+            "se": 0.006076
+          },
+          "median_masked": {
+            "beta": 0.122992,
+            "se": 0.035185
+          }
+        },
+        "mid": {
+          "n": 705,
+          "countries": 65,
+          "average": {
+            "beta": 0.022571,
+            "se": 0.010145
+          },
+          "median_masked": {
+            "beta": 0.168313,
+            "se": 0.053705
+          }
+        },
+        "high": {
+          "n": 691,
+          "countries": 65,
+          "average": {
+            "beta": 0.02803,
+            "se": 0.01571
+          },
+          "median_masked": {
+            "beta": 0.045613,
+            "se": 0.022315
+          }
+        }
+      }
+    },
+    "spi_overall": {
+      "countries_with_value": 184,
+      "cutpoints": [
+        52.924175,
+        70.728125
+      ],
+      "horizons": {
+        "1": {
+          "low": {
+            "countries": 62,
+            "n": 428,
+            "gain_average_pair": 0.066831,
+            "gain_median_pair": 0.080251,
+            "r2_median_masked": 0.083728,
+            "r2_average": 0.005899,
+            "rmse_median_masked": 0.066824,
+            "gain_average_pair_ci95": [
+              0.02803,
+              0.109009
+            ],
+            "gain_median_pair_ci95": [
+              0.035061,
+              0.132266
+            ]
+          },
+          "mid": {
+            "countries": 61,
+            "n": 426,
+            "gain_average_pair": 0.079069,
+            "gain_median_pair": 0.088411,
+            "r2_median_masked": 0.092561,
+            "r2_average": 0.009009,
+            "rmse_median_masked": 0.050408,
+            "gain_average_pair_ci95": [
+              0.005053,
+              0.180014
+            ],
+            "gain_median_pair_ci95": [
+              0.004142,
+              0.20975
+            ]
+          },
+          "high": {
+            "countries": 61,
+            "n": 427,
+            "gain_average_pair": 0.009308,
+            "gain_median_pair": 0.015167,
+            "r2_median_masked": 0.01675,
+            "r2_average": 0.0044,
+            "rmse_median_masked": 0.028777,
+            "gain_average_pair_ci95": [
+              -0.063114,
+              0.075277
+            ],
+            "gain_median_pair_ci95": [
+              -0.077804,
+              0.091263
+            ]
+          },
+          "low_minus_high_gain_average_pair": {
+            "estimate": 0.057523,
+            "ci95": [
+              -0.024151,
+              0.143471
+            ],
+            "leave_one_year_out": {
+              "2019": 0.068779,
+              "2020": 0.038373,
+              "2021": -0.017442,
+              "2022": 0.092445,
+              "2023": 0.087828,
+              "2024": 0.078021,
+              "2025": 0.052375
+            }
+          },
+          "low_minus_high_gain_median_pair": {
+            "estimate": 0.065084,
+            "ci95": [
+              -0.027152,
+              0.168801
+            ],
+            "leave_one_year_out": {
+              "2019": 0.078956,
+              "2020": 0.035301,
+              "2021": 0.016229,
+              "2022": 0.090653,
+              "2023": 0.090024,
+              "2024": 0.08339,
+              "2025": 0.057598
+            }
+          }
+        },
+        "3": {
+          "low": {
+            "countries": 62,
+            "n": 304,
+            "gain_average_pair": 0.148031,
+            "gain_median_pair": 0.159947,
+            "r2_median_masked": 0.170123,
+            "r2_average": 0.015544,
+            "rmse_median_masked": 0.145615
+          },
+          "mid": {
+            "countries": 61,
+            "n": 304,
+            "gain_average_pair": 0.135244,
+            "gain_median_pair": 0.139438,
+            "r2_median_masked": 0.151835,
+            "r2_average": 0.021196,
+            "rmse_median_masked": 0.094627
+          },
+          "high": {
+            "countries": 61,
+            "n": 305,
+            "gain_average_pair": 0.094572,
+            "gain_median_pair": 0.068232,
+            "r2_median_masked": 0.079558,
+            "r2_average": 0.022115,
+            "rmse_median_masked": 0.060831
+          }
+        },
+        "5": {
+          "low": {
+            "countries": 61,
+            "n": 180,
+            "gain_average_pair": 0.157153,
+            "gain_median_pair": 0.166588,
+            "r2_median_masked": 0.183084,
+            "r2_average": 0.025819,
+            "rmse_median_masked": 0.218231
+          },
+          "mid": {
+            "countries": 61,
+            "n": 182,
+            "gain_average_pair": 0.233209,
+            "gain_median_pair": 0.228085,
+            "r2_median_masked": 0.260641,
+            "r2_average": 0.05617,
+            "rmse_median_masked": 0.104119
+          },
+          "high": {
+            "countries": 61,
+            "n": 183,
+            "gain_average_pair": -0.013781,
+            "gain_median_pair": -0.008183,
+            "r2_median_masked": 0.015037,
+            "r2_average": 0.026954,
+            "rmse_median_masked": 0.082142
+          }
+        }
+      },
+      "annual_coefficients": {
+        "low": {
+          "n": 655,
+          "countries": 62,
+          "average": {
+            "beta": 0.026711,
+            "se": 0.005796
+          },
+          "median_masked": {
+            "beta": 0.143238,
+            "se": 0.037106
+          }
+        },
+        "mid": {
+          "n": 664,
+          "countries": 61,
+          "average": {
+            "beta": 0.020111,
+            "se": 0.006957
+          },
+          "median_masked": {
+            "beta": 0.148098,
+            "se": 0.043478
+          }
+        },
+        "high": {
+          "n": 671,
+          "countries": 61,
+          "average": {
+            "beta": 0.006815,
+            "se": 0.007011
+          },
+          "median_masked": {
+            "beta": 0.044295,
+            "se": 0.01629
+          }
+        }
+      }
+    }
+  },
+  "spearman": {
+    "brightness~masked_to_unmasked_ratio": 0.620122,
+    "brightness~gdp_per_capita_initial": 0.744602,
+    "brightness~spi_overall": 0.439762,
+    "masked_to_unmasked_ratio~gdp_per_capita_initial": 0.567488,
+    "masked_to_unmasked_ratio~spi_overall": 0.214811,
+    "gdp_per_capita_initial~spi_overall": 0.490574
+  },
+  "spi_source_years": {
+    "all_four_2016_2019": 164,
+    "fewer_than_four_2016_2019": [
+      "COD",
+      "ROU",
+      "SOM",
+      "SYC",
+      "SYR",
+      "TLS"
+    ],
+    "first_available_year_after_2019": [
+      "AND",
+      "ATG",
+      "BRB",
+      "BRN",
+      "CAF",
+      "COM",
+      "DMA",
+      "GNQ",
+      "GRD",
+      "KNA",
+      "NRU",
+      "PLW",
+      "TON",
+      "TUV"
+    ],
+    "first_year_used": {
+      "AND": 2022,
+      "ATG": 2020,
+      "BRB": 2022,
+      "BRN": 2020,
+      "CAF": 2022,
+      "COM": 2024,
+      "DMA": 2020,
+      "GNQ": 2020,
+      "GRD": 2022,
+      "KNA": 2020,
+      "NRU": 2022,
+      "PLW": 2020,
+      "TON": 2020,
+      "TUV": 2022
+    },
+    "no_score": [
+      "ABW",
+      "ASM",
+      "BMU",
+      "CUB",
+      "CYM",
+      "FRO",
+      "GRL",
+      "GUM",
+      "HKG",
+      "IMN",
+      "MAC",
+      "MCO",
+      "MNP",
+      "PRI",
+      "PYF",
+      "SMR",
+      "TCA",
+      "VIR"
+    ]
+  }
+}

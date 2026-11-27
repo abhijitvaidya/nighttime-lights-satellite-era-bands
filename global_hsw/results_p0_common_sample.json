@@ -1,0 +1,104 @@
+{
+  "common_panel_rows": 2372,
+  "common_countries": 202,
+  "band_estimates": {
+    "average": {
+      "panel_beta": 0.07040506084652494,
+      "panel_se": 0.02150316350833301,
+      "panel_n": 2372,
+      "annual_beta": 0.018244055624731224,
+      "annual_se": 0.004027017514543539,
+      "annual_n": 2162
+    },
+    "median": {
+      "panel_beta": 0.051347559112368976,
+      "panel_se": 0.015614050833102702,
+      "panel_n": 2372,
+      "annual_beta": 0.009488931937339552,
+      "annual_se": 0.0024305760119488757,
+      "annual_n": 2162
+    },
+    "average_masked": {
+      "panel_beta": 0.2286419309854412,
+      "panel_se": 0.03979776941930724,
+      "panel_n": 2372,
+      "annual_beta": 0.11504215855534958,
+      "annual_se": 0.019817657929810096,
+      "annual_n": 2162
+    },
+    "median_masked": {
+      "panel_beta": 0.22710757207761675,
+      "panel_se": 0.039970516311881144,
+      "panel_n": 2372,
+      "annual_beta": 0.12169708675093222,
+      "annual_se": 0.02159569651381339,
+      "annual_n": 2162
+    }
+  },
+  "threshold_rows": 573,
+  "threshold_countries": 48,
+  "threshold_variants": {
+    "raw": "cloud-free-coverage-weighted annual mean of all valid pixels",
+    "zero": "each year's pixels below 0.4 nW cm-2 sr-1 set to zero",
+    "lit": "mean over each year's pixels above 0.4 nW cm-2 sr-1",
+    "stat": "mean over pixels above 0.4 nW cm-2 sr-1 in 2025, applied to every year",
+    "avg_mean": "producer VNL average band",
+    "medmask_mean": "producer VNL median_masked band"
+  },
+  "threshold_estimates": {
+    "raw": {
+      "panel_beta": 0.03246341488349889,
+      "panel_se": 0.04069795719298537,
+      "panel_n": 573,
+      "annual_beta": 0.013083516331132996,
+      "annual_se": 0.008233866072153418,
+      "annual_n": 524
+    },
+    "zero": {
+      "panel_beta": 0.03971230571741225,
+      "panel_se": 0.039379736110577164,
+      "panel_n": 573,
+      "annual_beta": 0.029631473119993913,
+      "annual_se": 0.023590346937774825,
+      "annual_n": 524
+    },
+    "lit": {
+      "panel_beta": 0.12934069903369916,
+      "panel_se": 0.06340601664153978,
+      "panel_n": 573,
+      "annual_beta": 0.0462097142638859,
+      "annual_se": 0.020256615537546912,
+      "annual_n": 524
+    },
+    "stat": {
+      "panel_beta": 0.1757689680685866,
+      "panel_se": 0.058297223706607726,
+      "panel_n": 573,
+      "annual_beta": 0.08969895534043532,
+      "annual_se": 0.03590584696612204,
+      "annual_n": 524
+    },
+    "avg_mean": {
+      "panel_beta": 0.03422259052901656,
+      "panel_se": 0.0389563473613072,
+      "panel_n": 573,
+      "annual_beta": 0.015906991761728544,
+      "annual_se": 0.009512407989590613,
+      "annual_n": 524
+    },
+    "medmask_mean": {
+      "panel_beta": 0.27133916445227346,
+      "panel_se": 0.05449079320892803,
+      "panel_n": 573,
+      "annual_beta": 0.19131009932826826,
+      "annual_se": 0.048848589809684345,
+      "annual_n": 524
+    }
+  },
+  "input_sha256": {
+    "analyze_p0_oos.py": "fd20ec0a421cab622ffafce726e2863959518381f75abfe93d1e5cedfa28e78c",
+    "data/global_panel.csv": "dfea87aa1f48217b28601222836c2dcaa455acf492c1f90b36a16db1d1ecace6",
+    "data/country_ntl_bands.csv": "6d6cd1e61388528b75b381191efc39493447272cd1a802472c437d5276eefd8c",
+    "data/country_bgnoise_annual.csv": "28f2e904651a44b7c76c2cbfa065a66e14e7776882ec3bf1bddb04584662fa4a"
+  }
+}

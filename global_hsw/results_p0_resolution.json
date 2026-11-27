@@ -1,0 +1,137 @@
+{
+  "selection": {
+    "large/bright": [
+      "Finland",
+      "Germany",
+      "Venezuela"
+    ],
+    "large/dim": [
+      "Bolivia",
+      "Niger",
+      "United Republic of Tanzania"
+    ],
+    "large/middle": [
+      "Algeria",
+      "Mexico",
+      "South Africa"
+    ],
+    "medium/bright": [
+      "Czech Republic",
+      "Ireland",
+      "Serbia"
+    ],
+    "medium/dim": [
+      "Gabon",
+      "Guinea",
+      "Senegal"
+    ],
+    "medium/middle": [
+      "Cuba",
+      "Latvia",
+      "Lithuania"
+    ],
+    "small/bright": [
+      "Barbados",
+      "Guam",
+      "United States Virgin Islands"
+    ],
+    "small/dim": [
+      "Burundi",
+      "French Polynesia",
+      "Timor-Leste"
+    ],
+    "small/middle": [
+      "Cape Verde",
+      "Faroe Islands",
+      "Seychelles"
+    ]
+  },
+  "scales": {
+    "1000": {
+      "average": {
+        "levels_2wfe": 0.18831685138081086,
+        "levels_se": 0.09969031087086755,
+        "growth_yearfe": 0.021259033359454,
+        "growth_se": 0.01292094640435983,
+        "n_levels": 315,
+        "n_growth": 288
+      },
+      "average_masked": {
+        "levels_2wfe": 0.31417862907315186,
+        "levels_se": 0.12949336831712902,
+        "growth_yearfe": 0.11385869984195872,
+        "growth_se": 0.036370165000377264,
+        "n_levels": 315,
+        "n_growth": 288
+      },
+      "median": {
+        "levels_2wfe": 0.14167169832750498,
+        "levels_se": 0.07386555147345167,
+        "growth_yearfe": 0.014270110726156728,
+        "growth_se": 0.008637491171665922,
+        "n_levels": 315,
+        "n_growth": 288
+      },
+      "median_masked": {
+        "levels_2wfe": 0.3159251354219602,
+        "levels_se": 0.13283426960856676,
+        "growth_yearfe": 0.1365832197408488,
+        "growth_se": 0.044904873278548904,
+        "n_levels": 315,
+        "n_growth": 288
+      }
+    },
+    "2000": {
+      "average": {
+        "levels_2wfe": 0.1857537241023737,
+        "levels_se": 0.10083799340740715,
+        "growth_yearfe": 0.019846051157449068,
+        "growth_se": 0.011803101732064449,
+        "n_levels": 315,
+        "n_growth": 288
+      },
+      "average_masked": {
+        "levels_2wfe": 0.3104530961840882,
+        "levels_se": 0.1251455211084331,
+        "growth_yearfe": 0.10620402730028555,
+        "growth_se": 0.029816763005709252,
+        "n_levels": 315,
+        "n_growth": 288
+      },
+      "median": {
+        "levels_2wfe": 0.14464783502478637,
+        "levels_se": 0.07637524652741384,
+        "growth_yearfe": 0.014022888750782036,
+        "growth_se": 0.008241341943008112,
+        "n_levels": 315,
+        "n_growth": 288
+      },
+      "median_masked": {
+        "levels_2wfe": 0.31413386761153783,
+        "levels_se": 0.12999836735213438,
+        "growth_yearfe": 0.12613193614278062,
+        "growth_se": 0.03738280080161805,
+        "n_levels": 315,
+        "n_growth": 288
+      }
+    }
+  },
+  "scale_correlations": {
+    "average": {
+      "level_1000_vs_2000": 0.9899047830490476,
+      "growth_1000_vs_2000": 0.9973143215093645
+    },
+    "average_masked": {
+      "level_1000_vs_2000": 0.9907293988549453,
+      "growth_1000_vs_2000": 0.9929424479889103
+    },
+    "median": {
+      "level_1000_vs_2000": 0.9900132854682288,
+      "growth_1000_vs_2000": 0.9982271321107048
+    },
+    "median_masked": {
+      "level_1000_vs_2000": 0.9907589144444459,
+      "growth_1000_vs_2000": 0.9911890029292401
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Nighttime Lights and Economic Growth across Satellite Eras: Band Choice and Persistence (replication package)",
+  "upload_type": "software",
+  "description": "Replication code, bundled public inputs (author country reductions of EOG VIIRS and NOAA DMSP lights, World Bank WDI, Penn World Table 11.0), frozen outputs and verification for the working paper 'Nighttime Lights and Economic Growth across Satellite Eras: Band Choice and Persistence' (Version 1, November 2026). 'python run_all.py' reproduces every table and figure in about a minute; 'python run_all.py --verify' checks the frozen outputs.",
+  "creators": [
+    {
+      "name": "Vaidya, Abhijit",
+      "affiliation": "Independent researcher, Pune, India",
+      "orcid": "0009-0000-1690-5224"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "nighttime lights",
+    "VIIRS",
+    "DMSP",
+    "background masking",
+    "GDP measurement",
+    "replication"
+  ],
+  "version": "1.0.0",
+  "related_identifiers": []
+}

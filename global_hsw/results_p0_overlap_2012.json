@@ -1,0 +1,285 @@
+{
+  "main_2012_composite": "2012am (April 2012-March 2013)",
+  "check_2012_composite": "2012ad (April-December 2012)",
+  "method_check_2013": {
+    "average_masked": {
+      "economies": 202,
+      "log_corr": 0.995488,
+      "median_log_gap": 0.013285,
+      "sd_log_gap": 0.205936
+    },
+    "median_masked": {
+      "economies": 202,
+      "log_corr": 0.995325,
+      "median_log_gap": 0.013797,
+      "sd_log_gap": 0.210537
+    }
+  },
+  "overlap_2012am": {
+    "economies": 206,
+    "average": {
+      "corr_levels_2012": 0.848135,
+      "corr_levels_2013": 0.867358,
+      "corr_change": 0.154498,
+      "spearman_change": 0.323721,
+      "slope_dmsp_change_on_viirs_change": [
+        0.086228,
+        0.065095
+      ],
+      "sd_viirs_change": 0.238203,
+      "sd_dmsp_change": 0.132946
+    },
+    "median": {
+      "corr_levels_2012": 0.866894,
+      "corr_levels_2013": 0.87885,
+      "corr_change": 0.102735,
+      "spearman_change": 0.258866,
+      "slope_dmsp_change_on_viirs_change": [
+        0.039164,
+        0.042991
+      ],
+      "sd_viirs_change": 0.348741,
+      "sd_dmsp_change": 0.132946
+    },
+    "average_masked": {
+      "corr_levels_2012": 0.971527,
+      "corr_levels_2013": 0.97405,
+      "corr_change": 0.347609,
+      "spearman_change": 0.384405,
+      "slope_dmsp_change_on_viirs_change": [
+        0.407016,
+        0.095118
+      ],
+      "sd_viirs_change": 0.113541,
+      "sd_dmsp_change": 0.132946
+    },
+    "median_masked": {
+      "corr_levels_2012": 0.972133,
+      "corr_levels_2013": 0.974459,
+      "corr_change": 0.411803,
+      "spearman_change": 0.422592,
+      "slope_dmsp_change_on_viirs_change": [
+        0.543402,
+        0.091978
+      ],
+      "sd_viirs_change": 0.100749,
+      "sd_dmsp_change": 0.132946
+    }
+  },
+  "overlap_2012ad": {
+    "economies": 183,
+    "average": {
+      "corr_levels_2012": 0.879429,
+      "corr_levels_2013": 0.897676,
+      "corr_change": 0.248326,
+      "spearman_change": 0.15528,
+      "slope_dmsp_change_on_viirs_change": [
+        0.086786,
+        0.049473
+      ],
+      "sd_viirs_change": 0.325613,
+      "sd_dmsp_change": 0.113797
+    },
+    "median": {
+      "corr_levels_2012": 0.787563,
+      "corr_levels_2013": 0.908254,
+      "corr_change": -0.026915,
+      "spearman_change": 0.042102,
+      "slope_dmsp_change_on_viirs_change": [
+        -0.003275,
+        0.00743
+      ],
+      "sd_viirs_change": 0.935333,
+      "sd_dmsp_change": 0.113797
+    },
+    "average_masked": {
+      "corr_levels_2012": 0.968187,
+      "corr_levels_2013": 0.972361,
+      "corr_change": 0.299523,
+      "spearman_change": 0.350552,
+      "slope_dmsp_change_on_viirs_change": [
+        0.209085,
+        0.129738
+      ],
+      "sd_viirs_change": 0.163019,
+      "sd_dmsp_change": 0.113797
+    },
+    "median_masked": {
+      "corr_levels_2012": 0.970433,
+      "corr_levels_2013": 0.972671,
+      "corr_change": 0.320284,
+      "spearman_change": 0.31585,
+      "slope_dmsp_change_on_viirs_change": [
+        0.285374,
+        0.112455
+      ],
+      "sd_viirs_change": 0.127718,
+      "sd_dmsp_change": 0.113797
+    }
+  },
+  "overlap_2012am_dmsp_day_weighted": {
+    "weights": {
+      "2012": 0.753425,
+      "2013": 0.246575
+    },
+    "economies": 206,
+    "average": {
+      "corr_levels_2012": 0.85163,
+      "corr_levels_2013": 0.867358,
+      "corr_change": 0.157362,
+      "spearman_change": 0.323721,
+      "slope_dmsp_change_on_viirs_change": [
+        0.065072,
+        0.049469
+      ],
+      "sd_viirs_change": 0.238203,
+      "sd_dmsp_change": 0.098502
+    },
+    "median": {
+      "corr_levels_2012": 0.870349,
+      "corr_levels_2013": 0.87885,
+      "corr_change": 0.10343,
+      "spearman_change": 0.258866,
+      "slope_dmsp_change_on_viirs_change": [
+        0.029214,
+        0.032089
+      ],
+      "sd_viirs_change": 0.348741,
+      "sd_dmsp_change": 0.098502
+    },
+    "average_masked": {
+      "corr_levels_2012": 0.972751,
+      "corr_levels_2013": 0.97405,
+      "corr_change": 0.365331,
+      "spearman_change": 0.384405,
+      "slope_dmsp_change_on_viirs_change": [
+        0.316939,
+        0.074064
+      ],
+      "sd_viirs_change": 0.113541,
+      "sd_dmsp_change": 0.098502
+    },
+    "median_masked": {
+      "corr_levels_2012": 0.973293,
+      "corr_levels_2013": 0.974459,
+      "corr_change": 0.430128,
+      "spearman_change": 0.422592,
+      "slope_dmsp_change_on_viirs_change": [
+        0.420532,
+        0.072571
+      ],
+      "sd_viirs_change": 0.100749,
+      "sd_dmsp_change": 0.098502
+    }
+  },
+  "panel_with_2012am": {
+    "median_masked": {
+      "country_year_effects": [
+        0.23613,
+        0.036116
+      ],
+      "annual_changes": [
+        0.122746,
+        0.020596
+      ],
+      "long_difference_2012_2025": [
+        0.272328,
+        0.038129
+      ],
+      "obs": 2780,
+      "economies_2012": 201,
+      "economies_2013": 202,
+      "pairs": 2569
+    },
+    "average": {
+      "country_year_effects": [
+        0.07545,
+        0.02034
+      ],
+      "annual_changes": [
+        0.014498,
+        0.003385
+      ],
+      "long_difference_2012_2025": [
+        0.117441,
+        0.036741
+      ],
+      "obs": 2776,
+      "economies_2012": 197,
+      "economies_2013": 202,
+      "pairs": 2565
+    }
+  },
+  "leinonen_specs_2012_2024_2012am": {
+    "country_year_effects": [
+      0.232514,
+      0.036096
+    ],
+    "country_trends": [
+      0.116188,
+      0.024261
+    ],
+    "long_difference": [
+      0.268566,
+      0.041198
+    ],
+    "obs": 2598,
+    "economies": 202,
+    "long_difference_economies": 193
+  },
+  "panel_with_2012ad": {
+    "median_masked": {
+      "country_year_effects": [
+        0.235703,
+        0.035787
+      ],
+      "annual_changes": [
+        0.122002,
+        0.02201
+      ],
+      "long_difference_2012_2025": [
+        0.283477,
+        0.041257
+      ],
+      "obs": 2780,
+      "economies_2012": 201,
+      "economies_2013": 202,
+      "pairs": 2569
+    },
+    "average": {
+      "country_year_effects": [
+        0.069802,
+        0.020312
+      ],
+      "annual_changes": [
+        0.011634,
+        0.004146
+      ],
+      "long_difference_2012_2025": [
+        0.071099,
+        0.032293
+      ],
+      "obs": 2774,
+      "economies_2012": 195,
+      "economies_2013": 202,
+      "pairs": 2563
+    }
+  },
+  "leinonen_specs_2012_2024_2012ad": {
+    "country_year_effects": [
+      0.230605,
+      0.034981
+    ],
+    "country_trends": [
+      0.120278,
+      0.023669
+    ],
+    "long_difference": [
+      0.274363,
+      0.042506
+    ],
+    "obs": 2598,
+    "economies": 202,
+    "long_difference_economies": 193
+  }
+}

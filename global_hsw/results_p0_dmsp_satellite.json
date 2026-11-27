@@ -1,0 +1,209 @@
+{
+  "countries": 194,
+  "satellite_year_rows": 5796,
+  "satellites": [
+    "F10",
+    "F12",
+    "F14",
+    "F15",
+    "F16"
+  ],
+  "two_satellite_years": [
+    1994,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008
+  ],
+  "averaged": {
+    "country_year_effects": [
+      0.269698,
+      0.040724
+    ],
+    "annual_changes": [
+      0.073298,
+      0.019593
+    ],
+    "obs": 3283,
+    "pairs": 3089
+  },
+  "satellite_fe": {
+    "country_year_effects": [
+      0.14803,
+      0.03328
+    ],
+    "obs": 5796
+  },
+  "within_sat": {
+    "annual_changes": [
+      0.022529,
+      0.008581
+    ],
+    "pairs": 4826
+  },
+  "satellite_rows_no_sat_fe": {
+    "country_year_effects": [
+      0.133294,
+      0.029333
+    ]
+  },
+  "newest_satellite": {
+    "country_year_effects": [
+      0.223548,
+      0.041224
+    ],
+    "annual_changes": [
+      0.044693,
+      0.015681
+    ],
+    "obs": 3283,
+    "pairs": 3089
+  },
+  "oldest_satellite": {
+    "country_year_effects": [
+      0.145455,
+      0.039859
+    ],
+    "annual_changes": [
+      0.022041,
+      0.009769
+    ],
+    "obs": 3283,
+    "pairs": 3089
+  },
+  "averaged_by_satellite_set": {
+    "same_set": [
+      0.060645,
+      0.016085
+    ],
+    "set_changes": [
+      0.096235,
+      0.034348
+    ],
+    "set_change_years": [
+      1994,
+      1995,
+      1997,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2008
+    ]
+  },
+  "two_satellite_agreement": {
+    "F10_F12": {
+      "level_corr": 0.994343,
+      "level_corr_within_country": null,
+      "annual_change_corr": null,
+      "annual_change_corr_year_demeaned": null,
+      "country_years": 190,
+      "changes": 0,
+      "change_years": []
+    },
+    "F12_F14": {
+      "level_corr": 0.995156,
+      "level_corr_within_country": 0.135794,
+      "annual_change_corr": 0.301129,
+      "annual_change_corr_year_demeaned": 0.25061,
+      "country_years": 582,
+      "changes": 388,
+      "change_years": [
+        1998,
+        1999
+      ]
+    },
+    "F14_F15": {
+      "level_corr": 0.989585,
+      "level_corr_within_country": 0.272158,
+      "annual_change_corr": 0.089701,
+      "annual_change_corr_year_demeaned": 0.161156,
+      "country_years": 772,
+      "changes": 575,
+      "change_years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "F15_F16": {
+      "level_corr": 0.989871,
+      "level_corr_within_country": 0.187709,
+      "annual_change_corr": 0.051858,
+      "annual_change_corr_year_demeaned": 0.144335,
+      "country_years": 969,
+      "changes": 775,
+      "change_years": [
+        2005,
+        2006,
+        2007,
+        2008
+      ]
+    }
+  },
+  "by_satellite": {
+    "F12": {
+      "annual_changes": [
+        0.069445,
+        0.021207
+      ],
+      "years": [
+        1995,
+        1999
+      ],
+      "pairs": 962
+    },
+    "F14": {
+      "annual_changes": [
+        0.010791,
+        0.006973
+      ],
+      "years": [
+        1998,
+        2003
+      ],
+      "pairs": 1157
+    },
+    "F15": {
+      "annual_changes": [
+        0.007734,
+        0.005992
+      ],
+      "years": [
+        2001,
+        2008
+      ],
+      "pairs": 1551
+    },
+    "F16": {
+      "annual_changes": [
+        0.038889,
+        0.014074
+      ],
+      "years": [
+        2005,
+        2008
+      ],
+      "pairs": 776
+    }
+  },
+  "main_validation": {
+    "country_year_effects": [
+      0.260903,
+      0.041159
+    ],
+    "annual_changes": [
+      0.071817,
+      0.01912
+    ]
+  }
+}

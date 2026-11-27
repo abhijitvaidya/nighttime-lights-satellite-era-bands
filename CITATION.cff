@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the working paper below."
+title: "Nighttime Lights and Economic Growth across Satellite Eras: Band Choice and Persistence (replication package)"
+type: software
+authors:
+  - family-names: Vaidya
+    given-names: Abhijit
+    affiliation: "Independent researcher, Pune, India"
+    email: abhijit@abhijitvaidya.in
+    orcid: "https://orcid.org/0009-0000-1690-5224"
+version: "1.0.0"
+doi: 10.5281/zenodo.24581893
+repository-code: "https://github.com/abhijitvaidya/nighttime-lights-satellite-era-bands"
+url: "https://doi.org/10.5281/zenodo.24581893"
+date-released: "2026-11-23"
+license: MIT
+keywords: [nighttime lights, VIIRS, DMSP, background masking, GDP measurement]
+preferred-citation:
+  type: report
+  title: "Nighttime Lights and Economic Growth across Satellite Eras: Band Choice and Persistence"
+  authors:
+    - family-names: Vaidya
+      given-names: Abhijit
+  year: 2026
+  month: 11
+  status: preprint
+  notes: "Working Paper, Version 1."

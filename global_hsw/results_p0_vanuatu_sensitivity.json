@@ -1,0 +1,229 @@
+{
+  "excluded": {
+    "sample": "202 / 2,377",
+    "mm_fe": "0.227 (0.040)",
+    "mm_annual": "0.122 (0.022)",
+    "mm_ld": "0.272 (0.045)",
+    "av_fe": "0.069 (0.021)",
+    "av_annual": "0.018 (0.004)",
+    "av_ld": "0.098 (0.032)",
+    "r2_1": "0.056",
+    "r2_3": "0.123",
+    "r2_5": "0.177",
+    "gain_1": "4.75% / 5.34%",
+    "gain_3": "11.22% / 11.39%",
+    "gain_5": "15.42% / 15.71%"
+  },
+  "included": {
+    "sample": "203 / 2,389",
+    "mm_fe": "0.175 (0.052)",
+    "mm_annual": "0.090 (0.029)",
+    "mm_ld": "0.227 (0.053)",
+    "av_fe": "0.068 (0.020)",
+    "av_annual": "0.017 (0.004)",
+    "av_ld": "0.097 (0.032)",
+    "r2_1": "0.035",
+    "r2_3": "0.100",
+    "r2_5": "0.147",
+    "gain_1": "2.83% / 3.25%",
+    "gain_3": "8.63% / 9.05%",
+    "gain_5": "11.84% / 12.60%"
+  },
+  "rows": [
+    [
+      "Economies / country-years",
+      "sample"
+    ],
+    [
+      "Median-masked, country and year effects",
+      "mm_fe"
+    ],
+    [
+      "Median-masked, annual changes",
+      "mm_annual"
+    ],
+    [
+      "Median-masked, long difference 2014–2025",
+      "mm_ld"
+    ],
+    [
+      "Unmasked average, country and year effects",
+      "av_fe"
+    ],
+    [
+      "Unmasked average, annual changes",
+      "av_annual"
+    ],
+    [
+      "Unmasked average, long difference 2014–2025",
+      "av_ld"
+    ],
+    [
+      "Held-out $R^2$, median-masked, one year",
+      "r2_1"
+    ],
+    [
+      "Held-out $R^2$, median-masked, three years",
+      "r2_3"
+    ],
+    [
+      "Held-out $R^2$, median-masked, five years",
+      "r2_5"
+    ],
+    [
+      "Masking gain (MSE), average / median pair, one year",
+      "gain_1"
+    ],
+    [
+      "Masking gain (MSE), average / median pair, three years",
+      "gain_3"
+    ],
+    [
+      "Masking gain (MSE), average / median pair, five years",
+      "gain_5"
+    ]
+  ],
+  "vanuatu_log_radiance": {
+    "2014": -1.4075,
+    "2015": -1.4992,
+    "2016": -0.6823,
+    "2017": -1.5522,
+    "2018": -1.3245,
+    "2019": -3.9295,
+    "2020": -3.9408,
+    "2021": -4.0936,
+    "2022": -4.1296,
+    "2023": -3.8433,
+    "2024": -4.0035,
+    "2025": -4.0204
+  },
+  "vanuatu_fall_pct": 92.6,
+  "loo": {
+    "vanuatu_shift_levels": 0.0521,
+    "vanuatu_shift_annual": 0.0315,
+    "next_levels": "-0.019 (GUY)",
+    "next_annual": "-0.010 (UKR)"
+  },
+  "loo_after": {
+    "levels_min": 0.2036,
+    "levels_max": 0.2357,
+    "annual_min": 0.1094,
+    "annual_max": 0.1266,
+    "levels_full": 0.2268,
+    "annual_full": 0.1218
+  },
+  "small": {
+    "n": 49,
+    "levels": 0.232,
+    "annual": 0.1368
+  },
+  "gibson_boe_gibson_window": {
+    "vanuatu_excluded": {
+      "average": [
+        0.024161,
+        0.009222
+      ],
+      "average_masked": [
+        0.155147,
+        0.038916
+      ],
+      "median_masked": [
+        0.157974,
+        0.040398
+      ],
+      "obs": 1198,
+      "economies": 202
+    },
+    "vanuatu_included": {
+      "average": [
+        0.023537,
+        0.00901
+      ],
+      "average_masked": [
+        0.095498,
+        0.047543
+      ],
+      "median_masked": [
+        0.102624,
+        0.047945
+      ],
+      "obs": 1204,
+      "economies": 203
+    },
+    "their_table1": {
+      "average": [
+        0.015,
+        0.007
+      ],
+      "average_masked": [
+        0.094,
+        0.038
+      ],
+      "obs": 1192,
+      "economies": 203
+    }
+  },
+  "leinonen_comparison": {
+    "leinonen_2026": {
+      "country_year_effects": [
+        0.225,
+        0.033
+      ],
+      "country_trends": [
+        0.124,
+        0.022
+      ],
+      "long_difference": [
+        0.27,
+        0.042
+      ],
+      "annual_changes": null,
+      "obs": 2509,
+      "economies": 195,
+      "long_difference_economies": 192,
+      "source": "Leinonen (2026), Table 1; transcribed"
+    },
+    "vanuatu_included": {
+      "country_year_effects": [
+        0.170554,
+        0.052897
+      ],
+      "country_trends": [
+        0.078934,
+        0.026684
+      ],
+      "long_difference": [
+        0.234393,
+        0.049047
+      ],
+      "annual_changes": [
+        0.084062,
+        0.025706
+      ],
+      "obs": 2409,
+      "economies": 203,
+      "long_difference_economies": 198
+    },
+    "vanuatu_excluded": {
+      "country_year_effects": [
+        0.22759,
+        0.038435
+      ],
+      "country_trends": [
+        0.10368,
+        0.023134
+      ],
+      "long_difference": [
+        0.272417,
+        0.042378
+      ],
+      "annual_changes": [
+        0.111661,
+        0.019943
+      ],
+      "obs": 2397,
+      "economies": 202,
+      "long_difference_economies": 197
+    }
+  }
+}

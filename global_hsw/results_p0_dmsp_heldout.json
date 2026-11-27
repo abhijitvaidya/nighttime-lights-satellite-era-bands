@@ -1,0 +1,811 @@
+{
+  "panel": {
+    "observations": 4341,
+    "countries": 204,
+    "years": [
+      1992,
+      2013
+    ]
+  },
+  "designs": {
+    "full": {
+      "1": {
+        "n_predictions": 3374,
+        "n_test_years": 17,
+        "test_years": [
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013
+        ],
+        "rmse": 0.053471,
+        "mae": 0.032916,
+        "benchmark_rmse": 0.054006,
+        "oos_r2_vs_common_component": 0.019747,
+        "median_year_spearman": 0.14886,
+        "mean_training_beta": 0.084644,
+        "countries": 203
+      },
+      "3": {
+        "n_predictions": 2968,
+        "n_test_years": 15,
+        "test_years": [
+          1999,
+          2000,
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013
+        ],
+        "rmse": 0.105487,
+        "mae": 0.074493,
+        "benchmark_rmse": 0.10925,
+        "oos_r2_vs_common_component": 0.067712,
+        "median_year_spearman": 0.281749,
+        "mean_training_beta": 0.20494,
+        "countries": 203
+      },
+      "5": {
+        "n_predictions": 2562,
+        "n_test_years": 13,
+        "test_years": [
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013
+        ],
+        "rmse": 0.14629,
+        "mae": 0.10622,
+        "benchmark_rmse": 0.155024,
+        "oos_r2_vs_common_component": 0.109508,
+        "median_year_spearman": 0.33713,
+        "mean_training_beta": 0.25019,
+        "countries": 203
+      }
+    },
+    "hsw_era": {
+      "1": {
+        "n_predictions": 2361,
+        "n_test_years": 12,
+        "test_years": [
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008
+        ],
+        "rmse": 0.04952,
+        "mae": 0.031568,
+        "benchmark_rmse": 0.050022,
+        "oos_r2_vs_common_component": 0.019977,
+        "median_year_spearman": 0.125433,
+        "mean_training_beta": 0.091396,
+        "countries": 201
+      },
+      "3": {
+        "n_predictions": 1960,
+        "n_test_years": 10,
+        "test_years": [
+          1999,
+          2000,
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008
+        ],
+        "rmse": 0.101288,
+        "mae": 0.071352,
+        "benchmark_rmse": 0.104204,
+        "oos_r2_vs_common_component": 0.055197,
+        "median_year_spearman": 0.252941,
+        "mean_training_beta": 0.218839,
+        "countries": 199
+      },
+      "5": {
+        "n_predictions": 1562,
+        "n_test_years": 8,
+        "test_years": [
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008
+        ],
+        "rmse": 0.141993,
+        "mae": 0.102113,
+        "benchmark_rmse": 0.147679,
+        "oos_r2_vs_common_component": 0.075526,
+        "median_year_spearman": 0.29169,
+        "mean_training_beta": 0.263511,
+        "countries": 199
+      }
+    },
+    "windows_equal_length": {
+      "1992-2003": {
+        "1": {
+          "n_predictions": 1363,
+          "n_test_years": 7,
+          "test_years": [
+            1997,
+            1998,
+            1999,
+            2000,
+            2001,
+            2002,
+            2003
+          ],
+          "rmse": 0.053091,
+          "mae": 0.032342,
+          "benchmark_rmse": 0.054169,
+          "oos_r2_vs_common_component": 0.039395,
+          "median_year_spearman": 0.14886,
+          "mean_training_beta": 0.099553,
+          "countries": 199
+        },
+        "3": {
+          "n_predictions": 969,
+          "n_test_years": 5,
+          "test_years": [
+            1999,
+            2000,
+            2001,
+            2002,
+            2003
+          ],
+          "rmse": 0.101695,
+          "mae": 0.069923,
+          "benchmark_rmse": 0.105444,
+          "oos_r2_vs_common_component": 0.069845,
+          "median_year_spearman": 0.276612,
+          "mean_training_beta": 0.241097,
+          "countries": 195
+        },
+        "5": {
+          "n_predictions": 580,
+          "n_test_years": 3,
+          "test_years": [
+            2001,
+            2002,
+            2003
+          ],
+          "rmse": 0.140548,
+          "mae": 0.098806,
+          "benchmark_rmse": 0.144455,
+          "oos_r2_vs_common_component": 0.053363,
+          "median_year_spearman": 0.267494,
+          "mean_training_beta": 0.287375,
+          "countries": 194
+        }
+      },
+      "1993-2004": {
+        "1": {
+          "n_predictions": 1370,
+          "n_test_years": 7,
+          "test_years": [
+            1998,
+            1999,
+            2000,
+            2001,
+            2002,
+            2003,
+            2004
+          ],
+          "rmse": 0.050452,
+          "mae": 0.032091,
+          "benchmark_rmse": 0.050339,
+          "oos_r2_vs_common_component": -0.004526,
+          "median_year_spearman": 0.140028,
+          "mean_training_beta": 0.113969,
+          "countries": 199
+        },
+        "3": {
+          "n_predictions": 972,
+          "n_test_years": 5,
+          "test_years": [
+            2000,
+            2001,
+            2002,
+            2003,
+            2004
+          ],
+          "rmse": 0.097626,
+          "mae": 0.069047,
+          "benchmark_rmse": 0.097863,
+          "oos_r2_vs_common_component": 0.004824,
+          "median_year_spearman": 0.276612,
+          "mean_training_beta": 0.235793,
+          "countries": 195
+        },
+        "5": {
+          "n_predictions": 582,
+          "n_test_years": 3,
+          "test_years": [
+            2002,
+            2003,
+            2004
+          ],
+          "rmse": 0.130448,
+          "mae": 0.094464,
+          "benchmark_rmse": 0.132791,
+          "oos_r2_vs_common_component": 0.034981,
+          "median_year_spearman": 0.315886,
+          "mean_training_beta": 0.269033,
+          "countries": 194
+        }
+      },
+      "1994-2005": {
+        "1": {
+          "n_predictions": 1375,
+          "n_test_years": 7,
+          "test_years": [
+            1999,
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005
+          ],
+          "rmse": 0.048451,
+          "mae": 0.030777,
+          "benchmark_rmse": 0.048755,
+          "oos_r2_vs_common_component": 0.012438,
+          "median_year_spearman": 0.128197,
+          "mean_training_beta": 0.084683,
+          "countries": 199
+        },
+        "3": {
+          "n_predictions": 977,
+          "n_test_years": 5,
+          "test_years": [
+            2001,
+            2002,
+            2003,
+            2004,
+            2005
+          ],
+          "rmse": 0.096616,
+          "mae": 0.068275,
+          "benchmark_rmse": 0.097591,
+          "oos_r2_vs_common_component": 0.01988,
+          "median_year_spearman": 0.276612,
+          "mean_training_beta": 0.208668,
+          "countries": 199
+        },
+        "5": {
+          "n_predictions": 583,
+          "n_test_years": 3,
+          "test_years": [
+            2003,
+            2004,
+            2005
+          ],
+          "rmse": 0.128192,
+          "mae": 0.092044,
+          "benchmark_rmse": 0.135059,
+          "oos_r2_vs_common_component": 0.099109,
+          "median_year_spearman": 0.347632,
+          "mean_training_beta": 0.232253,
+          "countries": 195
+        }
+      },
+      "1995-2006": {
+        "1": {
+          "n_predictions": 1380,
+          "n_test_years": 7,
+          "test_years": [
+            2000,
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006
+          ],
+          "rmse": 0.046784,
+          "mae": 0.029995,
+          "benchmark_rmse": 0.046827,
+          "oos_r2_vs_common_component": 0.001825,
+          "median_year_spearman": 0.122668,
+          "mean_training_beta": 0.082491,
+          "countries": 199
+        },
+        "3": {
+          "n_predictions": 982,
+          "n_test_years": 5,
+          "test_years": [
+            2002,
+            2003,
+            2004,
+            2005,
+            2006
+          ],
+          "rmse": 0.097677,
+          "mae": 0.06887,
+          "benchmark_rmse": 0.100294,
+          "oos_r2_vs_common_component": 0.051497,
+          "median_year_spearman": 0.299746,
+          "mean_training_beta": 0.179901,
+          "countries": 199
+        },
+        "5": {
+          "n_predictions": 584,
+          "n_test_years": 3,
+          "test_years": [
+            2004,
+            2005,
+            2006
+          ],
+          "rmse": 0.134102,
+          "mae": 0.09755,
+          "benchmark_rmse": 0.142232,
+          "oos_r2_vs_common_component": 0.111054,
+          "median_year_spearman": 0.347632,
+          "mean_training_beta": 0.211736,
+          "countries": 195
+        }
+      },
+      "1996-2007": {
+        "1": {
+          "n_predictions": 1386,
+          "n_test_years": 7,
+          "test_years": [
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007
+          ],
+          "rmse": 0.045884,
+          "mae": 0.030041,
+          "benchmark_rmse": 0.045897,
+          "oos_r2_vs_common_component": 0.000599,
+          "median_year_spearman": 0.115398,
+          "mean_training_beta": 0.073493,
+          "countries": 200
+        },
+        "3": {
+          "n_predictions": 987,
+          "n_test_years": 5,
+          "test_years": [
+            2003,
+            2004,
+            2005,
+            2006,
+            2007
+          ],
+          "rmse": 0.100049,
+          "mae": 0.070957,
+          "benchmark_rmse": 0.103016,
+          "oos_r2_vs_common_component": 0.056763,
+          "median_year_spearman": 0.276612,
+          "mean_training_beta": 0.149322,
+          "countries": 199
+        },
+        "5": {
+          "n_predictions": 589,
+          "n_test_years": 3,
+          "test_years": [
+            2005,
+            2006,
+            2007
+          ],
+          "rmse": 0.143747,
+          "mae": 0.105565,
+          "benchmark_rmse": 0.151026,
+          "oos_r2_vs_common_component": 0.094074,
+          "median_year_spearman": 0.340006,
+          "mean_training_beta": 0.183285,
+          "countries": 199
+        }
+      },
+      "1997-2008": {
+        "1": {
+          "n_predictions": 1392,
+          "n_test_years": 7,
+          "test_years": [
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007,
+            2008
+          ],
+          "rmse": 0.046594,
+          "mae": 0.030779,
+          "benchmark_rmse": 0.046771,
+          "oos_r2_vs_common_component": 0.007569,
+          "median_year_spearman": 0.088266,
+          "mean_training_beta": 0.058502,
+          "countries": 201
+        },
+        "3": {
+          "n_predictions": 991,
+          "n_test_years": 5,
+          "test_years": [
+            2004,
+            2005,
+            2006,
+            2007,
+            2008
+          ],
+          "rmse": 0.099896,
+          "mae": 0.071745,
+          "benchmark_rmse": 0.102977,
+          "oos_r2_vs_common_component": 0.058954,
+          "median_year_spearman": 0.229271,
+          "mean_training_beta": 0.12149,
+          "countries": 199
+        },
+        "5": {
+          "n_predictions": 593,
+          "n_test_years": 3,
+          "test_years": [
+            2006,
+            2007,
+            2008
+          ],
+          "rmse": 0.150033,
+          "mae": 0.110852,
+          "benchmark_rmse": 0.156949,
+          "oos_r2_vs_common_component": 0.086191,
+          "median_year_spearman": 0.250132,
+          "mean_training_beta": 0.173776,
+          "countries": 199
+        }
+      },
+      "1998-2009": {
+        "1": {
+          "n_predictions": 1400,
+          "n_test_years": 7,
+          "test_years": [
+            2003,
+            2004,
+            2005,
+            2006,
+            2007,
+            2008,
+            2009
+          ],
+          "rmse": 0.049003,
+          "mae": 0.033014,
+          "benchmark_rmse": 0.049267,
+          "oos_r2_vs_common_component": 0.010678,
+          "median_year_spearman": 0.088266,
+          "mean_training_beta": 0.052553,
+          "countries": 203
+        },
+        "3": {
+          "n_predictions": 996,
+          "n_test_years": 5,
+          "test_years": [
+            2005,
+            2006,
+            2007,
+            2008,
+            2009
+          ],
+          "rmse": 0.101121,
+          "mae": 0.073553,
+          "benchmark_rmse": 0.103764,
+          "oos_r2_vs_common_component": 0.050307,
+          "median_year_spearman": 0.224966,
+          "mean_training_beta": 0.120048,
+          "countries": 200
+        },
+        "5": {
+          "n_predictions": 597,
+          "n_test_years": 3,
+          "test_years": [
+            2007,
+            2008,
+            2009
+          ],
+          "rmse": 0.153297,
+          "mae": 0.112115,
+          "benchmark_rmse": 0.158859,
+          "oos_r2_vs_common_component": 0.068805,
+          "median_year_spearman": 0.241873,
+          "mean_training_beta": 0.187653,
+          "countries": 199
+        }
+      },
+      "1999-2010": {
+        "1": {
+          "n_predictions": 1404,
+          "n_test_years": 7,
+          "test_years": [
+            2004,
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010
+          ],
+          "rmse": 0.046219,
+          "mae": 0.032317,
+          "benchmark_rmse": 0.046356,
+          "oos_r2_vs_common_component": 0.005906,
+          "median_year_spearman": 0.115398,
+          "mean_training_beta": 0.043777,
+          "countries": 203
+        },
+        "3": {
+          "n_predictions": 998,
+          "n_test_years": 5,
+          "test_years": [
+            2006,
+            2007,
+            2008,
+            2009,
+            2010
+          ],
+          "rmse": 0.103609,
+          "mae": 0.076739,
+          "benchmark_rmse": 0.10611,
+          "oos_r2_vs_common_component": 0.046583,
+          "median_year_spearman": 0.224966,
+          "mean_training_beta": 0.126863,
+          "countries": 201
+        },
+        "5": {
+          "n_predictions": 597,
+          "n_test_years": 3,
+          "test_years": [
+            2008,
+            2009,
+            2010
+          ],
+          "rmse": 0.151404,
+          "mae": 0.110873,
+          "benchmark_rmse": 0.15752,
+          "oos_r2_vs_common_component": 0.076138,
+          "median_year_spearman": 0.241873,
+          "mean_training_beta": 0.189853,
+          "countries": 199
+        }
+      },
+      "2000-2011": {
+        "1": {
+          "n_predictions": 1408,
+          "n_test_years": 7,
+          "test_years": [
+            2005,
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011
+          ],
+          "rmse": 0.049292,
+          "mae": 0.032897,
+          "benchmark_rmse": 0.049631,
+          "oos_r2_vs_common_component": 0.013581,
+          "median_year_spearman": 0.122668,
+          "mean_training_beta": 0.037741,
+          "countries": 203
+        },
+        "3": {
+          "n_predictions": 1002,
+          "n_test_years": 5,
+          "test_years": [
+            2007,
+            2008,
+            2009,
+            2010,
+            2011
+          ],
+          "rmse": 0.107158,
+          "mae": 0.078739,
+          "benchmark_rmse": 0.110846,
+          "oos_r2_vs_common_component": 0.06542,
+          "median_year_spearman": 0.224966,
+          "mean_training_beta": 0.122213,
+          "countries": 203
+        },
+        "5": {
+          "n_predictions": 598,
+          "n_test_years": 3,
+          "test_years": [
+            2009,
+            2010,
+            2011
+          ],
+          "rmse": 0.151841,
+          "mae": 0.111542,
+          "benchmark_rmse": 0.159595,
+          "oos_r2_vs_common_component": 0.094808,
+          "median_year_spearman": 0.33713,
+          "mean_training_beta": 0.182776,
+          "countries": 200
+        }
+      },
+      "2001-2012": {
+        "1": {
+          "n_predictions": 1411,
+          "n_test_years": 7,
+          "test_years": [
+            2006,
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "rmse": 0.055647,
+          "mae": 0.034504,
+          "benchmark_rmse": 0.056056,
+          "oos_r2_vs_common_component": 0.014555,
+          "median_year_spearman": 0.172978,
+          "mean_training_beta": 0.038593,
+          "countries": 203
+        },
+        "3": {
+          "n_predictions": 1005,
+          "n_test_years": 5,
+          "test_years": [
+            2008,
+            2009,
+            2010,
+            2011,
+            2012
+          ],
+          "rmse": 0.109576,
+          "mae": 0.079827,
+          "benchmark_rmse": 0.113795,
+          "oos_r2_vs_common_component": 0.072764,
+          "median_year_spearman": 0.304748,
+          "mean_training_beta": 0.123175,
+          "countries": 203
+        },
+        "5": {
+          "n_predictions": 599,
+          "n_test_years": 3,
+          "test_years": [
+            2010,
+            2011,
+            2012
+          ],
+          "rmse": 0.152504,
+          "mae": 0.114372,
+          "benchmark_rmse": 0.163677,
+          "oos_r2_vs_common_component": 0.131874,
+          "median_year_spearman": 0.425859,
+          "mean_training_beta": 0.17635,
+          "countries": 201
+        }
+      },
+      "2002-2013": {
+        "1": {
+          "n_predictions": 1414,
+          "n_test_years": 7,
+          "test_years": [
+            2007,
+            2008,
+            2009,
+            2010,
+            2011,
+            2012,
+            2013
+          ],
+          "rmse": 0.057192,
+          "mae": 0.034744,
+          "benchmark_rmse": 0.057711,
+          "oos_r2_vs_common_component": 0.017892,
+          "median_year_spearman": 0.181639,
+          "mean_training_beta": 0.035276,
+          "countries": 203
+        },
+        "3": {
+          "n_predictions": 1008,
+          "n_test_years": 5,
+          "test_years": [
+            2009,
+            2010,
+            2011,
+            2012,
+            2013
+          ],
+          "rmse": 0.113183,
+          "mae": 0.080901,
+          "benchmark_rmse": 0.118449,
+          "oos_r2_vs_common_component": 0.086935,
+          "median_year_spearman": 0.447969,
+          "mean_training_beta": 0.124856,
+          "countries": 203
+        },
+        "5": {
+          "n_predictions": 602,
+          "n_test_years": 3,
+          "test_years": [
+            2011,
+            2012,
+            2013
+          ],
+          "rmse": 0.154993,
+          "mae": 0.1153,
+          "benchmark_rmse": 0.171776,
+          "oos_r2_vs_common_component": 0.185858,
+          "median_year_spearman": 0.467736,
+          "mean_training_beta": 0.182611,
+          "countries": 203
+        }
+      }
+    }
+  },
+  "window_years": 12,
+  "windows_equal_length_r2_summary": {
+    "1": {
+      "windows": 11,
+      "min": -0.004526,
+      "max": 0.039395,
+      "mean": 0.010901,
+      "median": 0.010678
+    },
+    "3": {
+      "windows": 11,
+      "min": 0.004824,
+      "max": 0.086935,
+      "mean": 0.05307,
+      "median": 0.056763
+    },
+    "5": {
+      "windows": 11,
+      "min": 0.034981,
+      "max": 0.185858,
+      "mean": 0.094205,
+      "median": 0.094074
+    }
+  }
+}

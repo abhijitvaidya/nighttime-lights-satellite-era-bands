@@ -1,0 +1,1651 @@
+country,gaul_code,period,band,mean,count
+Afghanistan,1,2012ad,average_masked,0.03074558,3600448
+Afghanistan,1,2012ad,median_masked,0.02845841,3600448
+Afghanistan,1,2012am,average_masked,0.02889808,3600448
+Afghanistan,1,2012am,median_masked,0.027168,3600448
+Afghanistan,1,2013,average_masked,0.02991267,3600448
+Afghanistan,1,2013,median_masked,0.02853987,3600448
+Aksai Chin,2,2012ad,average_masked,1.37e-06,173507
+Aksai Chin,2,2012ad,median_masked,1.07e-06,173507
+Aksai Chin,2,2012am,average_masked,0.0,173507
+Aksai Chin,2,2012am,median_masked,0.0,173507
+Aksai Chin,2,2013,average_masked,0.0,173507
+Aksai Chin,2,2013,median_masked,0.0,173507
+Albania,3,2012ad,average_masked,0.49590077,177163
+Albania,3,2012ad,median_masked,0.48040324,177163
+Albania,3,2012am,average_masked,0.48777126,177163
+Albania,3,2012am,median_masked,0.47085528,177163
+Albania,3,2013,average_masked,0.5393553,177163
+Albania,3,2013,median_masked,0.51446171,177163
+Algeria,4,2012ad,average_masked,0.24149003,12264557
+Algeria,4,2012ad,median_masked,0.21720718,12264557
+Algeria,4,2012am,average_masked,0.24450141,12264557
+Algeria,4,2012am,median_masked,0.21786711,12264557
+Algeria,4,2013,average_masked,0.27687792,12264557
+Algeria,4,2013,median_masked,0.24112171,12264557
+American Samoa,5,2012ad,average_masked,1.25945411,890
+American Samoa,5,2012ad,median_masked,1.26229888,890
+American Samoa,5,2012am,average_masked,1.29453117,890
+American Samoa,5,2012am,median_masked,1.2975192,890
+American Samoa,5,2013,average_masked,1.48840791,890
+American Samoa,5,2013,median_masked,1.46950026,890
+Sudan,6,2012ad,average_masked,0.01369229,8978713
+Sudan,6,2012ad,median_masked,0.01251296,8978713
+Sudan,6,2012am,average_masked,0.01516138,8978713
+Sudan,6,2012am,median_masked,0.01373703,8978713
+Sudan,6,2013,average_masked,0.01789699,8978713
+Sudan,6,2013,median_masked,0.01627374,8978713
+Andorra,7,2012ad,average_masked,2.52620725,2914
+Andorra,7,2012ad,median_masked,2.40407291,2914
+Andorra,7,2012am,average_masked,2.89624959,2914
+Andorra,7,2012am,median_masked,2.62474547,2914
+Andorra,7,2013,average_masked,3.15252777,2914
+Andorra,7,2013,median_masked,2.98658847,2914
+Angola,8,2012ad,average_masked,0.02453258,5976299
+Angola,8,2012ad,median_masked,0.02370207,5976299
+Angola,8,2012am,average_masked,0.02475905,5976299
+Angola,8,2012am,median_masked,0.02395975,5976299
+Angola,8,2013,average_masked,0.03537759,5976299
+Angola,8,2013,median_masked,0.03194699,5976299
+Anguilla,9,2012ad,average_masked,2.94974155,365
+Anguilla,9,2012ad,median_masked,2.918434,365
+Anguilla,9,2012am,average_masked,3.08403204,365
+Anguilla,9,2012am,median_masked,3.00097283,365
+Anguilla,9,2013,average_masked,3.33334663,365
+Anguilla,9,2013,median_masked,3.23914712,365
+Antigua and Barbuda,11,2012ad,average_masked,2.13823979,2226
+Antigua and Barbuda,11,2012ad,median_masked,2.10378299,2226
+Antigua and Barbuda,11,2012am,average_masked,2.19436795,2226
+Antigua and Barbuda,11,2012am,median_masked,2.14522452,2226
+Antigua and Barbuda,11,2013,average_masked,2.27118696,2226
+Antigua and Barbuda,11,2013,median_masked,2.21479348,2226
+Argentina,12,2012ad,average_masked,0.21188021,16029857
+Argentina,12,2012ad,median_masked,0.20581589,16029857
+Argentina,12,2012am,average_masked,0.212699,16029857
+Argentina,12,2012am,median_masked,0.20630794,16029857
+Argentina,12,2013,average_masked,0.2417304,16029857
+Argentina,12,2013,median_masked,0.23403169,16029857
+Armenia,13,2012ad,average_masked,0.18561642,179550
+Armenia,13,2012ad,median_masked,0.17304884,179550
+Armenia,13,2012am,average_masked,0.21065836,179550
+Armenia,13,2012am,median_masked,0.18642505,179550
+Armenia,13,2013,average_masked,0.20711072,179550
+Armenia,13,2013,median_masked,0.19640066,179550
+Aruba,14,2012ad,average_masked,4.30909421,828
+Aruba,14,2012ad,median_masked,4.26621256,828
+Aruba,14,2012am,average_masked,4.56164749,828
+Aruba,14,2012am,median_masked,4.4195242,828
+Aruba,14,2013,average_masked,4.9631545,828
+Aruba,14,2013,median_masked,4.86110227,828
+Arunachal Pradesh,15,2012ad,average_masked,0.01353856,358174
+Arunachal Pradesh,15,2012ad,median_masked,0.0119313,358174
+Arunachal Pradesh,15,2012am,average_masked,0.01219747,358174
+Arunachal Pradesh,15,2012am,median_masked,0.01101438,358174
+Arunachal Pradesh,15,2013,average_masked,0.01411282,358174
+Arunachal Pradesh,15,2013,median_masked,0.01166535,358174
+Ashmore and Cartier Islands,16,2012ad,average_masked,0.0,4
+Ashmore and Cartier Islands,16,2012ad,median_masked,0.0,4
+Ashmore and Cartier Islands,16,2012am,average_masked,0.0,4
+Ashmore and Cartier Islands,16,2012am,median_masked,0.0,4
+Ashmore and Cartier Islands,16,2013,average_masked,0.0,4
+Ashmore and Cartier Islands,16,2013,median_masked,0.0,4
+Australia,17,2012ad,average_masked,0.03096992,40068713
+Australia,17,2012ad,median_masked,0.0300424,40068713
+Australia,17,2012am,average_masked,0.03162835,40068713
+Australia,17,2012am,median_masked,0.0304777,40068713
+Australia,17,2013,average_masked,0.03509183,40068713
+Australia,17,2013,median_masked,0.03321873,40068713
+Austria,18,2012ad,average_masked,0.51529794,577682
+Austria,18,2012ad,median_masked,0.48164638,577682
+Austria,18,2012am,average_masked,0.57147431,577682
+Austria,18,2012am,median_masked,0.54348565,577682
+Austria,18,2013,average_masked,0.58534369,577682
+Austria,18,2013,median_masked,0.55305861,577682
+Azerbaijan,19,2012ad,average_masked,0.31696217,1003431
+Azerbaijan,19,2012ad,median_masked,0.2912322,1003431
+Azerbaijan,19,2012am,average_masked,0.31100248,1003431
+Azerbaijan,19,2012am,median_masked,0.27661634,1003431
+Azerbaijan,19,2013,average_masked,0.45492444,1003431
+Azerbaijan,19,2013,median_masked,0.3041768,1003431
+Bahamas,20,2012ad,average_masked,0.46214427,64790
+Bahamas,20,2012ad,median_masked,0.45719622,64790
+Bahamas,20,2012am,average_masked,0.48831056,64790
+Bahamas,20,2012am,median_masked,0.47935178,64790
+Bahamas,20,2013,average_masked,0.53481271,64790
+Bahamas,20,2013,median_masked,0.52130707,64790
+Bahrain,21,2012ad,average_masked,38.54673037,3462
+Bahrain,21,2012ad,median_masked,37.30706521,3462
+Bahrain,21,2012am,average_masked,40.75712808,3462
+Bahrain,21,2012am,median_masked,38.57303953,3462
+Bahrain,21,2013,average_masked,46.43192096,3462
+Bahrain,21,2013,median_masked,43.0726521,3462
+Baker Island,22,2012ad,average_masked,0.0,4
+Baker Island,22,2012ad,median_masked,0.0,4
+Baker Island,22,2012am,average_masked,0.0,4
+Baker Island,22,2012am,median_masked,0.0,4
+Baker Island,22,2013,average_masked,0.0,4
+Baker Island,22,2013,median_masked,0.0,4
+Bangladesh,23,2012ad,average_masked,0.22856947,712598
+Bangladesh,23,2012ad,median_masked,0.2192408,712598
+Bangladesh,23,2012am,average_masked,0.24802605,712598
+Bangladesh,23,2012am,median_masked,0.2367492,712598
+Bangladesh,23,2013,average_masked,0.27338345,712598
+Bangladesh,23,2013,median_masked,0.26111981,712598
+Barbados,24,2012ad,average_masked,4.13756795,2029
+Barbados,24,2012ad,median_masked,4.10606785,2029
+Barbados,24,2012am,average_masked,4.32327861,2029
+Barbados,24,2012am,median_masked,4.25069163,2029
+Barbados,24,2013,average_masked,4.47100288,2029
+Barbados,24,2013,median_masked,4.40512526,2029
+Bassas da India,25,2012ad,average_masked,0.0,4
+Bassas da India,25,2012ad,median_masked,0.0,4
+Bassas da India,25,2012am,average_masked,0.0,4
+Bassas da India,25,2012am,median_masked,0.0,4
+Bassas da India,25,2013,average_masked,0.0,4
+Bassas da India,25,2013,median_masked,0.0,4
+Belarus,26,2012ad,average_masked,0.20238684,1618227
+Belarus,26,2012ad,median_masked,0.15994185,1618227
+Belarus,26,2012am,average_masked,0.32262088,1618227
+Belarus,26,2012am,median_masked,0.3084063,1618227
+Belarus,26,2013,average_masked,0.3127605,1618227
+Belarus,26,2013,median_masked,0.27727402,1618227
+Belgium,27,2012ad,average_masked,3.98729955,224032
+Belgium,27,2012ad,median_masked,3.95528883,224032
+Belgium,27,2012am,average_masked,4.71671454,224032
+Belgium,27,2012am,median_masked,4.3810644,224032
+Belgium,27,2013,average_masked,4.64875087,224032
+Belgium,27,2013,median_masked,4.54441282,224032
+Belize,28,2012ad,average_masked,0.11162512,106726
+Belize,28,2012ad,median_masked,0.1116565,106726
+Belize,28,2012am,average_masked,0.11290896,106726
+Belize,28,2012am,median_masked,0.11192019,106726
+Belize,28,2013,average_masked,0.11988246,106726
+Belize,28,2013,median_masked,0.11395682,106726
+Benin,29,2012ad,average_masked,0.02480787,545972
+Benin,29,2012ad,median_masked,0.02437574,545972
+Benin,29,2012am,average_masked,0.02382049,545972
+Benin,29,2012am,median_masked,0.02405574,545972
+Benin,29,2013,average_masked,0.02746789,545972
+Benin,29,2013,median_masked,0.02582259,545972
+Bermuda,30,2012ad,average_masked,6.46203038,343
+Bermuda,30,2012ad,median_masked,6.50304444,343
+Bermuda,30,2012am,average_masked,6.23973892,343
+Bermuda,30,2012am,median_masked,6.36075035,343
+Bermuda,30,2013,average_masked,6.76783536,343
+Bermuda,30,2013,median_masked,6.59716548,343
+Bhutan,31,2012ad,average_masked,0.04294196,197212
+Bhutan,31,2012ad,median_masked,0.03732988,197212
+Bhutan,31,2012am,average_masked,0.04323685,197212
+Bhutan,31,2012am,median_masked,0.03924918,197212
+Bhutan,31,2013,average_masked,0.0430418,197212
+Bhutan,31,2013,median_masked,0.03948107,197212
+Bird Island,32,2012ad,average_masked,0.35601014,1
+Bird Island,32,2012ad,median_masked,0.3605296,1
+Bird Island,32,2012am,average_masked,0.384864,1
+Bird Island,32,2012am,median_masked,0.36410582,1
+Bird Island,32,2013,average_masked,0.48375374,1
+Bird Island,32,2013,median_masked,0.50252193,1
+Bolivia,33,2012ad,average_masked,0.04371787,5297521
+Bolivia,33,2012ad,median_masked,0.0417636,5297521
+Bolivia,33,2012am,average_masked,0.04348519,5297521
+Bolivia,33,2012am,median_masked,0.04158867,5297521
+Bolivia,33,2013,average_masked,0.05078827,5297521
+Bolivia,33,2013,median_masked,0.0483696,5297521
+Bosnia and Herzegovina,34,2012ad,average_masked,0.44104028,330662
+Bosnia and Herzegovina,34,2012ad,median_masked,0.38330425,330662
+Bosnia and Herzegovina,34,2012am,average_masked,0.44837709,330662
+Bosnia and Herzegovina,34,2012am,median_masked,0.39032502,330662
+Bosnia and Herzegovina,34,2013,average_masked,0.42214926,330662
+Bosnia and Herzegovina,34,2013,median_masked,0.39581458,330662
+Botswana,35,2012ad,average_masked,0.0156218,2917306
+Botswana,35,2012ad,median_masked,0.01525836,2917306
+Botswana,35,2012am,average_masked,0.01548887,2917306
+Botswana,35,2012am,median_masked,0.01509569,2917306
+Botswana,35,2013,average_masked,0.0172691,2917306
+Botswana,35,2013,median_masked,0.01675543,2917306
+Bouvet Island,36,2012ad,average_masked,0.0,291
+Bouvet Island,36,2012ad,median_masked,0.0,291
+Bouvet Island,36,2012am,average_masked,0.0,291
+Bouvet Island,36,2012am,median_masked,0.0,291
+Bouvet Island,36,2013,average_masked,0.0,291
+Bouvet Island,36,2013,median_masked,0.0,291
+Brazil,37,2012ad,average_masked,0.17809056,40796447
+Brazil,37,2012ad,median_masked,0.17235045,40796447
+Brazil,37,2012am,average_masked,0.17806764,40796447
+Brazil,37,2012am,median_masked,0.17187332,40796447
+Brazil,37,2013,average_masked,0.19998823,40796447
+Brazil,37,2013,median_masked,0.19196474,40796447
+British Indian Ocean Territory,38,2012ad,average_masked,0.75208725,261
+British Indian Ocean Territory,38,2012ad,median_masked,0.72924426,261
+British Indian Ocean Territory,38,2012am,average_masked,0.92110673,261
+British Indian Ocean Territory,38,2012am,median_masked,0.81966406,261
+British Indian Ocean Territory,38,2013,average_masked,0.96153639,261
+British Indian Ocean Territory,38,2013,median_masked,0.7810537,261
+British Virgin Islands,39,2012ad,average_masked,1.64608865,748
+British Virgin Islands,39,2012ad,median_masked,1.63471234,748
+British Virgin Islands,39,2012am,average_masked,1.72434129,748
+British Virgin Islands,39,2012am,median_masked,1.69693389,748
+British Virgin Islands,39,2013,average_masked,1.68868134,748
+British Virgin Islands,39,2013,median_masked,1.64142293,748
+Brunei Darussalam,40,2012ad,average_masked,1.89162416,27441
+Brunei Darussalam,40,2012ad,median_masked,1.88798029,27441
+Brunei Darussalam,40,2012am,average_masked,2.01799484,27441
+Brunei Darussalam,40,2012am,median_masked,1.98181312,27441
+Brunei Darussalam,40,2013,average_masked,1.77523161,27441
+Brunei Darussalam,40,2013,median_masked,1.75879017,27441
+Bulgaria,41,2012ad,average_masked,0.39388133,704270
+Bulgaria,41,2012ad,median_masked,0.36649599,704270
+Bulgaria,41,2012am,average_masked,0.39975102,704270
+Bulgaria,41,2012am,median_masked,0.37023042,704270
+Bulgaria,41,2013,average_masked,0.40522178,704270
+Bulgaria,41,2013,median_masked,0.39880335,704270
+Burkina Faso,42,2012ad,average_masked,0.01880219,1307332
+Burkina Faso,42,2012ad,median_masked,0.01724001,1307332
+Burkina Faso,42,2012am,average_masked,0.02004844,1307332
+Burkina Faso,42,2012am,median_masked,0.01864474,1307332
+Burkina Faso,42,2013,average_masked,0.02151428,1307332
+Burkina Faso,42,2013,median_masked,0.02062205,1307332
+Burundi,43,2012ad,average_masked,0.01649314,125570
+Burundi,43,2012ad,median_masked,0.01608569,125570
+Burundi,43,2012am,average_masked,0.01696777,125570
+Burundi,43,2012am,median_masked,0.01661367,125570
+Burundi,43,2013,average_masked,0.01935219,125570
+Burundi,43,2013,median_masked,0.01895504,125570
+Cambodia,44,2012ad,average_masked,0.02019087,868652
+Cambodia,44,2012ad,median_masked,0.01938046,868652
+Cambodia,44,2012am,average_masked,0.0291312,868652
+Cambodia,44,2012am,median_masked,0.01825774,868652
+Cambodia,44,2013,average_masked,0.02792151,868652
+Cambodia,44,2013,median_masked,0.01949259,868652
+Cameroon,45,2012ad,average_masked,0.02472483,2187774
+Cameroon,45,2012ad,median_masked,0.01891376,2187774
+Cameroon,45,2012am,average_masked,0.01451536,2187774
+Cameroon,45,2012am,median_masked,0.01263872,2187774
+Cameroon,45,2013,average_masked,0.01383218,2187774
+Cameroon,45,2013,median_masked,0.01335686,2187774
+Canada,46,2012ad,average_masked,0.07553139,87425216
+Canada,46,2012ad,median_masked,0.06918785,87425216
+Canada,46,2012am,average_masked,0.08906821,87425216
+Canada,46,2012am,median_masked,0.08294271,87425216
+Canada,46,2013,average_masked,0.09306164,87425216
+Canada,46,2013,median_masked,0.08874893,87425216
+Cape Verde,47,2012ad,average_masked,0.20112709,19531
+Cape Verde,47,2012ad,median_masked,0.19211741,19531
+Cape Verde,47,2012am,average_masked,0.22300166,19531
+Cape Verde,47,2012am,median_masked,0.21402519,19531
+Cape Verde,47,2013,average_masked,0.24672705,19531
+Cape Verde,47,2013,median_masked,0.24570408,19531
+Cayman Islands,48,2012ad,average_masked,5.12181089,1215
+Cayman Islands,48,2012ad,median_masked,5.04950448,1215
+Cayman Islands,48,2012am,average_masked,5.42694829,1215
+Cayman Islands,48,2012am,median_masked,5.29474651,1215
+Cayman Islands,48,2013,average_masked,5.75657116,1215
+Cayman Islands,48,2013,median_masked,5.63796596,1215
+Central African Republic,49,2012ad,average_masked,0.00428503,2917353
+Central African Republic,49,2012ad,median_masked,0.00245133,2917353
+Central African Republic,49,2012am,average_masked,0.00079182,2917353
+Central African Republic,49,2012am,median_masked,0.00056467,2917353
+Central African Republic,49,2013,average_masked,0.00045089,2917353
+Central African Republic,49,2013,median_masked,0.00042981,2917353
+Chad,50,2012ad,average_masked,0.00430408,6143835
+Chad,50,2012ad,median_masked,0.00360304,6143835
+Chad,50,2012am,average_masked,0.00405647,6143835
+Chad,50,2012am,median_masked,0.00373614,6143835
+Chad,50,2013,average_masked,0.00536553,6143835
+Chad,50,2013,median_masked,0.00476536,6143835
+Chile,51,2012ad,average_masked,0.15213701,4542031
+Chile,51,2012ad,median_masked,0.14591536,4542031
+Chile,51,2012am,average_masked,0.1599778,4542031
+Chile,51,2012am,median_masked,0.15293484,4542031
+Chile,51,2013,average_masked,0.17731589,4542031
+Chile,51,2013,median_masked,0.17315079,4542031
+China/India,52,2012ad,average_masked,0.0006278,18783
+China/India,52,2012ad,median_masked,0.00047682,18783
+China/India,52,2012am,average_masked,0.00095582,18783
+China/India,52,2012am,median_masked,0.0006689,18783
+China/India,52,2013,average_masked,0.00109045,18783
+China/India,52,2013,median_masked,0.00100854,18783
+Christmas Island,54,2012ad,average_masked,0.51870892,702
+Christmas Island,54,2012ad,median_masked,0.49305909,702
+Christmas Island,54,2012am,average_masked,0.51784425,702
+Christmas Island,54,2012am,median_masked,0.48397191,702
+Christmas Island,54,2013,average_masked,0.48972627,702
+Christmas Island,54,2013,median_masked,0.46753521,702
+Clipperton Island,55,2012ad,average_masked,0.0,27
+Clipperton Island,55,2012ad,median_masked,0.0,27
+Clipperton Island,55,2012am,average_masked,0.0,27
+Clipperton Island,55,2012am,median_masked,0.0,27
+Clipperton Island,55,2013,average_masked,0.0,27
+Clipperton Island,55,2013,median_masked,0.0,27
+Cocos (Keeling) Islands,56,2012ad,average_masked,0.04394486,74
+Cocos (Keeling) Islands,56,2012ad,median_masked,0.04036441,74
+Cocos (Keeling) Islands,56,2012am,average_masked,0.05107766,74
+Cocos (Keeling) Islands,56,2012am,median_masked,0.04580158,74
+Cocos (Keeling) Islands,56,2013,average_masked,0.05340764,74
+Cocos (Keeling) Islands,56,2013,median_masked,0.04603027,74
+Colombia,57,2012ad,average_masked,0.1501454,5343771
+Colombia,57,2012ad,median_masked,0.14513965,5343771
+Colombia,57,2012am,average_masked,0.16206616,5343771
+Colombia,57,2012am,median_masked,0.15241705,5343771
+Colombia,57,2013,average_masked,0.16235106,5343771
+Colombia,57,2013,median_masked,0.15573989,5343771
+Comoros,58,2012ad,average_masked,0.04232023,7831
+Comoros,58,2012ad,median_masked,0.04144521,7831
+Comoros,58,2012am,average_masked,0.0411697,7831
+Comoros,58,2012am,median_masked,0.04010282,7831
+Comoros,58,2013,average_masked,0.03651168,7831
+Comoros,58,2013,median_masked,0.03485003,7831
+Congo,59,2012ad,average_masked,0.05628698,1593616
+Congo,59,2012ad,median_masked,0.04992949,1593616
+Congo,59,2012am,average_masked,0.05111736,1593616
+Congo,59,2012am,median_masked,0.04725753,1593616
+Congo,59,2013,average_masked,0.06757599,1593616
+Congo,59,2013,median_masked,0.06420692,1593616
+Cook Islands,60,2012ad,average_masked,0.05325822,1056
+Cook Islands,60,2012ad,median_masked,0.04711237,1056
+Cook Islands,60,2012am,average_masked,0.05520152,1056
+Cook Islands,60,2012am,median_masked,0.05127777,1056
+Cook Islands,60,2013,average_masked,0.06711361,1056
+Cook Islands,60,2013,median_masked,0.06321508,1056
+Costa Rica,61,2012ad,average_masked,0.48623277,242669
+Costa Rica,61,2012ad,median_masked,0.48510456,242669
+Costa Rica,61,2012am,average_masked,0.59126743,242669
+Costa Rica,61,2012am,median_masked,0.53726038,242669
+Costa Rica,61,2013,average_masked,0.61960295,242669
+Costa Rica,61,2013,median_masked,0.58492685,242669
+Croatia,62,2012ad,average_masked,1.09503606,370686
+Croatia,62,2012ad,median_masked,0.94152585,370686
+Croatia,62,2012am,average_masked,1.09055862,370686
+Croatia,62,2012am,median_masked,0.97483738,370686
+Croatia,62,2013,average_masked,1.01611879,370686
+Croatia,62,2013,median_masked,0.96435602,370686
+Cuba,63,2012ad,average_masked,0.26712385,557549
+Cuba,63,2012ad,median_masked,0.26333401,557549
+Cuba,63,2012am,average_masked,0.29098675,557549
+Cuba,63,2012am,median_masked,0.27611885,557549
+Cuba,63,2013,average_masked,0.3214048,557549
+Cuba,63,2013,median_masked,0.30508919,557549
+Cyprus,64,2012ad,average_masked,1.98529497,53180
+Cyprus,64,2012ad,median_masked,1.95036776,53180
+Cyprus,64,2012am,average_masked,1.95018131,53180
+Cyprus,64,2012am,median_masked,1.91589518,53180
+Cyprus,64,2013,average_masked,2.07818842,53180
+Cyprus,64,2013,median_masked,2.00563101,53180
+Czech Republic,65,2012ad,average_masked,1.20544276,564937
+Czech Republic,65,2012ad,median_masked,1.07326826,564937
+Czech Republic,65,2012am,average_masked,1.30282327,564937
+Czech Republic,65,2012am,median_masked,1.19143982,564937
+Czech Republic,65,2013,average_masked,1.20335797,564937
+Czech Republic,65,2013,median_masked,1.17449283,564937
+Côte d'Ivoire,66,2012ad,average_masked,0.05310358,1519400
+Côte d'Ivoire,66,2012ad,median_masked,0.05156726,1519400
+Côte d'Ivoire,66,2012am,average_masked,0.05781011,1519400
+Côte d'Ivoire,66,2012am,median_masked,0.05596984,1519400
+Côte d'Ivoire,66,2013,average_masked,0.06994233,1519400
+Côte d'Ivoire,66,2013,median_masked,0.06577054,1519400
+Dem People's Rep of Korea,67,2012ad,average_masked,0.01828434,744891
+Dem People's Rep of Korea,67,2012ad,median_masked,0.01621575,744891
+Dem People's Rep of Korea,67,2012am,average_masked,0.01756011,744891
+Dem People's Rep of Korea,67,2012am,median_masked,0.01541875,744891
+Dem People's Rep of Korea,67,2013,average_masked,0.01909884,744891
+Dem People's Rep of Korea,67,2013,median_masked,0.01712547,744891
+Democratic Republic of the Congo,68,2012ad,average_masked,0.00761341,10944105
+Democratic Republic of the Congo,68,2012ad,median_masked,0.00726918,10944105
+Democratic Republic of the Congo,68,2012am,average_masked,0.0074525,10944105
+Democratic Republic of the Congo,68,2012am,median_masked,0.00708356,10944105
+Democratic Republic of the Congo,68,2013,average_masked,0.00821556,10944105
+Democratic Republic of the Congo,68,2013,median_masked,0.00781565,10944105
+Denmark,69,2012ad,average_masked,0.70040594,368441
+Denmark,69,2012ad,median_masked,0.59104302,368441
+Denmark,69,2012am,average_masked,0.92366577,368441
+Denmark,69,2012am,median_masked,0.87611785,368441
+Denmark,69,2013,average_masked,0.83482686,368441
+Denmark,69,2013,median_masked,0.84543126,368441
+Djibouti,70,2012ad,average_masked,0.05065577,103249
+Djibouti,70,2012ad,median_masked,0.04826193,103249
+Djibouti,70,2012am,average_masked,0.05339798,103249
+Djibouti,70,2012am,median_masked,0.05009193,103249
+Djibouti,70,2013,average_masked,0.0583566,103249
+Djibouti,70,2013,median_masked,0.05431639,103249
+Dominica,71,2012ad,average_masked,0.20844574,3623
+Dominica,71,2012ad,median_masked,0.21291322,3623
+Dominica,71,2012am,average_masked,0.22157772,3623
+Dominica,71,2012am,median_masked,0.22101881,3623
+Dominica,71,2013,average_masked,0.24348553,3623
+Dominica,71,2013,median_masked,0.2348199,3623
+Dominican Republic,72,2012ad,average_masked,0.56022561,237643
+Dominican Republic,72,2012ad,median_masked,0.54634546,237643
+Dominican Republic,72,2012am,average_masked,0.59198112,237643
+Dominican Republic,72,2012am,median_masked,0.56661624,237643
+Dominican Republic,72,2013,average_masked,0.66709803,237643
+Dominican Republic,72,2013,median_masked,0.64542395,237643
+Ecuador,73,2012ad,average_masked,0.35163242,1198777
+Ecuador,73,2012ad,median_masked,0.33583693,1198777
+Ecuador,73,2012am,average_masked,0.34718526,1198777
+Ecuador,73,2012am,median_masked,0.32907685,1198777
+Ecuador,73,2013,average_masked,0.38040065,1198777
+Ecuador,73,2013,median_masked,0.35379437,1198777
+South Sudan,74,2012ad,average_masked,0.00610231,2969964
+South Sudan,74,2012ad,median_masked,0.00247516,2969964
+South Sudan,74,2012am,average_masked,0.00192294,2969964
+South Sudan,74,2012am,median_masked,0.00133207,2969964
+South Sudan,74,2013,average_masked,0.00174552,2969964
+South Sudan,74,2013,median_masked,0.00157703,2969964
+El Salvador,75,2012ad,average_masked,0.47309167,99433
+El Salvador,75,2012ad,median_masked,0.43230162,99433
+El Salvador,75,2012am,average_masked,0.50407334,99433
+El Salvador,75,2012am,median_masked,0.47011706,99433
+El Salvador,75,2013,average_masked,0.52445542,99433
+El Salvador,75,2013,median_masked,0.48968965,99433
+Equatorial Guinea,76,2012ad,average_masked,0.09107584,126453
+Equatorial Guinea,76,2012ad,median_masked,0.0879236,126453
+Equatorial Guinea,76,2012am,average_masked,0.09769311,126453
+Equatorial Guinea,76,2012am,median_masked,0.09435669,126453
+Equatorial Guinea,76,2013,average_masked,0.12136889,126453
+Equatorial Guinea,76,2013,median_masked,0.11457175,126453
+Eritrea,77,2012ad,average_masked,0.00585318,584737
+Eritrea,77,2012ad,median_masked,0.00560368,584737
+Eritrea,77,2012am,average_masked,0.00580058,584737
+Eritrea,77,2012am,median_masked,0.00554586,584737
+Eritrea,77,2013,average_masked,0.00537773,584737
+Eritrea,77,2013,median_masked,0.00514591,584737
+Estonia,78,2012ad,average_masked,0.66698251,405087
+Estonia,78,2012ad,median_masked,0.32916843,405087
+Estonia,78,2012am,average_masked,0.8470093,405087
+Estonia,78,2012am,median_masked,0.78209128,405087
+Estonia,78,2013,average_masked,0.65356342,405087
+Estonia,78,2013,median_masked,0.58379006,405087
+Ethiopia,79,2012ad,average_masked,0.00919309,5348580
+Ethiopia,79,2012ad,median_masked,0.00814564,5348580
+Ethiopia,79,2012am,average_masked,0.00949538,5348580
+Ethiopia,79,2012am,median_masked,0.00872688,5348580
+Ethiopia,79,2013,average_masked,0.0103429,5348580
+Ethiopia,79,2013,median_masked,0.00961456,5348580
+Europa Island,80,2012ad,average_masked,0.0,98
+Europa Island,80,2012ad,median_masked,0.0,98
+Europa Island,80,2012am,average_masked,0.0,98
+Europa Island,80,2012am,median_masked,0.0,98
+Europa Island,80,2013,average_masked,0.0,98
+Europa Island,80,2013,median_masked,0.0,98
+Falkland Islands (Malvinas),81,2012ad,average_masked,0.00829744,91289
+Falkland Islands (Malvinas),81,2012ad,median_masked,0.00776699,91289
+Falkland Islands (Malvinas),81,2012am,average_masked,0.0080514,91289
+Falkland Islands (Malvinas),81,2012am,median_masked,0.00753872,91289
+Falkland Islands (Malvinas),81,2013,average_masked,0.006778,91289
+Falkland Islands (Malvinas),81,2013,median_masked,0.00646198,91289
+Faroe Islands,82,2012ad,average_masked,0.3833975,13289
+Faroe Islands,82,2012ad,median_masked,0.36746303,13289
+Faroe Islands,82,2012am,average_masked,0.35630762,13289
+Faroe Islands,82,2012am,median_masked,0.33490721,13289
+Faroe Islands,82,2013,average_masked,0.39114812,13289
+Faroe Islands,82,2013,median_masked,0.33584554,13289
+Fiji,83,2012ad,average_masked,0.0322982,86472
+Fiji,83,2012ad,median_masked,0.03096318,86472
+Fiji,83,2012am,average_masked,0.03367734,86472
+Fiji,83,2012am,median_masked,0.03230491,86472
+Fiji,83,2013,average_masked,0.03899651,86472
+Fiji,83,2013,median_masked,0.03707836,86472
+Finland,84,2012ad,average_masked,0.48712843,3620195
+Finland,84,2012ad,median_masked,0.34058935,3620195
+Finland,84,2012am,average_masked,0.75759418,3620195
+Finland,84,2012am,median_masked,0.73904017,3620195
+Finland,84,2013,average_masked,0.67665945,3620195
+Finland,84,2013,median_masked,0.67530965,3620195
+France,85,2012ad,average_masked,1.25573923,3711949
+France,85,2012ad,median_masked,1.22702603,3711949
+France,85,2012am,average_masked,1.34545338,3711949
+France,85,2012am,median_masked,1.26907938,3711949
+France,85,2013,average_masked,1.34256252,3711949
+France,85,2013,median_masked,1.28221826,3711949
+French Guiana,86,2012ad,average_masked,0.02253205,390157
+French Guiana,86,2012ad,median_masked,0.02167865,390157
+French Guiana,86,2012am,average_masked,0.02151373,390157
+French Guiana,86,2012am,median_masked,0.02090983,390157
+French Guiana,86,2013,average_masked,0.0226063,390157
+French Guiana,86,2013,median_masked,0.02164813,390157
+French Polynesia,87,2012ad,average_masked,0.16510391,19735
+French Polynesia,87,2012ad,median_masked,0.16422275,19735
+French Polynesia,87,2012am,average_masked,0.1695624,19735
+French Polynesia,87,2012am,median_masked,0.16778902,19735
+French Polynesia,87,2013,average_masked,0.18879764,19735
+French Polynesia,87,2013,median_masked,0.18310326,19735
+French Southern and Antarctic Territories,88,2012ad,average_masked,3.59e-05,53989
+French Southern and Antarctic Territories,88,2012ad,median_masked,3.759e-05,53989
+French Southern and Antarctic Territories,88,2012am,average_masked,2.773e-05,53989
+French Southern and Antarctic Territories,88,2012am,median_masked,2.663e-05,53989
+French Southern and Antarctic Territories,88,2013,average_masked,5.357e-05,53989
+French Southern and Antarctic Territories,88,2013,median_masked,4.031e-05,53989
+Gabon,89,2012ad,average_masked,0.07461665,1235329
+Gabon,89,2012ad,median_masked,0.06326946,1235329
+Gabon,89,2012am,average_masked,0.07051348,1235329
+Gabon,89,2012am,median_masked,0.05964547,1235329
+Gabon,89,2013,average_masked,0.05810842,1235329
+Gabon,89,2013,median_masked,0.04838955,1235329
+Gambia,90,2012ad,average_masked,0.06824042,52775
+Gambia,90,2012ad,median_masked,0.06465028,52775
+Gambia,90,2012am,average_masked,0.07209825,52775
+Gambia,90,2012am,median_masked,0.06882805,52775
+Gambia,90,2013,average_masked,0.07341379,52775
+Gambia,90,2013,median_masked,0.07116206,52775
+Gaza Strip,91,2012ad,average_masked,6.57780947,1977
+Gaza Strip,91,2012ad,median_masked,6.5953176,1977
+Gaza Strip,91,2012am,average_masked,6.8496141,1977
+Gaza Strip,91,2012am,median_masked,6.75494859,1977
+Gaza Strip,91,2013,average_masked,8.18584586,1977
+Gaza Strip,91,2013,median_masked,8.10632678,1977
+Georgia,92,2012ad,average_masked,0.28016399,437068
+Georgia,92,2012ad,median_masked,0.27262013,437068
+Georgia,92,2012am,average_masked,0.29633381,437068
+Georgia,92,2012am,median_masked,0.28083382,437068
+Georgia,92,2013,average_masked,0.32779337,437068
+Georgia,92,2013,median_masked,0.31304727,437068
+Germany,93,2012ad,average_masked,1.01442034,2640769
+Germany,93,2012ad,median_masked,0.95774103,2640769
+Germany,93,2012am,average_masked,1.15470816,2640769
+Germany,93,2012am,median_masked,1.08135525,2640769
+Germany,93,2013,average_masked,1.11917918,2640769
+Germany,93,2013,median_masked,1.05441664,2640769
+Ghana,94,2012ad,average_masked,0.11728961,1128036
+Ghana,94,2012ad,median_masked,0.11312733,1128036
+Ghana,94,2012am,average_masked,0.11460527,1128036
+Ghana,94,2012am,median_masked,0.11223063,1128036
+Ghana,94,2013,average_masked,0.13414639,1128036
+Ghana,94,2013,median_masked,0.12603199,1128036
+Gibraltar,95,2012ad,average_masked,29.6105361,12
+Gibraltar,95,2012ad,median_masked,31.01712537,12
+Gibraltar,95,2012am,average_masked,32.45685514,12
+Gibraltar,95,2012am,median_masked,32.32403119,12
+Gibraltar,95,2013,average_masked,32.27891779,12
+Gibraltar,95,2013,median_masked,32.88307921,12
+Glorioso Island,96,2012ad,average_masked,0.0,12
+Glorioso Island,96,2012ad,median_masked,0.0,12
+Glorioso Island,96,2012am,average_masked,0.0,12
+Glorioso Island,96,2012am,median_masked,0.0,12
+Glorioso Island,96,2013,average_masked,0.0,12
+Glorioso Island,96,2013,median_masked,0.0,12
+Greece,97,2012ad,average_masked,0.97207221,794382
+Greece,97,2012ad,median_masked,0.94743824,794382
+Greece,97,2012am,average_masked,0.96065824,794382
+Greece,97,2012am,median_masked,0.93317788,794382
+Greece,97,2013,average_masked,1.0049432,794382
+Greece,97,2013,median_masked,0.97039232,794382
+Greenland,98,2012ad,average_masked,0.00037642,17485021
+Greenland,98,2012ad,median_masked,0.00036642,17485021
+Greenland,98,2012am,average_masked,0.00038212,17485021
+Greenland,98,2012am,median_masked,0.00036486,17485021
+Greenland,98,2013,average_masked,0.00038207,17485021
+Greenland,98,2013,median_masked,0.00036815,17485021
+Grenada,99,2012ad,average_masked,1.19688056,1524
+Grenada,99,2012ad,median_masked,1.19589995,1524
+Grenada,99,2012am,average_masked,1.27205788,1524
+Grenada,99,2012am,median_masked,1.24914451,1524
+Grenada,99,2013,average_masked,1.36740707,1524
+Grenada,99,2013,median_masked,1.33022427,1524
+Guadeloupe,100,2012ad,average_masked,2.30310603,8170
+Guadeloupe,100,2012ad,median_masked,2.28410307,8170
+Guadeloupe,100,2012am,average_masked,2.38706022,8170
+Guadeloupe,100,2012am,median_masked,2.3521075,8170
+Guadeloupe,100,2013,average_masked,2.52256007,8170
+Guadeloupe,100,2013,median_masked,2.47289626,8170
+Guam,101,2012ad,average_masked,5.32799861,2583
+Guam,101,2012ad,median_masked,5.34444886,2583
+Guam,101,2012am,average_masked,5.3362081,2583
+Guam,101,2012am,median_masked,5.31434792,2583
+Guam,101,2013,average_masked,5.65449507,2583
+Guam,101,2013,median_masked,5.47839214,2583
+Abyei,102,2012ad,average_masked,0.0200566,47176
+Abyei,102,2012ad,median_masked,0.01437303,47176
+Abyei,102,2012am,average_masked,0.02218376,47176
+Abyei,102,2012am,median_masked,0.01823019,47176
+Abyei,102,2013,average_masked,0.01725537,47176
+Abyei,102,2013,median_masked,0.0127869,47176
+Guatemala,103,2012ad,average_masked,0.22857481,529044
+Guatemala,103,2012ad,median_masked,0.21359888,529044
+Guatemala,103,2012am,average_masked,0.24794601,529044
+Guatemala,103,2012am,median_masked,0.23405103,529044
+Guatemala,103,2013,average_masked,0.26058776,529044
+Guatemala,103,2013,median_masked,0.24777225,529044
+Guernsey,104,2012ad,average_masked,1.32200227,594
+Guernsey,104,2012ad,median_masked,1.26440891,594
+Guernsey,104,2012am,average_masked,1.27131567,594
+Guernsey,104,2012am,median_masked,1.18810339,594
+Guernsey,104,2013,average_masked,1.1842087,594
+Guernsey,104,2013,median_masked,1.11409172,594
+Guinea-Bissau,105,2012ad,average_masked,0.0050254,148307
+Guinea-Bissau,105,2012ad,median_masked,0.00410598,148307
+Guinea-Bissau,105,2012am,average_masked,0.00502772,148307
+Guinea-Bissau,105,2012am,median_masked,0.00480652,148307
+Guinea-Bissau,105,2013,average_masked,0.00456444,148307
+Guinea-Bissau,105,2013,median_masked,0.00432301,148307
+Guinea,106,2012ad,average_masked,0.00879819,1155363
+Guinea,106,2012ad,median_masked,0.00722528,1155363
+Guinea,106,2012am,average_masked,0.00881622,1155363
+Guinea,106,2012am,median_masked,0.00752774,1155363
+Guinea,106,2013,average_masked,0.00865246,1155363
+Guinea,106,2013,median_masked,0.00779773,1155363
+Guyana,107,2012ad,average_masked,0.00724591,992765
+Guyana,107,2012ad,median_masked,0.00705874,992765
+Guyana,107,2012am,average_masked,0.00772995,992765
+Guyana,107,2012am,median_masked,0.00733337,992765
+Guyana,107,2013,average_masked,0.00862109,992765
+Guyana,107,2013,median_masked,0.00822341,992765
+Haiti,108,2012ad,average_masked,0.0851889,133182
+Haiti,108,2012ad,median_masked,0.08025433,133182
+Haiti,108,2012am,average_masked,0.09811408,133182
+Haiti,108,2012am,median_masked,0.08719982,133182
+Haiti,108,2013,average_masked,0.09911187,133182
+Haiti,108,2013,median_masked,0.0942711,133182
+Heard Island and McDonald Islands,109,2012ad,average_masked,0.0,3104
+Heard Island and McDonald Islands,109,2012ad,median_masked,0.0,3104
+Heard Island and McDonald Islands,109,2012am,average_masked,0.0,3104
+Heard Island and McDonald Islands,109,2012am,median_masked,0.0,3104
+Heard Island and McDonald Islands,109,2013,average_masked,0.0,3104
+Heard Island and McDonald Islands,109,2013,median_masked,0.0,3104
+Holy See,110,2012ad,average_masked,,0
+Holy See,110,2012ad,median_masked,,0
+Holy See,110,2012am,average_masked,,0
+Holy See,110,2012am,median_masked,,0
+Holy See,110,2013,average_masked,,0
+Holy See,110,2013,median_masked,,0
+Honduras,111,2012ad,average_masked,0.19560138,542065
+Honduras,111,2012ad,median_masked,0.19252269,542065
+Honduras,111,2012am,average_masked,0.20631158,542065
+Honduras,111,2012am,median_masked,0.19966029,542065
+Honduras,111,2013,average_masked,0.22157493,542065
+Honduras,111,2013,median_masked,0.21192342,542065
+Howland Island,112,2012ad,average_masked,0.0,5
+Howland Island,112,2012ad,median_masked,0.0,5
+Howland Island,112,2012am,average_masked,0.0,5
+Howland Island,112,2012am,median_masked,0.0,5
+Howland Island,112,2013,average_masked,0.0,5
+Howland Island,112,2013,median_masked,0.0,5
+Hungary,113,2012ad,average_masked,0.65131875,635974
+Hungary,113,2012ad,median_masked,0.61484102,635974
+Hungary,113,2012am,average_masked,0.68615186,635974
+Hungary,113,2012am,median_masked,0.65047071,635974
+Hungary,113,2013,average_masked,0.68538127,635974
+Hungary,113,2013,median_masked,0.66693243,635974
+Iceland,114,2012ad,average_masked,0.15889086,1123100
+Iceland,114,2012ad,median_masked,0.14731765,1123100
+Iceland,114,2012am,average_masked,0.15062996,1123100
+Iceland,114,2012am,median_masked,0.14226618,1123100
+Iceland,114,2013,average_masked,0.1926762,1123100
+Iceland,114,2013,median_masked,0.14930879,1123100
+India,115,2012ad,average_masked,0.53769342,15013526
+India,115,2012ad,median_masked,0.49230319,15013526
+India,115,2012am,average_masked,0.55009424,15013526
+India,115,2012am,median_masked,0.51370055,15013526
+India,115,2013,average_masked,0.59164833,15013526
+India,115,2013,median_masked,0.54366388,15013526
+Indonesia,116,2012ad,average_masked,0.13595239,8850942
+Indonesia,116,2012ad,median_masked,0.13001005,8850942
+Indonesia,116,2012am,average_masked,0.13789696,8850942
+Indonesia,116,2012am,median_masked,0.13100934,8850942
+Indonesia,116,2013,average_masked,0.14597162,8850942
+Indonesia,116,2013,median_masked,0.13961174,8850942
+Iran  (Islamic Republic of),117,2012ad,average_masked,0.57201963,9313196
+Iran  (Islamic Republic of),117,2012ad,median_masked,0.532699,9313196
+Iran  (Islamic Republic of),117,2012am,average_masked,0.5809343,9313196
+Iran  (Islamic Republic of),117,2012am,median_masked,0.5376666,9313196
+Iran  (Islamic Republic of),117,2013,average_masked,0.61760689,9313196
+Iran  (Islamic Republic of),117,2013,median_masked,0.57550483,9313196
+Iraq,118,2012ad,average_masked,1.9767035,2425110
+Iraq,118,2012ad,median_masked,1.82111278,2425110
+Iraq,118,2012am,average_masked,1.927157,2425110
+Iraq,118,2012am,median_masked,1.77583702,2425110
+Iraq,118,2013,average_masked,2.10616879,2425110
+Iraq,118,2013,median_masked,1.87555448,2425110
+Ireland,119,2012ad,average_masked,0.56484058,540994
+Ireland,119,2012ad,median_masked,0.56272056,540994
+Ireland,119,2012am,average_masked,0.56690365,540994
+Ireland,119,2012am,median_masked,0.56240096,540994
+Ireland,119,2013,average_masked,0.55909138,540994
+Ireland,119,2013,median_masked,0.5606742,540994
+Isle of Man,120,2012ad,average_masked,0.61297425,4514
+Isle of Man,120,2012ad,median_masked,0.60651718,4514
+Isle of Man,120,2012am,average_masked,0.63309393,4514
+Isle of Man,120,2012am,median_masked,0.62187361,4514
+Isle of Man,120,2013,average_masked,0.62492564,4514
+Isle of Man,120,2013,median_masked,0.63390999,4514
+Israel,121,2012ad,average_masked,5.76286307,112922
+Israel,121,2012ad,median_masked,5.72621854,112922
+Israel,121,2012am,average_masked,5.84616889,112922
+Israel,121,2012am,median_masked,5.79830683,112922
+Israel,121,2013,average_masked,6.25482072,112922
+Israel,121,2013,median_masked,6.19863008,112922
+Italy,122,2012ad,average_masked,2.82059836,1915479
+Italy,122,2012ad,median_masked,2.72878177,1915479
+Italy,122,2012am,average_masked,2.83126661,1915479
+Italy,122,2012am,median_masked,2.73375887,1915479
+Italy,122,2013,average_masked,2.88008509,1915479
+Italy,122,2013,median_masked,2.79708625,1915479
+Jamaica,123,2012ad,average_masked,1.08403973,53959
+Jamaica,123,2012ad,median_masked,1.0639825,53959
+Jamaica,123,2012am,average_masked,1.12647358,53959
+Jamaica,123,2012am,median_masked,1.09586656,53959
+Jamaica,123,2013,average_masked,1.19482033,53959
+Jamaica,123,2013,median_masked,1.1703026,53959
+Japan,126,2012ad,average_masked,1.25250447,2201524
+Japan,126,2012ad,median_masked,1.15128454,2201524
+Japan,126,2012am,average_masked,1.40504335,2201524
+Japan,126,2012am,median_masked,1.24968695,2201524
+Japan,126,2013,average_masked,1.38143179,2201524
+Japan,126,2013,median_masked,1.33646389,2201524
+Jarvis Island,127,2012ad,average_masked,0.0,16
+Jarvis Island,127,2012ad,median_masked,0.0,16
+Jarvis Island,127,2012am,average_masked,0.0,16
+Jarvis Island,127,2012am,median_masked,0.0,16
+Jarvis Island,127,2013,average_masked,0.0,16
+Jarvis Island,127,2013,median_masked,0.0,16
+Jersey,128,2012ad,average_masked,2.35885242,899
+Jersey,128,2012ad,median_masked,2.30694975,899
+Jersey,128,2012am,average_masked,2.43009797,899
+Jersey,128,2012am,median_masked,2.40041215,899
+Jersey,128,2013,average_masked,2.26110738,899
+Jersey,128,2013,median_masked,2.3218062,899
+Johnston Atoll,129,2012ad,average_masked,0.0,10
+Johnston Atoll,129,2012ad,median_masked,0.0,10
+Johnston Atoll,129,2012am,average_masked,0.0,10
+Johnston Atoll,129,2012am,median_masked,0.0,10
+Johnston Atoll,129,2013,average_masked,0.0,10
+Johnston Atoll,129,2013,median_masked,0.0,10
+Jordan,130,2012ad,average_masked,0.60773372,484433
+Jordan,130,2012ad,median_masked,0.59037555,484433
+Jordan,130,2012am,average_masked,0.59007505,484433
+Jordan,130,2012am,median_masked,0.57464384,484433
+Jordan,130,2013,average_masked,0.61760281,484433
+Jordan,130,2013,median_masked,0.59918039,484433
+Juan de Nova Island,131,2012ad,average_masked,0.0,16
+Juan de Nova Island,131,2012ad,median_masked,0.0,16
+Juan de Nova Island,131,2012am,average_masked,0.0,16
+Juan de Nova Island,131,2012am,median_masked,0.0,16
+Juan de Nova Island,131,2013,average_masked,0.0,16
+Juan de Nova Island,131,2013,median_masked,0.0,16
+Kazakhstan,132,2012ad,average_masked,0.11366068,19751284
+Kazakhstan,132,2012ad,median_masked,0.09704523,19751284
+Kazakhstan,132,2012am,average_masked,0.1249949,19751284
+Kazakhstan,132,2012am,median_masked,0.11022858,19751284
+Kazakhstan,132,2013,average_masked,0.11909625,19751284
+Kazakhstan,132,2013,median_masked,0.11218179,19751284
+Kenya,133,2012ad,average_masked,0.02259997,2726540
+Kenya,133,2012ad,median_masked,0.02136372,2726540
+Kenya,133,2012am,average_masked,0.02391033,2726540
+Kenya,133,2012am,median_masked,0.02254696,2726540
+Kenya,133,2013,average_masked,0.02622326,2726540
+Kenya,133,2013,median_masked,0.02507433,2726540
+Kingman Reef,134,2012ad,average_masked,0.0,1306
+Kingman Reef,134,2012ad,median_masked,0.0,1306
+Kingman Reef,134,2012am,average_masked,0.0,1306
+Kingman Reef,134,2012am,median_masked,0.0,1306
+Kingman Reef,134,2013,average_masked,0.0,1306
+Kingman Reef,134,2013,median_masked,0.0,1306
+Kiribati,135,2012ad,average_masked,0.00943076,4488
+Kiribati,135,2012ad,median_masked,0.00882662,4488
+Kiribati,135,2012am,average_masked,0.00964204,4488
+Kiribati,135,2012am,median_masked,0.00901992,4488
+Kiribati,135,2013,average_masked,0.01176871,4488
+Kiribati,135,2013,median_masked,0.01108147,4488
+Kuril islands,136,2012ad,average_masked,0.04621244,33362
+Kuril islands,136,2012ad,median_masked,0.035019,33362
+Kuril islands,136,2012am,average_masked,0.06636967,33362
+Kuril islands,136,2012am,median_masked,0.05348108,33362
+Kuril islands,136,2013,average_masked,0.05430782,33362
+Kuril islands,136,2013,median_masked,0.04880928,33362
+Kuwait,137,2012ad,average_masked,7.52456802,93006
+Kuwait,137,2012ad,median_masked,6.65144621,93006
+Kuwait,137,2012am,average_masked,7.81024611,93006
+Kuwait,137,2012am,median_masked,6.81431523,93006
+Kuwait,137,2013,average_masked,8.48452627,93006
+Kuwait,137,2013,median_masked,7.70057513,93006
+Kyrgyzstan,138,2012ad,average_masked,0.09682036,1234553
+Kyrgyzstan,138,2012ad,median_masked,0.09113161,1234553
+Kyrgyzstan,138,2012am,average_masked,0.09661828,1234553
+Kyrgyzstan,138,2012am,median_masked,0.09135143,1234553
+Kyrgyzstan,138,2013,average_masked,0.0917595,1234553
+Kyrgyzstan,138,2013,median_masked,0.08997512,1234553
+Lao People's Democratic Republic,139,2012ad,average_masked,0.02696685,1133685
+Lao People's Democratic Republic,139,2012ad,median_masked,0.02535604,1133685
+Lao People's Democratic Republic,139,2012am,average_masked,0.02895155,1133685
+Lao People's Democratic Republic,139,2012am,median_masked,0.02736129,1133685
+Lao People's Democratic Republic,139,2013,average_masked,0.03171501,1133685
+Lao People's Democratic Republic,139,2013,median_masked,0.03010789,1133685
+Latvia,140,2012ad,average_masked,0.23496257,547512
+Latvia,140,2012ad,median_masked,0.15000894,547512
+Latvia,140,2012am,average_masked,0.35607385,547512
+Latvia,140,2012am,median_masked,0.32003821,547512
+Latvia,140,2013,average_masked,0.30151968,547512
+Latvia,140,2013,median_masked,0.27930635,547512
+Lebanon,141,2012ad,average_masked,2.61811086,56753
+Lebanon,141,2012ad,median_masked,2.6473623,56753
+Lebanon,141,2012am,average_masked,2.61882,56753
+Lebanon,141,2012am,median_masked,2.61990913,56753
+Lebanon,141,2013,average_masked,3.3120984,56753
+Lebanon,141,2013,median_masked,3.15303017,56753
+Lesotho,142,2012ad,average_masked,0.05424419,162468
+Lesotho,142,2012ad,median_masked,0.05329033,162468
+Lesotho,142,2012am,average_masked,0.05587227,162468
+Lesotho,142,2012am,median_masked,0.0546262,162468
+Lesotho,142,2013,average_masked,0.06920365,162468
+Lesotho,142,2013,median_masked,0.06655061,162468
+Liberia,144,2012ad,average_masked,0.00537157,452283
+Liberia,144,2012ad,median_masked,0.00499253,452283
+Liberia,144,2012am,average_masked,0.00606139,452283
+Liberia,144,2012am,median_masked,0.00567257,452283
+Liberia,144,2013,average_masked,0.00653618,452283
+Liberia,144,2013,median_masked,0.00618303,452283
+Libya,145,2012ad,average_masked,0.17601054,8504032
+Libya,145,2012ad,median_masked,0.16763821,8504032
+Libya,145,2012am,average_masked,0.17448927,8504032
+Libya,145,2012am,median_masked,0.16456535,8504032
+Libya,145,2013,average_masked,0.16462583,8504032
+Libya,145,2013,median_masked,0.15217213,8504032
+Liechtenstein,146,2012ad,average_masked,1.6856968,929
+Liechtenstein,146,2012ad,median_masked,1.5648039,929
+Liechtenstein,146,2012am,average_masked,1.80833853,929
+Liechtenstein,146,2012am,median_masked,1.6999777,929
+Liechtenstein,146,2013,average_masked,1.74449118,929
+Liechtenstein,146,2013,median_masked,1.6261461,929
+Lithuania,147,2012ad,average_masked,0.26834793,528153
+Lithuania,147,2012ad,median_masked,0.2024246,528153
+Lithuania,147,2012am,average_masked,0.36407995,528153
+Lithuania,147,2012am,median_masked,0.34883247,528153
+Lithuania,147,2013,average_masked,0.33998188,528153
+Lithuania,147,2013,median_masked,0.30257962,528153
+Luxembourg,148,2012ad,average_masked,2.62038821,18630
+Luxembourg,148,2012ad,median_masked,2.52125351,18630
+Luxembourg,148,2012am,average_masked,3.49044027,18630
+Luxembourg,148,2012am,median_masked,3.07371131,18630
+Luxembourg,148,2013,average_masked,3.64882717,18630
+Luxembourg,148,2013,median_masked,3.2620506,18630
+Macau,149,2012ad,average_masked,89.19236074,49
+Macau,149,2012ad,median_masked,76.62066625,49
+Macau,149,2012am,average_masked,98.06695987,49
+Macau,149,2012am,median_masked,90.49460178,49
+Macau,149,2013,average_masked,107.67362805,49
+Macau,149,2013,median_masked,109.36889553,49
+Madagascar,150,2012ad,average_masked,0.00438576,2923815
+Madagascar,150,2012ad,median_masked,0.0039655,2923815
+Madagascar,150,2012am,average_masked,0.00421683,2923815
+Madagascar,150,2012am,median_masked,0.0039028,2923815
+Madagascar,150,2013,average_masked,0.00450482,2923815
+Madagascar,150,2013,median_masked,0.00433443,2923815
+Madeira Islands,151,2012ad,average_masked,5.0368945,4388
+Madeira Islands,151,2012ad,median_masked,4.76504057,4388
+Madeira Islands,151,2012am,average_masked,4.95066182,4388
+Madeira Islands,151,2012am,median_masked,4.7352073,4388
+Madeira Islands,151,2013,average_masked,4.90100771,4388
+Madeira Islands,151,2013,median_masked,4.79114215,4388
+Malawi,152,2012ad,average_masked,0.0548938,568738
+Malawi,152,2012ad,median_masked,0.05345038,568738
+Malawi,152,2012am,average_masked,0.05398385,568738
+Malawi,152,2012am,median_masked,0.05222247,568738
+Malawi,152,2013,average_masked,0.05302284,568738
+Malawi,152,2013,median_masked,0.05113243,568738
+Malaysia,153,2012ad,average_masked,0.59618263,1546114
+Malaysia,153,2012ad,median_masked,0.58977672,1546114
+Malaysia,153,2012am,average_masked,0.66279525,1546114
+Malaysia,153,2012am,median_masked,0.63462572,1546114
+Malaysia,153,2013,average_masked,0.67458601,1546114
+Malaysia,153,2013,median_masked,0.64917112,1546114
+Maldives,154,2012ad,average_masked,0.87675286,1603
+Maldives,154,2012ad,median_masked,0.84715115,1603
+Maldives,154,2012am,average_masked,0.85168269,1603
+Maldives,154,2012am,median_masked,0.82192754,1603
+Maldives,154,2013,average_masked,0.9211623,1603
+Maldives,154,2013,median_masked,0.8649872,1603
+Mali,155,2012ad,average_masked,0.00390908,6135044
+Mali,155,2012ad,median_masked,0.00342641,6135044
+Mali,155,2012am,average_masked,0.00402364,6135044
+Mali,155,2012am,median_masked,0.00370339,6135044
+Mali,155,2013,average_masked,0.00408877,6135044
+Mali,155,2013,median_masked,0.00387586,6135044
+Malta,156,2012ad,average_masked,14.66143368,1701
+Malta,156,2012ad,median_masked,14.53424759,1701
+Malta,156,2012am,average_masked,14.62553952,1701
+Malta,156,2012am,median_masked,14.5052815,1701
+Malta,156,2013,average_masked,15.99008791,1701
+Malta,156,2013,median_masked,15.70352178,1701
+Marshall Islands,157,2012ad,average_masked,0.09165246,2194
+Marshall Islands,157,2012ad,median_masked,0.08766034,2194
+Marshall Islands,157,2012am,average_masked,0.09507888,2194
+Marshall Islands,157,2012am,median_masked,0.09157721,2194
+Marshall Islands,157,2013,average_masked,0.10980319,2194
+Marshall Islands,157,2013,median_masked,0.10202017,2194
+Martinique,158,2012ad,average_masked,3.53929189,5336
+Martinique,158,2012ad,median_masked,3.54109646,5336
+Martinique,158,2012am,average_masked,3.70593206,5336
+Martinique,158,2012am,median_masked,3.67462452,5336
+Martinique,158,2013,average_masked,3.84576331,5336
+Martinique,158,2013,median_masked,3.7523762,5336
+Mauritania,159,2012ad,average_masked,0.00222011,5168987
+Mauritania,159,2012ad,median_masked,0.00208591,5168987
+Mauritania,159,2012am,average_masked,0.00245506,5168987
+Mauritania,159,2012am,median_masked,0.00226442,5168987
+Mauritania,159,2013,average_masked,0.00278507,5168987
+Mauritania,159,2013,median_masked,0.0027418,5168987
+Mauritius,160,2012ad,average_masked,1.39510306,9846
+Mauritius,160,2012ad,median_masked,1.37944144,9846
+Mauritius,160,2012am,average_masked,1.41292023,9846
+Mauritius,160,2012am,median_masked,1.38640717,9846
+Mauritius,160,2013,average_masked,1.61976217,9846
+Mauritius,160,2013,median_masked,1.54397069,9846
+Mayotte,161,2012ad,average_masked,0.98118071,1913
+Mayotte,161,2012ad,median_masked,0.90262387,1913
+Mayotte,161,2012am,average_masked,0.97955594,1913
+Mayotte,161,2012am,median_masked,0.90608657,1913
+Mayotte,161,2013,average_masked,1.09446006,1913
+Mayotte,161,2013,median_masked,1.02130431,1913
+Mexico,162,2012ad,average_masked,0.43129967,9996819
+Mexico,162,2012ad,median_masked,0.41805586,9996819
+Mexico,162,2012am,average_masked,0.45054019,9996819
+Mexico,162,2012am,median_masked,0.43239386,9996819
+Mexico,162,2013,average_masked,0.46309961,9996819
+Mexico,162,2013,median_masked,0.43829141,9996819
+Micronesia (Federated States of),163,2012ad,average_masked,0.06075062,3889
+Micronesia (Federated States of),163,2012ad,median_masked,0.06087224,3889
+Micronesia (Federated States of),163,2012am,average_masked,0.06483445,3889
+Micronesia (Federated States of),163,2012am,median_masked,0.06336424,3889
+Micronesia (Federated States of),163,2013,average_masked,0.07471106,3889
+Micronesia (Federated States of),163,2013,median_masked,0.07048102,3889
+Midway Island,164,2012ad,average_masked,0.00187377,41
+Midway Island,164,2012ad,median_masked,0.00234803,41
+Midway Island,164,2012am,average_masked,0.0,41
+Midway Island,164,2012am,median_masked,0.0,41
+Midway Island,164,2013,average_masked,0.0,41
+Midway Island,164,2013,median_masked,0.0,41
+"Moldova, Republic of",165,2012ad,average_masked,0.15879037,230030
+"Moldova, Republic of",165,2012ad,median_masked,0.15669976,230030
+"Moldova, Republic of",165,2012am,average_masked,0.17598136,230030
+"Moldova, Republic of",165,2012am,median_masked,0.16224622,230030
+"Moldova, Republic of",165,2013,average_masked,0.18484975,230030
+"Moldova, Republic of",165,2013,median_masked,0.18240512,230030
+Monaco,166,2012ad,average_masked,26.15604987,31
+Monaco,166,2012ad,median_masked,26.18698667,31
+Monaco,166,2012am,average_masked,25.79678788,31
+Monaco,166,2012am,median_masked,25.81497373,31
+Monaco,166,2013,average_masked,24.6848806,31
+Monaco,166,2013,median_masked,24.14086496,31
+Mongolia,167,2012ad,average_masked,0.00682095,10627895
+Mongolia,167,2012ad,median_masked,0.00654793,10627895
+Mongolia,167,2012am,average_masked,0.0067231,10627895
+Mongolia,167,2012am,median_masked,0.00652563,10627895
+Mongolia,167,2013,average_masked,0.00636633,10627895
+Mongolia,167,2013,median_masked,0.00601198,10627895
+Montserrat,168,2012ad,average_masked,0.16894764,435
+Montserrat,168,2012ad,median_masked,0.16688129,435
+Montserrat,168,2012am,average_masked,0.17975273,435
+Montserrat,168,2012am,median_masked,0.17492816,435
+Montserrat,168,2013,average_masked,0.2051859,435
+Montserrat,168,2013,median_masked,0.19838783,435
+Morocco,169,2012ad,average_masked,0.29649864,2273391
+Morocco,169,2012ad,median_masked,0.29128553,2273391
+Morocco,169,2012am,average_masked,0.29438266,2273391
+Morocco,169,2012am,median_masked,0.28878847,2273391
+Morocco,169,2013,average_masked,0.32981052,2273391
+Morocco,169,2013,median_masked,0.3204082,2273391
+Mozambique,170,2012ad,average_masked,0.01851252,3862003
+Mozambique,170,2012ad,median_masked,0.0180028,3862003
+Mozambique,170,2012am,average_masked,0.01852448,3862003
+Mozambique,170,2012am,median_masked,0.01800654,3862003
+Mozambique,170,2013,average_masked,0.02197659,3862003
+Mozambique,170,2013,median_masked,0.02127993,3862003
+Myanmar,171,2012ad,average_masked,0.03159346,3346621
+Myanmar,171,2012ad,median_masked,0.03065834,3346621
+Myanmar,171,2012am,average_masked,0.0335813,3346621
+Myanmar,171,2012am,median_masked,0.03191062,3346621
+Myanmar,171,2013,average_masked,0.03577405,3346621
+Myanmar,171,2013,median_masked,0.03372338,3346621
+Namibia,172,2012ad,average_masked,0.00957034,4159249
+Namibia,172,2012ad,median_masked,0.00935617,4159249
+Namibia,172,2012am,average_masked,0.00967881,4159249
+Namibia,172,2012am,median_masked,0.00950272,4159249
+Namibia,172,2013,average_masked,0.01145237,4159249
+Namibia,172,2013,median_masked,0.01099297,4159249
+Nauru,173,2012ad,average_masked,1.86400536,69
+Nauru,173,2012ad,median_masked,1.71761995,69
+Nauru,173,2012am,average_masked,1.87955866,69
+Nauru,173,2012am,median_masked,1.68711419,69
+Nauru,173,2013,average_masked,2.47500182,69
+Nauru,173,2013,median_masked,1.9658616,69
+Navassa Island,174,2012ad,average_masked,0.0,9
+Navassa Island,174,2012ad,median_masked,0.0,9
+Navassa Island,174,2012am,average_masked,0.0,9
+Navassa Island,174,2012am,median_masked,0.0,9
+Navassa Island,174,2013,average_masked,0.0,9
+Navassa Island,174,2013,median_masked,0.0,9
+Nepal,175,2012ad,average_masked,0.05259822,779275
+Nepal,175,2012ad,median_masked,0.04073483,779275
+Nepal,175,2012am,average_masked,0.0416041,779275
+Nepal,175,2012am,median_masked,0.0342071,779275
+Nepal,175,2013,average_masked,0.04346651,779275
+Nepal,175,2013,median_masked,0.03414938,779275
+Netherlands Antilles,176,2012ad,average_masked,4.30927162,3700
+Netherlands Antilles,176,2012ad,median_masked,3.6418221,3700
+Netherlands Antilles,176,2012am,average_masked,4.19048374,3700
+Netherlands Antilles,176,2012am,median_masked,3.71884814,3700
+Netherlands Antilles,176,2013,average_masked,4.39537073,3700
+Netherlands Antilles,176,2013,median_masked,4.15060048,3700
+Netherlands,177,2012ad,average_masked,7.03772451,265950
+Netherlands,177,2012ad,median_masked,6.75290275,265950
+Netherlands,177,2012am,average_masked,7.19765695,265950
+Netherlands,177,2012am,median_masked,6.72003269,265950
+Netherlands,177,2013,average_masked,7.67359878,265950
+Netherlands,177,2013,median_masked,7.14137588,265950
+New Caledonia,178,2012ad,average_masked,0.10973406,93155
+New Caledonia,178,2012ad,median_masked,0.1081998,93155
+New Caledonia,178,2012am,average_masked,0.10935716,93155
+New Caledonia,178,2012am,median_masked,0.10739105,93155
+New Caledonia,178,2013,average_masked,0.12173082,93155
+New Caledonia,178,2013,median_masked,0.11627393,93155
+New Zealand,179,2012ad,average_masked,0.12078906,1693710
+New Zealand,179,2012ad,median_masked,0.11971411,1693710
+New Zealand,179,2012am,average_masked,0.12308666,1693710
+New Zealand,179,2012am,median_masked,0.1203763,1693710
+New Zealand,179,2013,average_masked,0.1293925,1693710
+New Zealand,179,2013,median_masked,0.12504111,1693710
+Nicaragua,180,2012ad,average_masked,0.07031975,616704
+Nicaragua,180,2012ad,median_masked,0.06557646,616704
+Nicaragua,180,2012am,average_masked,0.07754601,616704
+Nicaragua,180,2012am,median_masked,0.07266652,616704
+Nicaragua,180,2013,average_masked,0.08361048,616704
+Nicaragua,180,2013,median_masked,0.07935387,616704
+Niger,181,2012ad,average_masked,0.00323626,5790965
+Niger,181,2012ad,median_masked,0.00268285,5790965
+Niger,181,2012am,average_masked,0.00391515,5790965
+Niger,181,2012am,median_masked,0.0030278,5790965
+Niger,181,2013,average_masked,0.00473988,5790965
+Niger,181,2013,median_masked,0.00421141,5790965
+Nigeria,182,2012ad,average_masked,0.24651243,4314711
+Nigeria,182,2012ad,median_masked,0.22042202,4314711
+Nigeria,182,2012am,average_masked,0.25852876,4314711
+Nigeria,182,2012am,median_masked,0.22243642,4314711
+Nigeria,182,2013,average_masked,0.22847584,4314711
+Nigeria,182,2013,median_masked,0.19623857,4314711
+Niue,183,2012ad,average_masked,0.0041606,1251
+Niue,183,2012ad,median_masked,0.00424489,1251
+Niue,183,2012am,average_masked,0.00721017,1251
+Niue,183,2012am,median_masked,0.00690712,1251
+Niue,183,2013,average_masked,0.00701875,1251
+Niue,183,2013,median_masked,0.00651926,1251
+Norfolk Island,184,2012ad,average_masked,0.01582317,175
+Norfolk Island,184,2012ad,median_masked,0.01414601,175
+Norfolk Island,184,2012am,average_masked,0.01904988,175
+Norfolk Island,184,2012am,median_masked,0.0153671,175
+Norfolk Island,184,2013,average_masked,0.02137313,175
+Norfolk Island,184,2013,median_masked,0.01942402,175
+Northern Mariana Islands,185,2012ad,average_masked,0.91160399,2110
+Northern Mariana Islands,185,2012ad,median_masked,0.92454859,2110
+Northern Mariana Islands,185,2012am,average_masked,0.88673114,2110
+Northern Mariana Islands,185,2012am,median_masked,0.88876159,2110
+Northern Mariana Islands,185,2013,average_masked,1.03411327,2110
+Northern Mariana Islands,185,2013,median_masked,0.97422059,2110
+Norway,186,2012ad,average_masked,0.37093383,3482138
+Norway,186,2012ad,median_masked,0.27484013,3482138
+Norway,186,2012am,average_masked,0.49993403,3482138
+Norway,186,2012am,median_masked,0.45653578,3482138
+Norway,186,2013,average_masked,0.49473034,3482138
+Norway,186,2013,median_masked,0.44755531,3482138
+Oman,187,2012ad,average_masked,0.53783438,1539774
+Oman,187,2012ad,median_masked,0.47657561,1539774
+Oman,187,2012am,average_masked,0.55200461,1539774
+Oman,187,2012am,median_masked,0.49562021,1539774
+Oman,187,2013,average_masked,0.6121232,1539774
+Oman,187,2013,median_masked,0.55991132,1539774
+Pakistan,188,2012ad,average_masked,0.22757205,4225637
+Pakistan,188,2012ad,median_masked,0.1971822,4225637
+Pakistan,188,2012am,average_masked,0.23821403,4225637
+Pakistan,188,2012am,median_masked,0.21389911,4225637
+Pakistan,188,2013,average_masked,0.23971626,4225637
+Pakistan,188,2013,median_masked,0.21637575,4225637
+Palau,189,2012ad,average_masked,0.11664117,2289
+Palau,189,2012ad,median_masked,0.11030499,2289
+Palau,189,2012am,average_masked,0.12735491,2289
+Palau,189,2012am,median_masked,0.11854063,2289
+Palau,189,2013,average_masked,0.12359099,2289
+Palau,189,2013,median_masked,0.12308372,2289
+Palmyra Atoll,190,2012ad,average_masked,0.0,38
+Palmyra Atoll,190,2012ad,median_masked,0.0,38
+Palmyra Atoll,190,2012am,average_masked,0.0,38
+Palmyra Atoll,190,2012am,median_masked,0.0,38
+Palmyra Atoll,190,2013,average_masked,0.0,38
+Palmyra Atoll,190,2013,median_masked,0.0,38
+Panama,191,2012ad,average_masked,0.21019921,354531
+Panama,191,2012ad,median_masked,0.20496319,354531
+Panama,191,2012am,average_masked,0.25464716,354531
+Panama,191,2012am,median_masked,0.23343201,354531
+Panama,191,2013,average_masked,0.26027754,354531
+Panama,191,2013,median_masked,0.24803684,354531
+Papua New Guinea,192,2012ad,average_masked,0.01193917,2174881
+Papua New Guinea,192,2012ad,median_masked,0.01012483,2174881
+Papua New Guinea,192,2012am,average_masked,0.01191058,2174881
+Papua New Guinea,192,2012am,median_masked,0.01005931,2174881
+Papua New Guinea,192,2013,average_masked,0.01245571,2174881
+Papua New Guinea,192,2013,median_masked,0.01079111,2174881
+Paracel Islands,193,2012ad,average_masked,0.27190826,37
+Paracel Islands,193,2012ad,median_masked,0.27328012,37
+Paracel Islands,193,2012am,average_masked,0.34753158,37
+Paracel Islands,193,2012am,median_masked,0.29310823,37
+Paracel Islands,193,2013,average_masked,0.40139417,37
+Paracel Islands,193,2013,median_masked,0.30362831,37
+Paraguay,194,2012ad,average_masked,0.1264936,2028698
+Paraguay,194,2012ad,median_masked,0.12424387,2028698
+Paraguay,194,2012am,average_masked,0.1289841,2028698
+Paraguay,194,2012am,median_masked,0.12615599,2028698
+Paraguay,194,2013,average_masked,0.15280735,2028698
+Paraguay,194,2013,median_masked,0.14971207,2028698
+Peru,195,2012ad,average_masked,0.06381784,6133982
+Peru,195,2012ad,median_masked,0.06160128,6133982
+Peru,195,2012am,average_masked,0.06690953,6133982
+Peru,195,2012am,median_masked,0.06483221,6133982
+Peru,195,2013,average_masked,0.08344006,6133982
+Peru,195,2013,median_masked,0.08029443,6133982
+Philippines,196,2012ad,average_masked,0.17135262,1413682
+Philippines,196,2012ad,median_masked,0.16752433,1413682
+Philippines,196,2012am,average_masked,0.17396056,1413682
+Philippines,196,2012am,median_masked,0.16823274,1413682
+Philippines,196,2013,average_masked,0.1793308,1413682
+Philippines,196,2013,median_masked,0.17129495,1413682
+Pitcairn,197,2012ad,average_masked,0.0,232
+Pitcairn,197,2012ad,median_masked,0.0,232
+Pitcairn,197,2012am,average_masked,0.0,232
+Pitcairn,197,2012am,median_masked,0.0,232
+Pitcairn,197,2013,average_masked,0.0,232
+Pitcairn,197,2013,median_masked,0.0,232
+Poland,198,2012ad,average_masked,1.09440476,2358308
+Poland,198,2012ad,median_masked,0.92857302,2358308
+Poland,198,2012am,average_masked,1.35290104,2358308
+Poland,198,2012am,median_masked,1.25063683,2358308
+Poland,198,2013,average_masked,1.25746607,2358308
+Poland,198,2013,median_masked,1.20745982,2358308
+Portugal,199,2012ad,average_masked,2.11776881,537096
+Portugal,199,2012ad,median_masked,2.0567262,537096
+Portugal,199,2012am,average_masked,2.04622854,537096
+Portugal,199,2012am,median_masked,2.00004369,537096
+Portugal,199,2013,average_masked,2.24601378,537096
+Portugal,199,2013,median_masked,2.15743929,537096
+Puerto Rico,200,2012ad,average_masked,4.7332673,44132
+Puerto Rico,200,2012ad,median_masked,4.73866037,44132
+Puerto Rico,200,2012am,average_masked,4.82043263,44132
+Puerto Rico,200,2012am,median_masked,4.78421271,44132
+Puerto Rico,200,2013,average_masked,4.96110685,44132
+Puerto Rico,200,2013,median_masked,4.8475099,44132
+Qatar,201,2012ad,average_masked,11.84910143,59695
+Qatar,201,2012ad,median_masked,10.07007144,59695
+Qatar,201,2012am,average_masked,11.74678957,59695
+Qatar,201,2012am,median_masked,10.14147225,59695
+Qatar,201,2013,average_masked,11.48990713,59695
+Qatar,201,2013,median_masked,10.6720028,59695
+Republic of Korea,202,2012ad,average_masked,3.33462013,572088
+Republic of Korea,202,2012ad,median_masked,3.03392656,572088
+Republic of Korea,202,2012am,average_masked,3.55956443,572088
+Republic of Korea,202,2012am,median_masked,3.21302859,572088
+Republic of Korea,202,2013,average_masked,3.30324852,572088
+Republic of Korea,202,2013,median_masked,3.26631962,572088
+Romania,203,2012ad,average_masked,0.47614169,1588354
+Romania,203,2012ad,median_masked,0.43008771,1588354
+Romania,203,2012am,average_masked,0.50024909,1588354
+Romania,203,2012am,median_masked,0.45529727,1588354
+Romania,203,2013,average_masked,0.4595077,1588354
+Romania,203,2013,median_masked,0.45365306,1588354
+Russian Federation,204,2012ad,average_masked,0.15283425,162871782
+Russian Federation,204,2012ad,median_masked,0.12588759,162871782
+Russian Federation,204,2012am,average_masked,0.17550877,162871782
+Russian Federation,204,2012am,median_masked,0.16499271,162871782
+Russian Federation,204,2013,average_masked,0.16550261,162871782
+Russian Federation,204,2013,median_masked,0.15942543,162871782
+Rwanda,205,2012ad,average_masked,0.06432128,118194
+Rwanda,205,2012ad,median_masked,0.06309642,118194
+Rwanda,205,2012am,average_masked,0.06553277,118194
+Rwanda,205,2012am,median_masked,0.06448176,118194
+Rwanda,205,2013,average_masked,0.08326214,118194
+Rwanda,205,2013,median_masked,0.08063571,118194
+Réunion,206,2012ad,average_masked,1.59672611,12469
+Réunion,206,2012ad,median_masked,1.58784334,12469
+Réunion,206,2012am,average_masked,1.62873563,12469
+Réunion,206,2012am,median_masked,1.61762097,12469
+Réunion,206,2013,average_masked,1.81336829,12469
+Réunion,206,2013,median_masked,1.77269993,12469
+Saint Helena,207,2012ad,average_masked,0.03876598,1959
+Saint Helena,207,2012ad,median_masked,0.03786261,1959
+Saint Helena,207,2012am,average_masked,0.04617158,1959
+Saint Helena,207,2012am,median_masked,0.04413655,1959
+Saint Helena,207,2013,average_masked,0.08355766,1959
+Saint Helena,207,2013,median_masked,0.07589,1959
+Saint Kitts and Nevis,208,2012ad,average_masked,1.83220337,1106
+Saint Kitts and Nevis,208,2012ad,median_masked,1.78693043,1106
+Saint Kitts and Nevis,208,2012am,average_masked,1.90095132,1106
+Saint Kitts and Nevis,208,2012am,median_masked,1.84747835,1106
+Saint Kitts and Nevis,208,2013,average_masked,1.987588,1106
+Saint Kitts and Nevis,208,2013,median_masked,1.92954048,1106
+Saint Lucia,209,2012ad,average_masked,1.6876205,2880
+Saint Lucia,209,2012ad,median_masked,1.68785753,2880
+Saint Lucia,209,2012am,average_masked,1.77219144,2880
+Saint Lucia,209,2012am,median_masked,1.75839231,2880
+Saint Lucia,209,2013,average_masked,1.88005912,2880
+Saint Lucia,209,2013,median_masked,1.84591046,2880
+Saint Pierre et Miquelon,210,2012ad,average_masked,0.3118568,1542
+Saint Pierre et Miquelon,210,2012ad,median_masked,0.31361651,1542
+Saint Pierre et Miquelon,210,2012am,average_masked,0.39254317,1542
+Saint Pierre et Miquelon,210,2012am,median_masked,0.36593804,1542
+Saint Pierre et Miquelon,210,2013,average_masked,0.43153224,1542
+Saint Pierre et Miquelon,210,2013,median_masked,0.42446151,1542
+Saint Vincent and the Grenadines,211,2012ad,average_masked,0.62710896,1989
+Saint Vincent and the Grenadines,211,2012ad,median_masked,0.63500649,1989
+Saint Vincent and the Grenadines,211,2012am,average_masked,0.66419446,1989
+Saint Vincent and the Grenadines,211,2012am,median_masked,0.65824939,1989
+Saint Vincent and the Grenadines,211,2013,average_masked,0.68647988,1989
+Saint Vincent and the Grenadines,211,2013,median_masked,0.66803044,1989
+Samoa,212,2012ad,average_masked,0.03289006,13627
+Samoa,212,2012ad,median_masked,0.03104794,13627
+Samoa,212,2012am,average_masked,0.03287506,13627
+Samoa,212,2012am,median_masked,0.03129573,13627
+Samoa,212,2013,average_masked,0.03521826,13627
+Samoa,212,2013,median_masked,0.03345353,13627
+San Marino,213,2012ad,average_masked,11.22541098,322
+San Marino,213,2012ad,median_masked,10.83825544,322
+San Marino,213,2012am,average_masked,11.84052946,322
+San Marino,213,2012am,median_masked,11.59896437,322
+San Marino,213,2013,average_masked,12.10734066,322
+San Marino,213,2013,median_masked,11.87039741,322
+Sao Tome and Principe,214,2012ad,average_masked,0.11990196,4686
+Sao Tome and Principe,214,2012ad,median_masked,0.11943054,4686
+Sao Tome and Principe,214,2012am,average_masked,0.12971725,4686
+Sao Tome and Principe,214,2012am,median_masked,0.1291183,4686
+Sao Tome and Principe,214,2013,average_masked,0.17988582,4686
+Sao Tome and Principe,214,2013,median_masked,0.17418718,4686
+Saudi Arabia,215,2012ad,average_masked,0.60460005,9867704
+Saudi Arabia,215,2012ad,median_masked,0.57515051,9867704
+Saudi Arabia,215,2012am,average_masked,0.61297882,9867704
+Saudi Arabia,215,2012am,median_masked,0.58153805,9867704
+Saudi Arabia,215,2013,average_masked,0.68327562,9867704
+Saudi Arabia,215,2013,median_masked,0.65244881,9867704
+Scarborough Reef,216,2012ad,average_masked,0.0,175
+Scarborough Reef,216,2012ad,median_masked,0.0,175
+Scarborough Reef,216,2012am,average_masked,0.0,175
+Scarborough Reef,216,2012am,median_masked,0.0,175
+Scarborough Reef,216,2013,average_masked,0.0,175
+Scarborough Reef,216,2013,median_masked,0.0,175
+Senegal,217,2012ad,average_masked,0.03102889,947872
+Senegal,217,2012ad,median_masked,0.02872049,947872
+Senegal,217,2012am,average_masked,0.03237264,947872
+Senegal,217,2012am,median_masked,0.03052265,947872
+Senegal,217,2013,average_masked,0.03440675,947872
+Senegal,217,2013,median_masked,0.03286527,947872
+Senkaku Islands,218,2012ad,average_masked,0.0,18
+Senkaku Islands,218,2012ad,median_masked,0.0,18
+Senkaku Islands,218,2012am,average_masked,0.0,18
+Senkaku Islands,218,2012am,median_masked,0.0,18
+Senkaku Islands,218,2013,average_masked,0.0,18
+Senkaku Islands,218,2013,median_masked,0.0,18
+Seychelles,220,2012ad,average_masked,0.78033596,2055
+Seychelles,220,2012ad,median_masked,0.676545,2055
+Seychelles,220,2012am,average_masked,0.74506996,2055
+Seychelles,220,2012am,median_masked,0.6598408,2055
+Seychelles,220,2013,average_masked,0.68392448,2055
+Seychelles,220,2013,median_masked,0.65158506,2055
+Sierra Leone,221,2012ad,average_masked,0.00697547,342009
+Sierra Leone,221,2012ad,median_masked,0.00544504,342009
+Sierra Leone,221,2012am,average_masked,0.00741861,342009
+Sierra Leone,221,2012am,median_masked,0.00623456,342009
+Sierra Leone,221,2013,average_masked,0.00911098,342009
+Sierra Leone,221,2013,median_masked,0.00819153,342009
+Singapore,222,2012ad,average_masked,41.62930107,2698
+Singapore,222,2012ad,median_masked,41.32813111,2698
+Singapore,222,2012am,average_masked,44.68737951,2698
+Singapore,222,2012am,median_masked,43.97712236,2698
+Singapore,222,2013,average_masked,45.08519045,2698
+Singapore,222,2013,median_masked,44.36311684,2698
+Slovakia,223,2012ad,average_masked,0.62930459,344305
+Slovakia,223,2012ad,median_masked,0.57126577,344305
+Slovakia,223,2012am,average_masked,0.7322477,344305
+Slovakia,223,2012am,median_masked,0.66789742,344305
+Slovakia,223,2013,average_masked,0.71238513,344305
+Slovakia,223,2013,median_masked,0.67446725,344305
+Slovenia,224,2012ad,average_masked,0.78841063,135361
+Slovenia,224,2012ad,median_masked,0.65825348,135361
+Slovenia,224,2012am,average_masked,0.84477654,135361
+Slovenia,224,2012am,median_masked,0.72433552,135361
+Slovenia,224,2013,average_masked,0.73073857,135361
+Slovenia,224,2013,median_masked,0.67484456,135361
+Solomon Islands,225,2012ad,average_masked,0.00495725,132655
+Solomon Islands,225,2012ad,median_masked,0.00437507,132655
+Solomon Islands,225,2012am,average_masked,0.0060316,132655
+Solomon Islands,225,2012am,median_masked,0.00509056,132655
+Solomon Islands,225,2013,average_masked,0.00643978,132655
+Solomon Islands,225,2013,median_masked,0.0059598,132655
+Somalia,226,2012ad,average_masked,0.00101208,2982841
+Somalia,226,2012ad,median_masked,0.00096582,2982841
+Somalia,226,2012am,average_masked,0.00110928,2982841
+Somalia,226,2012am,median_masked,0.00104063,2982841
+Somalia,226,2013,average_masked,0.00138898,2982841
+Somalia,226,2013,median_masked,0.00132157,2982841
+South Africa,227,2012ad,average_masked,0.26332658,6518743
+South Africa,227,2012ad,median_masked,0.25016406,6518743
+South Africa,227,2012am,average_masked,0.26227423,6518743
+South Africa,227,2012am,median_masked,0.24929484,6518743
+South Africa,227,2013,average_masked,0.29386966,6518743
+South Africa,227,2013,median_masked,0.27660267,6518743
+South Georgia and the South Sandwich Islands,228,2012ad,average_masked,0.0,30613
+South Georgia and the South Sandwich Islands,228,2012ad,median_masked,0.0,30613
+South Georgia and the South Sandwich Islands,228,2012am,average_masked,0.0,30613
+South Georgia and the South Sandwich Islands,228,2012am,median_masked,0.0,30613
+South Georgia and the South Sandwich Islands,228,2013,average_masked,0.0,30613
+South Georgia and the South Sandwich Islands,228,2013,median_masked,0.0,30613
+Spain,229,2012ad,average_masked,1.36712482,3086126
+Spain,229,2012ad,median_masked,1.33950093,3086126
+Spain,229,2012am,average_masked,1.34571129,3086126
+Spain,229,2012am,median_masked,1.3196152,3086126
+Spain,229,2013,average_masked,1.42374474,3086126
+Spain,229,2013,median_masked,1.38239494,3086126
+Spratly Islands,230,2012ad,average_masked,0.07146137,12
+Spratly Islands,230,2012ad,median_masked,0.07697889,12
+Spratly Islands,230,2012am,average_masked,0.07032639,12
+Spratly Islands,230,2012am,median_masked,0.07301613,12
+Spratly Islands,230,2013,average_masked,0.06873186,12
+Spratly Islands,230,2013,median_masked,0.06921291,12
+Sri Lanka,231,2012ad,average_masked,0.16073324,312938
+Sri Lanka,231,2012ad,median_masked,0.15382618,312938
+Sri Lanka,231,2012am,average_masked,0.16577184,312938
+Sri Lanka,231,2012am,median_masked,0.15729603,312938
+Sri Lanka,231,2013,average_masked,0.17341973,312938
+Sri Lanka,231,2013,median_masked,0.16387575,312938
+Suriname,233,2012ad,average_masked,0.0351758,679814
+Suriname,233,2012ad,median_masked,0.03323476,679814
+Suriname,233,2012am,average_masked,0.03510787,679814
+Suriname,233,2012am,median_masked,0.03330816,679814
+Suriname,233,2013,average_masked,0.03673122,679814
+Suriname,233,2013,median_masked,0.03538015,679814
+Svalbard and Jan Mayen Islands,234,2012ad,average_masked,0.01664484,8320
+Svalbard and Jan Mayen Islands,234,2012ad,median_masked,0.01717705,8320
+Svalbard and Jan Mayen Islands,234,2012am,average_masked,0.01095285,8320
+Svalbard and Jan Mayen Islands,234,2012am,median_masked,0.0098,8320
+Svalbard and Jan Mayen Islands,234,2013,average_masked,0.00854774,8320
+Svalbard and Jan Mayen Islands,234,2013,median_masked,0.00751865,8320
+Swaziland,235,2012ad,average_masked,0.24863682,89652
+Swaziland,235,2012ad,median_masked,0.19449636,89652
+Swaziland,235,2012am,average_masked,0.2328943,89652
+Swaziland,235,2012am,median_masked,0.19232217,89652
+Swaziland,235,2013,average_masked,0.25104404,89652
+Swaziland,235,2013,median_masked,0.22963897,89652
+Sweden,236,2012ad,average_masked,0.37743609,4555762
+Sweden,236,2012ad,median_masked,0.25051224,4555762
+Sweden,236,2012am,average_masked,0.54313984,4555762
+Sweden,236,2012am,median_masked,0.52090972,4555762
+Sweden,236,2013,average_masked,0.46044083,4555762
+Sweden,236,2013,median_masked,0.46852045,4555762
+Switzerland,237,2012ad,average_masked,1.08807899,278861
+Switzerland,237,2012ad,median_masked,1.00519881,278861
+Switzerland,237,2012am,average_masked,1.24002056,278861
+Switzerland,237,2012am,median_masked,1.12174019,278861
+Switzerland,237,2013,average_masked,1.18012836,278861
+Switzerland,237,2013,median_masked,1.06546478,278861
+Syrian Arab Republic,238,2012ad,average_masked,0.57693295,1070545
+Syrian Arab Republic,238,2012ad,median_masked,0.52966681,1070545
+Syrian Arab Republic,238,2012am,average_masked,0.48691811,1070545
+Syrian Arab Republic,238,2012am,median_masked,0.44456448,1070545
+Syrian Arab Republic,238,2013,average_masked,0.32592293,1070545
+Syrian Arab Republic,238,2013,median_masked,0.29343139,1070545
+Tajikistan,239,2012ad,average_masked,0.08092988,842185
+Tajikistan,239,2012ad,median_masked,0.07238105,842185
+Tajikistan,239,2012am,average_masked,0.06696281,842185
+Tajikistan,239,2012am,median_masked,0.05746949,842185
+Tajikistan,239,2013,average_masked,0.09628834,842185
+Tajikistan,239,2013,median_masked,0.09015608,842185
+Thailand,240,2012ad,average_masked,0.46638898,2500239
+Thailand,240,2012ad,median_masked,0.4586474,2500239
+Thailand,240,2012am,average_masked,0.48554856,2500239
+Thailand,240,2012am,median_masked,0.4682335,2500239
+Thailand,240,2013,average_masked,0.51808713,2500239
+Thailand,240,2013,median_masked,0.50002451,2500239
+The former Yugoslav Republic of Macedonia,241,2012ad,average_masked,0.56534001,157444
+The former Yugoslav Republic of Macedonia,241,2012ad,median_masked,0.5119581,157444
+The former Yugoslav Republic of Macedonia,241,2012am,average_masked,0.5373196,157444
+The former Yugoslav Republic of Macedonia,241,2012am,median_masked,0.48201545,157444
+The former Yugoslav Republic of Macedonia,241,2013,average_masked,0.56943422,157444
+The former Yugoslav Republic of Macedonia,241,2013,median_masked,0.5090209,157444
+Timor-Leste,242,2012ad,average_masked,0.06721219,70444
+Timor-Leste,242,2012ad,median_masked,0.06344553,70444
+Timor-Leste,242,2012am,average_masked,0.06772537,70444
+Timor-Leste,242,2012am,median_masked,0.0645941,70444
+Timor-Leste,242,2013,average_masked,0.08450904,70444
+Timor-Leste,242,2013,median_masked,0.07871443,70444
+Togo,243,2012ad,average_masked,0.03665257,267893
+Togo,243,2012ad,median_masked,0.03487013,267893
+Togo,243,2012am,average_masked,0.0354076,267893
+Togo,243,2012am,median_masked,0.03445229,267893
+Togo,243,2013,average_masked,0.04494883,267893
+Togo,243,2013,median_masked,0.0414121,267893
+Tokelau,244,2012ad,average_masked,0.00187251,124
+Tokelau,244,2012ad,median_masked,0.00237094,124
+Tokelau,244,2012am,average_masked,0.00187251,124
+Tokelau,244,2012am,median_masked,0.00237094,124
+Tokelau,244,2013,average_masked,0.0,124
+Tokelau,244,2013,median_masked,0.0,124
+Tonga,245,2012ad,average_masked,0.2331277,3256
+Tonga,245,2012ad,median_masked,0.21957487,3256
+Tonga,245,2012am,average_masked,0.24628434,3256
+Tonga,245,2012am,median_masked,0.23383536,3256
+Tonga,245,2013,average_masked,0.28028883,3256
+Tonga,245,2013,median_masked,0.26490145,3256
+Trinidad and Tobago,246,2012ad,average_masked,6.41051007,24618
+Trinidad and Tobago,246,2012ad,median_masked,6.17947431,24618
+Trinidad and Tobago,246,2012am,average_masked,6.38864792,24618
+Trinidad and Tobago,246,2012am,median_masked,6.17297585,24618
+Trinidad and Tobago,246,2013,average_masked,6.83117879,24618
+Trinidad and Tobago,246,2013,median_masked,6.53839261,24618
+Tromelin Island,247,2012ad,average_masked,0.0,3
+Tromelin Island,247,2012ad,median_masked,0.0,3
+Tromelin Island,247,2012am,average_masked,0.0,3
+Tromelin Island,247,2012am,median_masked,0.0,3
+Tromelin Island,247,2013,average_masked,0.0,3
+Tromelin Island,247,2013,median_masked,0.0,3
+Tunisia,248,2012ad,average_masked,0.44412331,874524
+Tunisia,248,2012ad,median_masked,0.4215009,874524
+Tunisia,248,2012am,average_masked,0.43602053,874524
+Tunisia,248,2012am,median_masked,0.41487766,874524
+Tunisia,248,2013,average_masked,0.46753318,874524
+Tunisia,248,2013,median_masked,0.44310245,874524
+Turkey,249,2012ad,average_masked,0.64555324,4686001
+Turkey,249,2012ad,median_masked,0.62230011,4686001
+Turkey,249,2012am,average_masked,0.66420037,4686001
+Turkey,249,2012am,median_masked,0.62888991,4686001
+Turkey,249,2013,average_masked,0.76218386,4686001
+Turkey,249,2013,median_masked,0.7317406,4686001
+Turkmenistan,250,2012ad,average_masked,0.34639813,3333720
+Turkmenistan,250,2012ad,median_masked,0.31041793,3333720
+Turkmenistan,250,2012am,average_masked,0.31540728,3333720
+Turkmenistan,250,2012am,median_masked,0.28362243,3333720
+Turkmenistan,250,2013,average_masked,0.31471463,3333720
+Turkmenistan,250,2013,median_masked,0.28291386,3333720
+Turks and Caicos islands,251,2012ad,average_masked,1.03774993,2656
+Turks and Caicos islands,251,2012ad,median_masked,1.01768093,2656
+Turks and Caicos islands,251,2012am,average_masked,1.0956298,2656
+Turks and Caicos islands,251,2012am,median_masked,1.06323321,2656
+Turks and Caicos islands,251,2013,average_masked,1.17254334,2656
+Turks and Caicos islands,251,2013,median_masked,1.15693184,2656
+Tuvalu,252,2012ad,average_masked,0.04725198,246
+Tuvalu,252,2012ad,median_masked,0.04845117,246
+Tuvalu,252,2012am,average_masked,0.0505351,246
+Tuvalu,252,2012am,median_masked,0.04712071,246
+Tuvalu,252,2013,average_masked,0.06639031,246
+Tuvalu,252,2013,median_masked,0.06073329,246
+Uganda,253,2012ad,average_masked,0.0230988,1128829
+Uganda,253,2012ad,median_masked,0.01950143,1128829
+Uganda,253,2012am,average_masked,0.02162053,1128829
+Uganda,253,2012am,median_masked,0.01876202,1128829
+Uganda,253,2013,average_masked,0.0216393,1128829
+Uganda,253,2013,median_masked,0.01912794,1128829
+Ukraine,254,2012ad,average_masked,0.28714562,4252732
+Ukraine,254,2012ad,median_masked,0.25849524,4252732
+Ukraine,254,2012am,average_masked,0.30659722,4252732
+Ukraine,254,2012am,median_masked,0.28386013,4252732
+Ukraine,254,2013,average_masked,0.31294161,4252732
+Ukraine,254,2013,median_masked,0.28610897,4252732
+United Arab Emirates,255,2012ad,average_masked,3.65690049,363627
+United Arab Emirates,255,2012ad,median_masked,3.54828673,363627
+United Arab Emirates,255,2012am,average_masked,3.78021426,363627
+United Arab Emirates,255,2012am,median_masked,3.64088673,363627
+United Arab Emirates,255,2013,average_masked,4.15035781,363627
+United Arab Emirates,255,2013,median_masked,4.02579138,363627
+U.K. of Great Britain and Northern Ireland,256,2012ad,average_masked,1.75143082,1938307
+U.K. of Great Britain and Northern Ireland,256,2012ad,median_masked,1.72572197,1938307
+U.K. of Great Britain and Northern Ireland,256,2012am,average_masked,1.84826986,1938307
+U.K. of Great Britain and Northern Ireland,256,2012am,median_masked,1.78879539,1938307
+U.K. of Great Britain and Northern Ireland,256,2013,average_masked,1.84014775,1938307
+U.K. of Great Britain and Northern Ireland,256,2013,median_masked,1.79497738,1938307
+United Republic of Tanzania,257,2012ad,average_masked,0.01085848,4426425
+United Republic of Tanzania,257,2012ad,median_masked,0.01048672,4426425
+United Republic of Tanzania,257,2012am,average_masked,0.01095856,4426425
+United Republic of Tanzania,257,2012am,median_masked,0.01060369,4426425
+United Republic of Tanzania,257,2013,average_masked,0.01258302,4426425
+United Republic of Tanzania,257,2013,median_masked,0.0120207,4426425
+United States Virgin Islands,258,2012ad,average_masked,5.67221179,1754
+United States Virgin Islands,258,2012ad,median_masked,5.6295672,1754
+United States Virgin Islands,258,2012am,average_masked,5.89752566,1754
+United States Virgin Islands,258,2012am,median_masked,5.78545858,1754
+United States Virgin Islands,258,2013,average_masked,6.2946654,1754
+United States Virgin Islands,258,2013,median_masked,6.17261562,1754
+United States of America,259,2012ad,average_masked,0.68267747,63326771
+United States of America,259,2012ad,median_masked,0.65470969,63326771
+United States of America,259,2012am,average_masked,0.73317269,63326771
+United States of America,259,2012am,median_masked,0.69007531,63326771
+United States of America,259,2013,average_masked,0.76744533,63326771
+United States of America,259,2013,median_masked,0.73060521,63326771
+Uruguay,260,2012ad,average_masked,0.18754542,986420
+Uruguay,260,2012ad,median_masked,0.1848422,986420
+Uruguay,260,2012am,average_masked,0.19665475,986420
+Uruguay,260,2012am,median_masked,0.19074371,986420
+Uruguay,260,2013,average_masked,0.22764627,986420
+Uruguay,260,2013,median_masked,0.22395421,986420
+Uzbekistan,261,2012ad,average_masked,0.32167384,2801343
+Uzbekistan,261,2012ad,median_masked,0.29117286,2801343
+Uzbekistan,261,2012am,average_masked,0.28263953,2801343
+Uzbekistan,261,2012am,median_masked,0.24761646,2801343
+Uzbekistan,261,2013,average_masked,0.26233648,2801343
+Uzbekistan,261,2013,median_masked,0.22464736,2801343
+Vanuatu,262,2012ad,average_masked,0.11204111,58331
+Vanuatu,262,2012ad,median_masked,0.07876654,58331
+Vanuatu,262,2012am,average_masked,0.1200949,58331
+Vanuatu,262,2012am,median_masked,0.07595809,58331
+Vanuatu,262,2013,average_masked,0.20580913,58331
+Vanuatu,262,2013,median_masked,0.12359819,58331
+Venezuela,263,2012ad,average_masked,0.84054364,4303572
+Venezuela,263,2012ad,median_masked,0.7200519,4303572
+Venezuela,263,2012am,average_masked,0.89913181,4303572
+Venezuela,263,2012am,median_masked,0.76317864,4303572
+Venezuela,263,2013,average_masked,1.09070459,4303572
+Venezuela,263,2013,median_masked,0.9517317,4303572
+Viet Nam,264,2012ad,average_masked,0.68303977,1604117
+Viet Nam,264,2012ad,median_masked,0.63077878,1604117
+Viet Nam,264,2012am,average_masked,0.74774096,1604117
+Viet Nam,264,2012am,median_masked,0.71533083,1604117
+Viet Nam,264,2013,average_masked,0.77602932,1604117
+Viet Nam,264,2013,median_masked,0.7511708,1604117
+Wake Island,265,2012ad,average_masked,0.25178654,30
+Wake Island,265,2012ad,median_masked,0.25165241,30
+Wake Island,265,2012am,average_masked,0.23292555,30
+Wake Island,265,2012am,median_masked,0.20259565,30
+Wake Island,265,2013,average_masked,0.26511473,30
+Wake Island,265,2013,median_masked,0.20453721,30
+Wallis and Futuna,266,2012ad,average_masked,0.05046485,635
+Wallis and Futuna,266,2012ad,median_masked,0.04807489,635
+Wallis and Futuna,266,2012am,average_masked,0.05468976,635
+Wallis and Futuna,266,2012am,median_masked,0.05175012,635
+Wallis and Futuna,266,2013,average_masked,0.06714319,635
+Wallis and Futuna,266,2013,median_masked,0.06478259,635
+West Bank,267,2012ad,average_masked,4.45460279,31811
+West Bank,267,2012ad,median_masked,4.37777282,31811
+West Bank,267,2012am,average_masked,4.46904067,31811
+West Bank,267,2012am,median_masked,4.38788443,31811
+West Bank,267,2013,average_masked,4.84985978,31811
+West Bank,267,2013,median_masked,4.75548433,31811
+Western Sahara,268,2012ad,average_masked,0.01259474,1383513
+Western Sahara,268,2012ad,median_masked,0.01210406,1383513
+Western Sahara,268,2012am,average_masked,0.01326851,1383513
+Western Sahara,268,2012am,median_masked,0.01286937,1383513
+Western Sahara,268,2013,average_masked,0.01395372,1383513
+Western Sahara,268,2013,median_masked,0.01400192,1383513
+Yemen,269,2012ad,average_masked,0.17866836,2205473
+Yemen,269,2012ad,median_masked,0.15705921,2205473
+Yemen,269,2012am,average_masked,0.18819429,2205473
+Yemen,269,2012am,median_masked,0.17030138,2205473
+Yemen,269,2013,average_masked,0.17719113,2205473
+Yemen,269,2013,median_masked,0.1623945,2205473
+Zambia,270,2012ad,average_masked,0.02972604,3611730
+Zambia,270,2012ad,median_masked,0.02860863,3611730
+Zambia,270,2012am,average_masked,0.0293973,3611730
+Zambia,270,2012am,median_masked,0.02829638,3611730
+Zambia,270,2013,average_masked,0.03284452,3611730
+Zambia,270,2013,median_masked,0.03158833,3611730
+Zimbabwe,271,2012ad,average_masked,0.03345933,1929172
+Zimbabwe,271,2012ad,median_masked,0.03124267,1929172
+Zimbabwe,271,2012am,average_masked,0.0327337,1929172
+Zimbabwe,271,2012am,median_masked,0.03063543,1929172
+Zimbabwe,271,2013,average_masked,0.0339874,1929172
+Zimbabwe,271,2013,median_masked,0.03187336,1929172
+Montenegro,2647,2012ad,average_masked,0.55197676,86721
+Montenegro,2647,2012ad,median_masked,0.4993352,86721
+Montenegro,2647,2012am,average_masked,0.55200522,86721
+Montenegro,2647,2012am,median_masked,0.49939305,86721
+Montenegro,2647,2013,average_masked,0.52692185,86721
+Montenegro,2647,2013,median_masked,0.50176519,86721
+Serbia,2648,2012ad,average_masked,0.99864109,571358
+Serbia,2648,2012ad,median_masked,0.87437689,571358
+Serbia,2648,2012am,average_masked,0.96710449,571358
+Serbia,2648,2012am,median_masked,0.86185168,571358
+Serbia,2648,2013,average_masked,0.94556431,571358
+Serbia,2648,2013,median_masked,0.91383859,571358
+Hong Kong,33364,2012ad,average_masked,14.41805461,5387
+Hong Kong,33364,2012ad,median_masked,13.30336717,5387
+Hong Kong,33364,2012am,average_masked,15.7477361,5387
+Hong Kong,33364,2012am,median_masked,14.90706037,5387
+Hong Kong,33364,2013,average_masked,17.08412298,5387
+Hong Kong,33364,2013,median_masked,16.94936174,5387
+Hala'ib triangle,40760,2012ad,average_masked,0.00419699,89705
+Hala'ib triangle,40760,2012ad,median_masked,0.00426772,89705
+Hala'ib triangle,40760,2012am,average_masked,0.00442257,89705
+Hala'ib triangle,40760,2012am,median_masked,0.00440896,89705
+Hala'ib triangle,40760,2013,average_masked,0.00522122,89705
+Hala'ib triangle,40760,2013,median_masked,0.00504417,89705
+Ma'tan al-Sarra,40762,2012ad,average_masked,0.0,10007
+Ma'tan al-Sarra,40762,2012ad,median_masked,0.0,10007
+Ma'tan al-Sarra,40762,2012am,average_masked,0.0,10007
+Ma'tan al-Sarra,40762,2012am,median_masked,0.0,10007
+Ma'tan al-Sarra,40762,2013,average_masked,0.0,10007
+Ma'tan al-Sarra,40762,2013,median_masked,0.0,10007
+Egypt,40765,2012ad,average_masked,0.6786961,5131914
+Egypt,40765,2012ad,median_masked,0.66445178,5131914
+Egypt,40765,2012am,average_masked,0.67295444,5131914
+Egypt,40765,2012am,median_masked,0.65704898,5131914
+Egypt,40765,2013,average_masked,0.67411405,5131914
+Egypt,40765,2013,median_masked,0.65500635,5131914
+Jammu and Kashmir,40781,2012ad,average_masked,0.13423158,1050464
+Jammu and Kashmir,40781,2012ad,median_masked,0.11867028,1050464
+Jammu and Kashmir,40781,2012am,average_masked,0.13392778,1050464
+Jammu and Kashmir,40781,2012am,median_masked,0.12378084,1050464
+Jammu and Kashmir,40781,2013,average_masked,0.14297579,1050464
+Jammu and Kashmir,40781,2013,median_masked,0.13097663,1050464
+Ilemi triangle,61013,2012ad,average_masked,0.0,14936
+Ilemi triangle,61013,2012ad,median_masked,0.0,14936
+Ilemi triangle,61013,2012am,average_masked,0.0,14936
+Ilemi triangle,61013,2012am,median_masked,0.0,14936
+Ilemi triangle,61013,2013,average_masked,0.0,14936
+Ilemi triangle,61013,2013,median_masked,0.0,14936
+Azores Islands,74578,2012ad,average_masked,1.10986355,13327
+Azores Islands,74578,2012ad,median_masked,1.10508065,13327
+Azores Islands,74578,2012am,average_masked,1.08908922,13327
+Azores Islands,74578,2012am,median_masked,1.07242091,13327
+Azores Islands,74578,2013,average_masked,1.1037482,13327
+Azores Islands,74578,2013,median_masked,1.06901474,13327
+China,147295,2012ad,average_masked,0.27861557,54620026
+China,147295,2012ad,median_masked,0.2587744,54620026
+China,147295,2012am,average_masked,0.27886156,54620026
+China,147295,2012am,median_masked,0.25946642,54620026
+China,147295,2013,average_masked,0.30211108,54620026
+China,147295,2013,median_masked,0.28194349,54620026
+Taiwan,147296,2012ad,average_masked,3.92234239,184262
+Taiwan,147296,2012ad,median_masked,3.80326714,184262
+Taiwan,147296,2012am,average_masked,3.86929357,184262
+Taiwan,147296,2012am,median_masked,3.77732212,184262
+Taiwan,147296,2013,average_masked,4.07866271,184262
+Taiwan,147296,2013,median_masked,3.98949451,184262
