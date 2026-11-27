@@ -5,14 +5,14 @@ type: software
 authors:
   - family-names: Vaidya
     given-names: Abhijit
-    affiliation: "Independent researcher, Pune, India"
+    affiliation: "Independent researcher"
     email: abhijit@abhijitvaidya.in
     orcid: "https://orcid.org/0009-0000-1690-5224"
 version: "1.0.0"
 doi: 10.5281/zenodo.24581893
 repository-code: "https://github.com/abhijitvaidya/nighttime-lights-satellite-era-bands"
 url: "https://doi.org/10.5281/zenodo.24581893"
-date-released: "2026-11-23"
+date-released: "2026-11-27"
 license: MIT
 keywords: [nighttime lights, VIIRS, DMSP, background masking, GDP measurement]
 preferred-citation:
